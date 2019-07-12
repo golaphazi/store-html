@@ -1,0 +1,23 @@
+<?xml version='1.0'?> 
+<firstnamedb> 
+	<firstname name='Akshat'> 
+		<symbol>AK</symbol> 
+		<code>A</code> 
+	</firstname> 
+	<firstname name='Sanjay'> 
+		<symbol>SA</symbol> 
+		<code>B</code> 
+	</firstname> 
+	<firstname name='Parvez'> 
+		<symbol>PA</symbol> 
+		<code>C</code> 
+	</firstname> 
+	<lastname name='Mia'> 
+		<symbol>MIa</symbol> 
+		<code>d</code> 
+	</lastname> 
+	<lastname name='Miaa'> 
+		<symbol>MIaa</symbol> 
+		<code>ds</code> 
+	</lastname> 
+</firstnamedb> 
