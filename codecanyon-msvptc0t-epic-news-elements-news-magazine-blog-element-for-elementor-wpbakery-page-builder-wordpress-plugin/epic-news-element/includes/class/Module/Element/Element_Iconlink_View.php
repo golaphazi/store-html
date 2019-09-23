@@ -1,0 +1,32 @@
+<?php
+/**
+ * @author : Jegtheme
+ */
+namespace EPIC\Module\Element;
+
+use EPIC\Module\ModuleViewAbstract;
+
+Class Element_Iconlink_View extends ModuleViewAbstract
+{
+    public function render_module($attr, $column_class)
+    {
+        $newtab = ($attr['newtab']) ? "target=\"_blank\"" : "" ;
+        $icon_tag = epic_header_icon($attr['icon']);
+
+        $output =
+            "<div {$this->element_id($attr)} class=\"jeg_iconlink {$column_class} {$this->unique_id} {$this->get_vc_class_name()} {$this->color_scheme()} {$attr['el_class']}\">                
+                <a class=\"jeg_block_icon_link\" href=\"{$attr['title_url']}\" {$newtab}>
+                    {$icon_tag}
+                </a>
+                <div class=\"jeg_block_icon_desc\">
+                    <a class=\"jeg_block_icon_title\" href=\"{$attr['title_url']}\" {$newtab}><h3>{$attr['title']}</h3></a>
+                    <a class=\"jeg_block_icon_desc_span\" href=\"{$attr['title_url']}\" {$newtab}><span>{$attr['subtitle']}</span></a>
+                </div>
+            </div>";
+
+        return $output;
+    }
+
+    public function render_column_alt($result, $column_class) {}
+    public function render_column($result, $column_class) {}
+}

@@ -1,0 +1,21 @@
+/* Product Button styles */
+
+.add_to_cart_button {
+    &.button {
+        float: none;
+        display: inline-block;
+        background-color: transparent;
+        color: #848494;
+        padding: 5px 12px;
+        border: 3px double #e4e4e4;
+        font-size: 12px;
+        line-height: 1.5;
+        border-radius: 0;
+        text-transform: none;
+        &:hover {
+            background-color: transparent;
+            color: #13aff0;
+            border-color: #13aff0;
+        }
+    }
+}

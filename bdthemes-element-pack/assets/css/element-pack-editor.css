@@ -1,0 +1,15 @@
+#elementor-panel-category-element-pack .elementor-element:hover .icon,
+#elementor-panel-category-element-pack .elementor-element:hover .title {
+  color: #14ABF4;
+}
+.elementor-element .icon {
+  position: relative;
+}
+.elementor-element .icon .bdt-widget-icon:after {
+  content: 'EP';
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  font-size: 10px;
+  opacity: 0.4;
+}

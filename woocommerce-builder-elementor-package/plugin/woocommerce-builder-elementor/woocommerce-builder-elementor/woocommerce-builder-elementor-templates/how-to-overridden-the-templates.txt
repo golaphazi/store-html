@@ -1,0 +1,11 @@
+/**
+ * the templates for displaying WooCommerce Page Builder template by DanwThemes
+ *
+ * The templates can be overridden by copying this folder to yourtheme/woocommerce-page-builder-templates
+ */
+
+ ==========
+
+ Need support, create a topin on our support forums: http://dawnthemes.com/support/
+
+ ==========

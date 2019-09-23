@@ -1,0 +1,35 @@
+Ver 1.1.4 - 08 July 19
+  - Fixed Condition product
+  - Added Archive products widget style customization
+  - Added Related products widget style customization
+  - Added Upsells products widget style customization
+  - Added Cross-sells products widget style customization
+
+Ver 1.1.3 - 02 June 19
+  - Minor bug fixes
+
+Ver 1.1.2 - 19 April 19
+  - Added My Account Login page builder
+  - Improvements and bug fixes
+
+Ver 1.1.1
+  - Improved preview mode in Cart builder
+  - Improved preview mode in Checkout builder
+  - Compatible with WooCommerce Memberships by WooCommerce
+  - Compatible with WooCommerce Subscriptions by WooCommerce
+  - Compatible with WooCommerce Germanized
+  - Compatible with YITH WooCommerce Compare, YITH WooCommerce Wishlist
+
+Ver 1.1.0
+  - Added Customize Thank You page
+		- Thank You Order
+		- Order Details
+		- Order Customer Details
+  - Added Style Options for the widgets of the Cart Page
+  - Added Style Options for the widgets of the Checkout Page
+  - Added Style Options for the widgets of the My Account Page
+  - Added Style Options for the widget Product Content
+  - Fixed Condition on Product Archive
+
+Ver 1.0.0
+  - Initial Release

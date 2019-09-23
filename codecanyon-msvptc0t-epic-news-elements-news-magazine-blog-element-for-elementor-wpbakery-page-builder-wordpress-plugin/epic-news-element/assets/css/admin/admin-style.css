@@ -1,0 +1,100 @@
+#adminmenu #toplevel_page_epic .wp-menu-image:before {
+    background: url(../../img/admin/dashboard.png) 50% no-repeat;
+}
+/* Retina version*/
+@media only screen and (-webkit-min-device-pixel-ratio:2), only screen and (min-device-pixel-ratio:2) {
+    #adminmenu #toplevel_page_epic .wp-menu-image:before {
+        background-image: url(../../img/admin/dashboard@2x.png) !important;
+        background-size: 20px !important;
+    }
+}
+
+#adminmenu #toplevel_page_epic .wp-menu-image:before,
+#adminmenu #menu-posts-custom-post-template .wp-menu-image:before,
+#adminmenu #menu-posts-archive-template .wp-menu-image:before {
+    content: '';
+    opacity: .6;
+}
+
+#adminmenu #toplevel_page_epic.menu-top:hover .wp-menu-image:before,
+#adminmenu #toplevel_page_epic.wp-has-current-submenu .wp-menu-image:before,
+#adminmenu #menu-posts-custom-post-template.menu-top:hover .wp-menu-image:before,
+#adminmenu #menu-posts-custom-post-template.wp-has-current-submenu .wp-menu-image:before,
+#adminmenu #menu-posts-archive-template.menu-top:hover .wp-menu-image:before,
+#adminmenu #menu-posts-archive-template.wp-has-current-submenu .wp-menu-image:before {
+    opacity: 1 !important;
+}
+
+#adminmenu #menu-posts-custom-post-template .wp-menu-image:before,
+#adminmenu #menu-posts-archive-template .wp-menu-image:before {
+    background: url(../../img/admin/menu-post-custom.png) 50% no-repeat;
+}
+@media only screen and (-webkit-min-device-pixel-ratio:2), only screen and (min-device-pixel-ratio:2) {
+    #adminmenu #menu-posts-custom-post-template .wp-menu-image:before,
+    #adminmenu #menu-posts-archive-template .wp-menu-image:before {
+        background-image: url(../../img/admin/menu-post-custom@2x.png) !important;
+        background-size: 16px !important;
+    }
+}
+.post-type-custom-post-template #edit-slug-box,
+.post-type-archive-template #edit-slug-box {
+    display: none;
+}
+
+/* override category setting */
+#edittag .override-category-setting,
+#your-profile .override-author-setting,
+#edittag .override-tag-setting {
+    max-width: 750px;
+    background: #fff;
+}
+#edittag .override-category-setting > .jeg_accordion_heading,
+#your-profile .override-author-setting > .jeg_accordion_heading,
+#edittag .override-tag-setting > .jeg_accordion_heading {
+    background-color: #fff;
+    color: #212121;
+    line-height: 40px;
+}
+#edittag .override-category-setting > .jeg_accordion_heading span,
+#your-profile .override-author-setting > .jeg_accordion_heading span,
+#edittag .override-tag-setting > .jeg_accordion_heading span {
+    font-size: 14px;
+    font-weight: 600;
+}
+#edittag .override-category-setting > .jeg_accordion_heading > .jeg_accordion_button,
+#your-profile .override-author-setting > .jeg_accordion_heading > .jeg_accordion_button,
+#edittag .override-tag-setting > .jeg_accordion_heading > .jeg_accordion_button {
+    width: 40px;
+    line-height: 40px;
+}
+
+/* Post Template */
+.vc_post_template {
+    width: 100%;
+    padding: 15px 30px 25px;
+
+}
+.vc_templates-template-type-post_template {
+    margin-bottom: 30px;
+}
+.epic_template_vc_item {
+    box-shadow: 0 5px 15px rgba(51, 51, 51, 0.15);
+    border-radius: 5px;
+    overflow: hidden;
+}
+.vc_post_template .vc_templates-template-type-post_template .vc_ui-list-bar-item {
+    border: 0;
+}
+.vc_post_template h3 {
+    margin: 0 !important;
+    font-weight: bold;
+}
+.epic_template_vc_item > img {
+    max-width: 100%;
+    cursor: pointer;
+}
+
+/* iconpicker */
+body.post-php .popover{
+    z-index:99999999;
+}

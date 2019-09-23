@@ -1,0 +1,427 @@
+.editor-block-list-item-epic-gutenberg-element-embedplaylist .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-element-videoplaylist .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-element-newsticker .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-element-header .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-element-ads .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-element-blocklink .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-carousel-1 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-carousel-2 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-carousel-3 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-1 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-2 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-3 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-4 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-5 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-6 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-7 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-8 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-9 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-10 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-11 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-12 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-13 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-14 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-15 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-16 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-17 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-18 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-19 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-20 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-21 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-22 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-23 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-24 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-25 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-26 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-27 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-28 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-29 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-30 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-31 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-32 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-33 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-34 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-35 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-36 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-37 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-block-38 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-hero-1 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-hero-2 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-hero-3 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-hero-4 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-hero-5 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-hero-6 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-hero-7 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-hero-8 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-hero-9 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-hero-10 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-hero-11 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-hero-12 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-hero-13 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-hero-14 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-hero-skew .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-slider-1 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-slider-2 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-slider-3 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-slider-4 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-slider-5 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-slider-6 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-slider-7 .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-slider-8 .editor-block-types-list__item-icon {
+    color:transparent;
+    background-image: url(../../img/admin/vc/vc_sprites.png) !important;
+    background-repeat: no-repeat;
+    background-size: auto !important;
+    width: 60px !important;
+    height: 45px !important;
+    margin: 0 auto;
+}
+.editor-block-list-item-epic-gutenberg-element-embedplaylist svg,
+.editor-block-list-item-epic-gutenberg-element-videoplaylist svg,
+.editor-block-list-item-epic-gutenberg-element-newsticker svg,
+.editor-block-list-item-epic-gutenberg-element-header svg,
+.editor-block-list-item-epic-gutenberg-element-ads svg,
+.editor-block-list-item-epic-gutenberg-element-blocklink svg,
+.editor-block-list-item-epic-gutenberg-carousel-1 svg,
+.editor-block-list-item-epic-gutenberg-carousel-2 svg,
+.editor-block-list-item-epic-gutenberg-carousel-3 svg,
+.editor-block-list-item-epic-gutenberg-block-1 svg,
+.editor-block-list-item-epic-gutenberg-block-2 svg,
+.editor-block-list-item-epic-gutenberg-block-3 svg,
+.editor-block-list-item-epic-gutenberg-block-4 svg,
+.editor-block-list-item-epic-gutenberg-block-5 svg,
+.editor-block-list-item-epic-gutenberg-block-6 svg,
+.editor-block-list-item-epic-gutenberg-block-7 svg,
+.editor-block-list-item-epic-gutenberg-block-8 svg,
+.editor-block-list-item-epic-gutenberg-block-9 svg,
+.editor-block-list-item-epic-gutenberg-block-10 svg,
+.editor-block-list-item-epic-gutenberg-block-11 svg,
+.editor-block-list-item-epic-gutenberg-block-12 svg,
+.editor-block-list-item-epic-gutenberg-block-13 svg,
+.editor-block-list-item-epic-gutenberg-block-14 svg,
+.editor-block-list-item-epic-gutenberg-block-15 svg,
+.editor-block-list-item-epic-gutenberg-block-16 svg,
+.editor-block-list-item-epic-gutenberg-block-17 svg,
+.editor-block-list-item-epic-gutenberg-block-18 svg,
+.editor-block-list-item-epic-gutenberg-block-19 svg,
+.editor-block-list-item-epic-gutenberg-block-20 svg,
+.editor-block-list-item-epic-gutenberg-block-21 svg,
+.editor-block-list-item-epic-gutenberg-block-22 svg,
+.editor-block-list-item-epic-gutenberg-block-23 svg,
+.editor-block-list-item-epic-gutenberg-block-24 svg,
+.editor-block-list-item-epic-gutenberg-block-25 svg,
+.editor-block-list-item-epic-gutenberg-block-26 svg,
+.editor-block-list-item-epic-gutenberg-block-27 svg,
+.editor-block-list-item-epic-gutenberg-block-28 svg,
+.editor-block-list-item-epic-gutenberg-block-29 svg,
+.editor-block-list-item-epic-gutenberg-block-30 svg,
+.editor-block-list-item-epic-gutenberg-block-31 svg,
+.editor-block-list-item-epic-gutenberg-block-32 svg,
+.editor-block-list-item-epic-gutenberg-block-33 svg,
+.editor-block-list-item-epic-gutenberg-block-34 svg,
+.editor-block-list-item-epic-gutenberg-block-35 svg,
+.editor-block-list-item-epic-gutenberg-block-36 svg,
+.editor-block-list-item-epic-gutenberg-block-37 svg,
+.editor-block-list-item-epic-gutenberg-block-38 svg,
+.editor-block-list-item-epic-gutenberg-hero-1 svg,
+.editor-block-list-item-epic-gutenberg-hero-2 svg,
+.editor-block-list-item-epic-gutenberg-hero-3 svg,
+.editor-block-list-item-epic-gutenberg-hero-4 svg,
+.editor-block-list-item-epic-gutenberg-hero-5 svg,
+.editor-block-list-item-epic-gutenberg-hero-6 svg,
+.editor-block-list-item-epic-gutenberg-hero-7 svg,
+.editor-block-list-item-epic-gutenberg-hero-8 svg,
+.editor-block-list-item-epic-gutenberg-hero-9 svg,
+.editor-block-list-item-epic-gutenberg-hero-10 svg,
+.editor-block-list-item-epic-gutenberg-hero-11 svg,
+.editor-block-list-item-epic-gutenberg-hero-12 svg,
+.editor-block-list-item-epic-gutenberg-hero-13 svg,
+.editor-block-list-item-epic-gutenberg-hero-14 svg,
+.editor-block-list-item-epic-gutenberg-hero-skew svg,
+.editor-block-list-item-epic-gutenberg-slider-1 svg,
+.editor-block-list-item-epic-gutenberg-slider-2 svg,
+.editor-block-list-item-epic-gutenberg-slider-3 svg,
+.editor-block-list-item-epic-gutenberg-slider-4 svg,
+.editor-block-list-item-epic-gutenberg-slider-5 svg,
+.editor-block-list-item-epic-gutenberg-slider-6 svg,
+.editor-block-list-item-epic-gutenberg-slider-7 svg,
+.editor-block-list-item-epic-gutenberg-slider-8 svg {
+    display:none;
+}
+.editor-block-list-item-epic-gutenberg-carousel-1 .editor-block-types-list__item-icon {
+    background-position: 0 -945px !important;
+}
+.editor-block-list-item-epic-gutenberg-carousel-2 .editor-block-types-list__item-icon {
+    background-position: 0 -990px !important;
+}
+.editor-block-list-item-epic-gutenberg-carousel-3 .editor-block-types-list__item-icon {
+    background-position: -60px -1215px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-1 .editor-block-types-list__item-icon {
+    background-position: -60px 0 !important;
+}
+.editor-block-list-item-epic-gutenberg-block-2 .editor-block-types-list__item-icon {
+    background-position: -60px -45px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-3 .editor-block-types-list__item-icon {
+    background-position: -60px -90px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-4 .editor-block-types-list__item-icon {
+    background-position: -60px -135px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-5 .editor-block-types-list__item-icon {
+    background-position: -60px -180px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-6 .editor-block-types-list__item-icon {
+    background-position: -60px -225px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-7 .editor-block-types-list__item-icon {
+    background-position: -60px -270px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-8 .editor-block-types-list__item-icon {
+    background-position: -60px -315px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-9 .editor-block-types-list__item-icon {
+    background-position: -60px -360px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-10 .editor-block-types-list__item-icon {
+    background-position: -60px -405px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-11 .editor-block-types-list__item-icon {
+    background-position: -60px -450px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-12 .editor-block-types-list__item-icon {
+    background-position: -60px -495px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-13 .editor-block-types-list__item-icon {
+    background-position: -60px -540px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-14 .editor-block-types-list__item-icon {
+    background-position: -60px -585px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-15 .editor-block-types-list__item-icon {
+    background-position: -60px -630px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-16 .editor-block-types-list__item-icon {
+    background-position: -60px -675px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-17 .editor-block-types-list__item-icon {
+    background-position: -60px -720px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-18 .editor-block-types-list__item-icon {
+    background-position: -60px -765px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-19 .editor-block-types-list__item-icon {
+    background-position: -60px -810px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-20 .editor-block-types-list__item-icon {
+    background-position: -60px -855px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-21 .editor-block-types-list__item-icon {
+    background-position: -60px -900px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-22 .editor-block-types-list__item-icon {
+    background-position: -60px -945px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-23 .editor-block-types-list__item-icon {
+    background-position: -60px -990px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-24 .editor-block-types-list__item-icon {
+    background-position: -60px -1035px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-25 .editor-block-types-list__item-icon {
+    background-position: 0 -1035px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-26 .editor-block-types-list__item-icon {
+    background-position: -60px -1080px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-27 .editor-block-types-list__item-icon {
+    background-position: 0 -1080px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-28 .editor-block-types-list__item-icon {
+    background-position: -60px -1260px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-29 .editor-block-types-list__item-icon {
+    background-position: 0 -1305px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-30 .editor-block-types-list__item-icon {
+    background-position: -60px -1350px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-31 .editor-block-types-list__item-icon {
+    background-position: 0 -1350px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-32 .editor-block-types-list__item-icon {
+    background-position: -60px -2070px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-33 .editor-block-types-list__item-icon {
+    background-position: 0 -2115px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-34 .editor-block-types-list__item-icon {
+    background-position: -60px -2115px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-35 .editor-block-types-list__item-icon {
+    background-position: 0 -2160px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-36 .editor-block-types-list__item-icon {
+    background-position: -60px -2160px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-37 .editor-block-types-list__item-icon {
+    background-position: 0 -2205px !important;
+}
+.editor-block-list-item-epic-gutenberg-block-38 .editor-block-types-list__item-icon {
+    background-position: -60px -2205px !important;
+}
+.editor-block-list-item-epic-gutenberg-slider-1 .editor-block-types-list__item-icon {
+    background-position: 0 0 !important;
+}
+.editor-block-list-item-epic-gutenberg-slider-2 .editor-block-types-list__item-icon {
+    background-position: 0 -45px !important;
+}
+.editor-block-list-item-epic-gutenberg-slider-3 .editor-block-types-list__item-icon {
+    background-position: 0 -90px !important;
+}
+.editor-block-list-item-epic-gutenberg-slider-4 .editor-block-types-list__item-icon {
+    background-position: 0 -135px !important;
+}
+.editor-block-list-item-epic-gutenberg-slider-5 .editor-block-types-list__item-icon {
+    background-position: 0 -2250px !important;
+}
+.editor-block-list-item-epic-gutenberg-slider-6 .editor-block-types-list__item-icon {
+    background-position: -60px -2250px !important;
+}
+.editor-block-list-item-epic-gutenberg-slider-7 .editor-block-types-list__item-icon {
+    background-position: 0 -2295px !important;
+}
+.editor-block-list-item-epic-gutenberg-slider-8 .editor-block-types-list__item-icon {
+    background-position: -60px -2295px !important;
+}
+.editor-block-list-item-epic-gutenberg-hero-1 .editor-block-types-list__item-icon {
+    background-position: 0 -225px !important;
+}
+.editor-block-list-item-epic-gutenberg-hero-2 .editor-block-types-list__item-icon {
+    background-position: 0 -270px !important;
+}
+.editor-block-list-item-epic-gutenberg-hero-3 .editor-block-types-list__item-icon {
+    background-position: 0 -315px !important;
+}
+.editor-block-list-item-epic-gutenberg-hero-4 .editor-block-types-list__item-icon {
+    background-position: 0 -360px !important;
+}
+.editor-block-list-item-epic-gutenberg-hero-5 .editor-block-types-list__item-icon {
+    background-position: 0 -405px !important;
+}
+.editor-block-list-item-epic-gutenberg-hero-6 .editor-block-types-list__item-icon {
+    background-position: 0 -450px !important;
+}
+.editor-block-list-item-epic-gutenberg-hero-7 .editor-block-types-list__item-icon {
+    background-position: 0 -495px !important;
+}
+.editor-block-list-item-epic-gutenberg-hero-8 .editor-block-types-list__item-icon {
+    background-position: 0 -540px !important;
+}
+.editor-block-list-item-epic-gutenberg-hero-9 .editor-block-types-list__item-icon {
+    background-position: 0 -585px !important;
+}
+.editor-block-list-item-epic-gutenberg-hero-10 .editor-block-types-list__item-icon {
+    background-position: 0 -630px !important;
+}
+.editor-block-list-item-epic-gutenberg-hero-11 .editor-block-types-list__item-icon {
+    background-position: 0 -675px !important;
+}
+.editor-block-list-item-epic-gutenberg-hero-12 .editor-block-types-list__item-icon {
+    background-position: 0 -720px !important;
+}
+.editor-block-list-item-epic-gutenberg-hero-13 .editor-block-types-list__item-icon {
+    background-position: 0 -765px !important;
+}
+.editor-block-list-item-epic-gutenberg-hero-14 .editor-block-types-list__item-icon {
+    background-position: -60px -1170px !important;
+}
+.editor-block-list-item-epic-gutenberg-hero-skew .editor-block-types-list__item-icon {
+    background-position: 0 -810px !important;
+}
+.editor-block-list-item-epic-gutenberg-element-newsticker .editor-block-types-list__item-icon {
+    background-position: 0 -855px !important;
+}
+.editor-block-list-item-epic-gutenberg-element-embedplaylist .editor-block-types-list__item-icon,
+.editor-block-list-item-epic-gutenberg-element-videoplaylist .editor-block-types-list__item-icon {
+    background-position: 0 -900px !important;
+}
+.editor-block-list-item-epic-gutenberg-element-blocklink .editor-block-types-list__item-icon {
+    background-position: 0 -1125px !important;
+}
+.editor-block-list-item-epic-gutenberg-element-header .editor-block-types-list__item-icon {
+    background-position: -60px -1125px !important;
+}
+.editor-block-list-item-epic-gutenberg-element-ads .editor-block-types-list__item-icon {
+    background-position: 0 -1170px !important;
+}
+body.gutenberg-editor-page #adminmenu #toplevel_page_epic .wp-menu-image:before,
+body.gutenberg-editor-page #wpadminbar #wp-admin-bar-epic .ab-icon:before,
+body.gutenberg-editor-page #adminmenu #menu-posts-footer .wp-menu-image:before,
+body.gutenberg-editor-page #adminmenu #menu-posts-custom-post-template .wp-menu-image:before,
+body.gutenberg-editor-page #adminmenu #menu-posts-custom-mega-menu .wp-menu-image:before {
+    height: 34px;
+}
+.edit-post-sidebar .components-base-control__label {
+    font-weight: 500;
+    font-size: 13px;
+}
+.edit-post-sidebar .components-base-control__help {
+    margin-top: 5px;
+    clear: both;
+    display: block;
+    line-height: 20px;
+    color: #888;
+    font-style: normal;
+    font-size: 13px;
+}
+.media-upload-wrapper svg {
+    position: relative;
+    top: 5px;
+    width: 18px;
+}
+.media-upload-wrapper .button {
+    text-transform: none;
+    font-weight: 500;
+    letter-spacing: normal;
+    font-size: 12px;
+    margin: 5px 0;
+}
+.media-toolbar-primary.search-form .button {
+    text-transform: inherit;
+    font-weight: normal;
+}
+.components-base-control__field .components-range-control__number {
+    width: 50px;
+    margin-left: 6px;
+}
+.jeg-alert {
+    width: 100%;
+    clear: both;
+    color: #a94442;
+    background-color: #f2dede;
+    border: 1px solid #ebccd1;
+    padding: 9px 13px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    line-height: 24px;
+}
+.jeg-alert p {
+    margin-bottom: 0;
+}
+.jeg-alert-warning {
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+}
+.jeg-alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+.jeg-alert-info {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}

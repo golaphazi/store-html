@@ -1,0 +1,697 @@
+label {
+    cursor: pointer;
+}
+/**
+ * Element
+ */
+.elementor-panel .widget-wrapper .wp-picker-container.wp-picker-active
+{
+    position: relative;
+}
+
+.elementor-panel .widget-wrapper .wp-picker-container .wp-color-result.button {
+    width: 100%;
+    margin-bottom: 8px;
+}
+
+.elementor-panel .widget-wrapper .wp-picker-container:not(.wp-picker-active),
+.elementor-panel .widget-wrapper .wp-picker-container.wp-picker-active .wp-color-result{
+    float: none;
+    width: 100%;
+}
+
+.elementor-panel .widget-wrapper .wp-picker-container.wp-picker-active {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    padding-top: 0;
+    right: 0;
+    border-width: 0;
+    display: inline;
+}
+
+.elementor-panel .widget-wrapper .wp-picker-container.wp-picker-active .wp-picker-input-wrap {
+    padding-left: 1px;
+    padding-bottom: 5px;
+}
+
+.elementor-panel .widget-wrapper .wp-picker-clear.button {
+    height: 21px;
+}
+
+.elementor-panel .widget-wrapper .wp-picker-container .iris-picker {
+    border: 1px solid #ddd;
+}
+
+.elementor-panel .widget-wrapper .wp-picker-container.wp-picker-active .wp-picker-input-wrap {
+    float: none;
+}
+
+.elementor-control-input-wrapper.type-alert {
+    margin-top: 0 !important;
+}
+
+/*.elementor-control-type-alert {*/
+    /*padding-bottom: 0 !important;*/
+/*}*/
+
+.elementor-control-type-alert:before {
+    display: none !important;
+}
+
+i[class^=epic_block_],
+i[class^=epic_hero_],
+i[class^=epic_element_],
+i[class^=epic_slider_],
+i[class^=epic_carousel_],
+i[class^=epic_footer_],
+i[class^=epic_post_],
+i[class^=epic_archive_] {
+    background-image: url(../img/admin/vc/vc_sprites.png) !important;
+    background-repeat: no-repeat;
+    background-size: auto !important;
+    margin-top: -5px !important;
+    width: 60px !important;
+    height: 45px !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#elementor-navigator__elements i[class^=epic_block_],
+#elementor-navigator__elements i[class^=epic_hero_],
+#elementor-navigator__elements i[class^=epic_element_],
+#elementor-navigator__elements i[class^=epic_slider_],
+#elementor-navigator__elements i[class^=epic_carousel_],
+#elementor-navigator__elements i[class^=epic_footer_],
+#elementor-navigator__elements i[class^=epic_post_],
+#elementor-navigator__elements i[class^=epic_archive_] {
+    background: url(../img/admin/dashboard-dark.png) 50% no-repeat !important;
+    background-repeat: no-repeat;
+    background-size: auto !important;
+    margin-top: 0px !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10px !important;
+    height: 20px !important;
+}
+@media only screen and (-webkit-min-device-pixel-ratio:2), only screen and (min-device-pixel-ratio:2) {
+    i[class^=epic_block_],
+    i[class^=epic_hero_],
+    i[class^=epic_element_],
+    i[class^=epic_slider_],
+    i[class^=epic_carousel_],
+    i[class^=epic_footer_],
+    i[class^=epic_post_],
+    i[class^=epic_archive_] {
+        background-image: url(../img/admin/vc/vc_sprites@2x.png) !important;
+        background-size: 120px !important;
+    }
+    #elementor-navigator__elements i[class^=epic_block_],
+    #elementor-navigator__elements i[class^=epic_hero_],
+    #elementor-navigator__elements i[class^=epic_element_],
+    #elementor-navigator__elements i[class^=epic_slider_],
+    #elementor-navigator__elements i[class^=epic_carousel_],
+    #elementor-navigator__elements i[class^=epic_footer_],
+    #elementor-navigator__elements i[class^=epic_post_],
+    #elementor-navigator__elements i[class^=epic_archive_] {
+        background-image: url(../img/admin/dashboard-dark@2x.png) !important;
+    }
+}
+
+.epic_element_iconlink {
+    background-position: -60px -1305px !important;
+}
+.epic_element_embedplaylist {
+    background-position: 0 -900px !important;
+}
+.epic_carousel_3 {
+    background-position: -60px -1215px !important;
+}
+.epic_carousel_1 {
+    background-position: 0 -945px !important;
+}
+.epic_carousel_2 {
+    background-position: 0 -990px !important;
+}
+.epic_slider_1 {
+    background-position: 0 0 !important;
+}
+.epic_slider_2 {
+    background-position: 0 -45px !important;
+}
+.epic_slider_3 {
+    background-position: 0 -90px !important;
+}
+.epic_slider_4 {
+    background-position: 0 -135px !important;
+}
+.epic_slider_5 {
+    background-position: 0 -2250px !important;
+}
+.epic_slider_6 {
+    background-position: -60px -2250px !important;
+}
+.epic_slider_7 {
+    background-position: 0 -2295px !important;
+}
+.epic_slider_8 {
+    background-position: -60px -2295px !important;
+}
+.epic_slider_overlay {
+    background-position: 0 -180px !important;
+}
+.epic_block_1 {
+    background-position: -60px 0 !important;
+}
+.epic_block_2 {
+    background-position: -60px -45px !important;
+}
+.epic_block_3 {
+    background-position: -60px -90px !important;
+}
+.epic_block_4 {
+    background-position: -60px -135px !important;
+}
+.epic_block_5 {
+    background-position: -60px -180px !important;
+}
+.epic_block_6 {
+    background-position: -60px -225px !important;
+}
+.epic_block_7 {
+    background-position: -60px -270px !important;
+}
+.epic_block_8 {
+    background-position: -60px -315px !important;
+}
+.epic_block_9 {
+    background-position: -60px -360px !important;
+}
+.epic_block_10 {
+    background-position: -60px -405px !important;
+}
+.epic_block_11 {
+    background-position: -60px -450px !important;
+}
+.epic_block_12 {
+    background-position: -60px -495px !important;
+}
+.epic_block_13 {
+    background-position: -60px -540px !important;
+}
+.epic_block_14 {
+    background-position: -60px -585px !important;
+}
+.epic_block_15 {
+    background-position: -60px -630px !important;
+}
+.epic_block_16 {
+    background-position: -60px -675px !important;
+}
+.epic_block_17 {
+    background-position: -60px -720px !important;
+}
+.epic_block_18 {
+    background-position: -60px -765px !important;
+}
+.epic_block_19 {
+    background-position: -60px -810px !important;
+}
+.epic_block_20 {
+    background-position: -60px -855px !important;
+}
+.epic_block_21 {
+    background-position: -60px -900px !important;
+}
+.epic_block_22 {
+    background-position: -60px -945px !important;
+}
+.epic_block_23 {
+    background-position: -60px -990px !important;
+}
+.epic_block_24 {
+    background-position: -60px -1035px !important;
+}
+.epic_block_25 {
+    background-position: 0 -1035px !important;
+}
+.epic_block_26 {
+    background-position: -60px -1080px !important;
+}
+.epic_block_27 {
+    background-position: 0 -1080px !important;
+}
+.epic_block_28 {
+    background-position: -60px -1260px !important;
+}
+.epic_block_29 {
+    background-position: 0 -1305px !important;
+}
+.epic_block_30 {
+    background-position: -60px -1350px !important;
+}
+.epic_block_31 {
+    background-position: 0 -1350px !important;
+}
+.epic_block_32 {
+    background-position: -60px -2070px !important;
+}
+.epic_block_33 {
+    background-position: 0 -2115px !important;
+}
+.epic_block_34 {
+    background-position: -60px -2115px !important;
+}
+.epic_block_35 {
+    background-position: 0 -2160px !important;
+}
+.epic_block_36 {
+    background-position: -60px -2160px !important;
+}
+.epic_block_37 {
+    background-position: 0 -2205px !important;
+}
+.epic_block_38 {
+    background-position: -60px -2205px !important;
+}
+.epic_hero_1 {
+    background-position: 0 -225px !important;
+}
+.epic_hero_2 {
+    background-position: 0 -270px !important;
+}
+.epic_hero_3 {
+    background-position: 0 -315px !important;
+}
+.epic_hero_4 {
+    background-position: 0 -360px !important;
+}
+.epic_hero_5 {
+    background-position: 0 -405px !important;
+}
+.epic_hero_6 {
+    background-position: 0 -450px !important;
+}
+.epic_hero_7 {
+    background-position: 0 -495px !important;
+}
+.epic_hero_8 {
+    background-position: 0 -540px !important;
+}
+.epic_hero_9 {
+    background-position: 0 -585px !important;
+}
+.epic_hero_10 {
+    background-position: 0 -630px !important;
+}
+.epic_hero_11 {
+    background-position: 0 -675px !important;
+}
+.epic_hero_12 {
+    background-position: 0 -720px !important;
+}
+.epic_hero_13 {
+    background-position: 0 -765px !important;
+}
+.epic_hero_14 {
+    background-position: -60px -1170px !important;
+}
+.epic_hero_skew {
+    background-position: 0 -810px !important;
+}
+.epic_element_post_package {
+    background-position: -60px -1395px !important;
+}
+.epic_element_header {
+    background-position: -60px -1125px !important;
+}
+.epic_element_ads {
+    background-position: 0 -1170px !important;
+}
+.epic_element_blocklink {
+    background-position: 0 -1125px !important;
+}
+.epic_element_newsticker {
+    background-position: 0 -855px !important;
+}
+
+.epic_post_title {
+    background-position: -60px -1800px !important;
+}
+
+.epic_post_subtitle {
+    background-position: 0 -1845px !important;
+}
+
+.epic_post_breadcrumb {
+    background-position: -60px -1845px !important;
+}
+
+.epic_post_meta {
+    background-position: 0 -1890px !important;
+}
+
+.epic_post_feature {
+    background-position: -60px -1890px !important;
+}
+
+.epic_post_content {
+    background-position: 0 -1935px !important;
+}
+
+.epic_post_share {
+    background-position: -60px -1935px !important;
+}
+
+.epic_post_tag {
+    background-position: 0 -1980px !important;
+}
+
+.epic_post_author {
+    background-position: -60px -1980px !important;
+}
+
+.epic_post_sequence {
+    background-position: 0 -2025px !important;
+}
+
+.epic_post_comment {
+    background-position: -60px -2025px !important;
+}
+
+.epic_post_related {
+    background-position: 0 -2070px !important;
+}
+
+.epic_archive_title {
+    background-position: 0 -2340px !important;
+}
+
+.epic_archive_desc {
+    background-position: -60px -2340px !important;
+}
+
+.epic_archive_breadcrumb {
+    background-position: 0 -2385px !important;
+}
+
+.epic_archive_pagination {
+    background-position: -60px -2385px !important;
+}
+
+.epic_archive_hero {
+    background-position: 0 -225px !important;
+}
+
+.epic_archive_block {
+    background-position: -60px -90px !important;
+}
+
+input[id^="elementor-control-heading_"]:checked ~ label,
+input[id^="elementor-control-jeg_hero_style_"]:checked ~ label,
+input[name^="elementor-choose-hero_type-"]:checked ~ label,
+input[name^="elementor-choose-block_type-"]:checked ~ label,
+input[name^="elementor-choose-template-"]:checked ~ label {
+    border-color: #278ab7;
+    background-color: #278ab7;
+}
+label[for^="elementor-control-heading_"],
+label[for^="elementor-control-jeg_hero_style_"],
+div.elementor-control-hero_type label[for^="elementor-control-"],
+div.elementor-control-block_type label[for^="elementor-control-"],
+div.elementor-control-template label[for^="elementor-control-"] {
+    margin-bottom: 5px;
+    margin-right: 5px;
+    width: 68px;
+    height: 50px;
+    display: inline-block !important;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ddd !important;
+    padding: 3px;
+}
+div.elementor-control-hero_type label[for^="elementor-control-"],
+div.elementor-control-block_type label[for^="elementor-control-"],
+div.elementor-control-template label[for^="elementor-control-"] {
+    width: 118px;
+    height: 88px;
+}
+label[for^="elementor-control-heading_"] .header_type,
+label[for^="elementor-control-jeg_hero_style_"] .hero_style,
+div.elementor-control-hero_type label[for^="elementor-control-"] i,
+div.elementor-control-block_type label[for^="elementor-control-"] i,
+div.elementor-control-template label[for^="elementor-control-"] i {
+    background-repeat: no-repeat;
+    background-size: auto !important;
+    display: block;
+    height:inherit;
+}
+.elementor-control-header_type .elementor-choices,
+.elementor-control-hero_style .elementor-choices,
+.elementor-control-block_type .elementor-choices,
+.elementor-control-hero_type .elementor-choices,
+.elementor-control-template .elementor-choices {
+    text-align: left;
+    background: transparent;
+}
+label[for^="elementor-control-heading_1"] .header_type {
+    background-image: url(../img/admin/heading-1.png) !important;
+}
+label[for^="elementor-control-heading_2"] .header_type {
+    background-image: url(../img/admin/heading-2.png) !important;
+}
+label[for^="elementor-control-heading_3"] .header_type {
+    background-image: url(../img/admin/heading-3.png) !important;
+}
+label[for^="elementor-control-heading_4"] .header_type {
+    background-image: url(../img/admin/heading-4.png) !important;
+}
+label[for^="elementor-control-heading_5"] .header_type {
+    background-image: url(../img/admin/heading-5.png) !important;
+}
+label[for^="elementor-control-heading_6"] .header_type {
+    background-image: url(../img/admin/heading-6.png) !important;
+}
+label[for^="elementor-control-heading_7"] .header_type {
+    background-image: url(../img/admin/heading-7.png) !important;
+}
+label[for^="elementor-control-heading_8"] .header_type {
+    background-image: url(../img/admin/heading-8.png) !important;
+}
+label[for^="elementor-control-heading_9"] .header_type {
+    background-image: url(../img/admin/heading-9.png) !important;
+}
+label[for^="elementor-control-jeg_hero_style_1"] .hero_style {
+    background-image: url(../img/admin/hero-1.png) !important;
+}
+label[for^="elementor-control-jeg_hero_style_2"] .hero_style {
+    background-image: url(../img/admin/hero-2.png) !important;
+}
+label[for^="elementor-control-jeg_hero_style_3"] .hero_style {
+    background-image: url(../img/admin/hero-3.png) !important;
+}
+label[for^="elementor-control-jeg_hero_style_4"] .hero_style {
+    background-image: url(../img/admin/hero-4.png) !important;
+}
+label[for^="elementor-control-jeg_hero_style_5"] .hero_style {
+    background-image: url(../img/admin/hero-5.png) !important;
+}
+label[for^="elementor-control-jeg_hero_style_6"] .hero_style {
+    background-image: url(../img/admin/hero-6.png) !important;
+}
+label[for^="elementor-control-jeg_hero_style_7"] .hero_style {
+    background-image: url(../img/admin/hero-7.png) !important;
+}
+.elementor-control-hero_type label[for^="elementor-control-1"] .hero_type {
+    background-image: url(../img/admin/hero-type-1.png) !important;
+}
+.elementor-control-hero_type label[for^="elementor-control-2"] .hero_type {
+    background-image: url(../img/admin/hero-type-2.png) !important;
+}
+.elementor-control-hero_type label[for^="elementor-control-3"] .hero_type {
+    background-image: url(../img/admin/hero-type-3.png) !important;
+}
+.elementor-control-hero_type label[for^="elementor-control-4"] .hero_type {
+    background-image: url(../img/admin/hero-type-4.png) !important;
+}
+.elementor-control-hero_type label[for^="elementor-control-5"] .hero_type {
+    background-image: url(../img/admin/hero-type-5.png) !important;
+}
+.elementor-control-hero_type label[for^="elementor-control-6"] .hero_type {
+    background-image: url(../img/admin/hero-type-6.png) !important;
+}
+.elementor-control-hero_type label[for^="elementor-control-7"] .hero_type {
+    background-image: url(../img/admin/hero-type-7.png) !important;
+}
+.elementor-control-hero_type label[for^="elementor-control-8"] .hero_type {
+    background-image: url(../img/admin/hero-type-8.png) !important;
+}
+.elementor-control-hero_type label[for^="elementor-control-9"] .hero_type {
+    background-image: url(../img/admin/hero-type-9.png) !important;
+}
+.elementor-control-hero_type label[for^="elementor-control-10"] .hero_type {
+    background-image: url(../img/admin/hero-type-10.png) !important;
+}
+.elementor-control-hero_type label[for^="elementor-control-11"] .hero_type {
+    background-image: url(../img/admin/hero-type-11.png) !important;
+}
+.elementor-control-hero_type label[for^="elementor-control-12"] .hero_type {
+    background-image: url(../img/admin/hero-type-12.png) !important;
+}
+.elementor-control-hero_type label[for^="elementor-control-13"] .hero_type {
+    background-image: url(../img/admin/hero-type-13.png) !important;
+}
+.elementor-control-hero_type label[for^="elementor-control-skew"] .hero_type {
+    background-image: url(../img/admin/hero-type-skew.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-3"] .block_type {
+    background-image: url(../img/admin/content-3.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-4"] .block_type {
+    background-image: url(../img/admin/content-4.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-5"] .block_type {
+    background-image: url(../img/admin/content-5.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-6"] .block_type {
+    background-image: url(../img/admin/content-6.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-7"] .block_type {
+    background-image: url(../img/admin/content-7.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-9"] .block_type {
+    background-image: url(../img/admin/content-9.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-10"] .block_type {
+    background-image: url(../img/admin/content-10.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-11"] .block_type {
+    background-image: url(../img/admin/content-11.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-12"] .block_type {
+    background-image: url(../img/admin/content-12.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-14"] .block_type {
+    background-image: url(../img/admin/content-14.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-15"] .block_type {
+    background-image: url(../img/admin/content-15.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-18"] .block_type {
+    background-image: url(../img/admin/content-18.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-22"] .block_type {
+    background-image: url(../img/admin/content-22.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-23"] .block_type {
+    background-image: url(../img/admin/content-23.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-25"] .block_type {
+    background-image: url(../img/admin/content-25.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-26"] .block_type {
+    background-image: url(../img/admin/content-26.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-27"] .block_type {
+    background-image: url(../img/admin/content-27.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-32"] .block_type {
+    background-image: url(../img/admin/content-32.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-33"] .block_type {
+    background-image: url(../img/admin/content-33.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-34"] .block_type {
+    background-image: url(../img/admin/content-34.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-35"] .block_type {
+    background-image: url(../img/admin/content-35.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-36"] .block_type {
+    background-image: url(../img/admin/content-36.png) !important;
+}
+.elementor-control-block_type label[for^="elementor-control-37"] .block_type {
+    background-image: url(../img/admin/content-37.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-1"] .template {
+    background-image: url(../img/admin/content-1.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-2"] .template {
+    background-image: url(../img/admin/content-2.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-3"] .template {
+    background-image: url(../img/admin/content-3.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-4"] .template {
+    background-image: url(../img/admin/content-4.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-5"] .template {
+    background-image: url(../img/admin/content-5.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-6"] .template {
+    background-image: url(../img/admin/content-6.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-7"] .template {
+    background-image: url(../img/admin/content-7.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-8"] .template {
+    background-image: url(../img/admin/content-8.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-9"] .template {
+    background-image: url(../img/admin/content-9.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-10"] .template {
+    background-image: url(../img/admin/content-10.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-11"] .template {
+    background-image: url(../img/admin/content-11.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-12"] .template {
+    background-image: url(../img/admin/content-12.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-13"] .template {
+    background-image: url(../img/admin/content-13.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-14"] .template {
+    background-image: url(../img/admin/content-14.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-15"] .template {
+    background-image: url(../img/admin/content-15.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-16"] .template {
+    background-image: url(../img/admin/content-16.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-17"] .template {
+    background-image: url(../img/admin/content-17.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-18"] .template {
+    background-image: url(../img/admin/content-18.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-19"] .template {
+    background-image: url(../img/admin/content-19.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-20"] .template {
+    background-image: url(../img/admin/content-20.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-21"] .template {
+    background-image: url(../img/admin/content-21.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-22"] .template {
+    background-image: url(../img/admin/content-22.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-23"] .template {
+    background-image: url(../img/admin/content-23.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-24"] .template {
+    background-image: url(../img/admin/content-24.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-25"] .template {
+    background-image: url(../img/admin/content-25.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-26"] .template {
+    background-image: url(../img/admin/content-26.png) !important;
+}
+.elementor-control-template label[for^="elementor-control-27"] .template {
+    background-image: url(../img/admin/content-27.png) !important;
+}

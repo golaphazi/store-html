@@ -1,0 +1,2179 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: DT WooCommerce Page Builder For Elementor\n"
+"POT-Creation-Date: 2019-07-08 18:27+0700\n"
+"PO-Revision-Date: 2019-07-08 18:27+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: init.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/admin-templates/new-template.php:15
+msgid "Templates Help You"
+msgstr ""
+
+#: includes/admin/admin-templates/new-template.php:15
+msgid "Work Efficiently"
+msgstr ""
+
+#: includes/admin/admin-templates/new-template.php:16
+msgid ""
+"Use templates to create the different pieces of your site, and reuse them "
+"with one click whenever needed."
+msgstr ""
+
+#: includes/admin/admin-templates/new-template.php:22
+msgid "Choose Template Type"
+msgstr ""
+
+#: includes/admin/admin-templates/new-template.php:24
+msgid "Select the type of template you want to work on"
+msgstr ""
+
+#: includes/admin/admin-templates/new-template.php:27
+#: includes/widgets/checkout/form-billing.php:370
+#: includes/widgets/checkout/form-shipping.php:344
+msgid "Select"
+msgstr ""
+
+#: includes/admin/admin-templates/new-template.php:40
+msgid "Name your template"
+msgstr ""
+
+#: includes/admin/admin-templates/new-template.php:43
+msgid "Enter template name (optional)"
+msgstr ""
+
+#: includes/admin/admin-templates/new-template.php:46
+msgid "Create Template"
+msgstr ""
+
+#: includes/admin/admin.php:152 includes/admin/admin.php:153
+msgid "WooCommerce Builder"
+msgstr ""
+
+#: includes/admin/admin.php:198 includes/admin/admin.php:394
+#: includes/admin/admin.php:424 includes/admin/admin.php:473
+#: includes/admin/admin.php:522 includes/admin/admin.php:571
+msgid "Edit with Elementor"
+msgstr ""
+
+#: includes/admin/admin.php:334 includes/admin/admin.php:1490
+#: includes/admin/admin.php:1512
+msgid "All"
+msgstr ""
+
+#: includes/admin/admin.php:361 includes/admin/admin.php:440
+#: includes/admin/admin.php:489 includes/admin/admin.php:538
+msgid "Page Setup"
+msgstr ""
+
+#: includes/admin/admin.php:370
+msgid "My account page"
+msgstr ""
+
+#: includes/admin/admin.php:384 includes/admin/admin.php:414
+#: includes/admin/admin.php:463 includes/admin/admin.php:512
+#: includes/admin/admin.php:561
+msgid "Select a template&hellip;"
+msgstr ""
+
+#: includes/admin/admin.php:385 includes/admin/admin.php:415
+#: includes/admin/admin.php:464 includes/admin/admin.php:513
+#: includes/admin/admin.php:562
+msgid "-- None (Use theme layout) --"
+msgstr ""
+
+#: includes/admin/admin.php:391
+msgid "Select a Template for My account page."
+msgstr ""
+
+#: includes/admin/admin.php:400
+msgid "My account login"
+msgstr ""
+
+#: includes/admin/admin.php:421
+msgid "Select a Template for My account login page."
+msgstr ""
+
+#: includes/admin/admin.php:431 includes/admin/admin.php:480
+#: includes/admin/admin.php:529 includes/admin/admin.php:578
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/admin.php:449 includes/admin/admin.php:782
+msgid "Thank You Page"
+msgstr ""
+
+#: includes/admin/admin.php:470
+msgid "Select a Template for Thank You page."
+msgstr ""
+
+#: includes/admin/admin.php:498 includes/admin/admin.php:775
+msgid "Checkout Page"
+msgstr ""
+
+#: includes/admin/admin.php:519
+msgid "Select a Template for Checkout page."
+msgstr ""
+
+#: includes/admin/admin.php:547 includes/admin/admin.php:768
+msgid "Cart Page"
+msgstr ""
+
+#: includes/admin/admin.php:568
+msgid "Select a Template for Cart page."
+msgstr ""
+
+#: includes/admin/admin.php:602
+msgid "Type"
+msgstr ""
+
+#: includes/admin/admin.php:609
+msgid "Instances"
+msgstr ""
+
+#: includes/admin/admin.php:689
+msgid "None"
+msgstr ""
+
+#: includes/admin/admin.php:697 includes/admin/admin.php:1278
+msgid "All Products"
+msgstr ""
+
+#: includes/admin/admin.php:703 includes/admin/admin.php:735
+msgid "In Categories "
+msgstr ""
+
+#: includes/admin/admin.php:713
+msgid "In Products "
+msgstr ""
+
+#: includes/admin/admin.php:729 includes/admin/admin.php:1433
+msgid "Shop Page"
+msgstr ""
+
+#: includes/admin/admin.php:739
+msgid "In All Categories "
+msgstr ""
+
+#: includes/admin/admin.php:749
+msgid "In Tags "
+msgstr ""
+
+#: includes/admin/admin.php:753
+msgid "In All Tags "
+msgstr ""
+
+#: includes/admin/admin.php:789 includes/admin/admin.php:837
+msgid "My Account"
+msgstr ""
+
+#: includes/admin/admin.php:793
+msgid "My Account Login"
+msgstr ""
+
+#: includes/admin/admin.php:832
+#: includes/admin/settings/class-admin-settings-product.php:19
+msgid "Single Product"
+msgstr ""
+
+#: includes/admin/admin.php:833
+msgid "Product Archive"
+msgstr ""
+
+#: includes/admin/admin.php:834
+msgid "Cart"
+msgstr ""
+
+#: includes/admin/admin.php:835
+msgid "Checkout"
+msgstr ""
+
+#: includes/admin/admin.php:836
+msgid "Thank You"
+msgstr ""
+
+#: includes/admin/admin.php:902
+msgid "Invalid post type."
+msgstr ""
+
+#: includes/admin/admin.php:906
+msgid "You need a higher level of permission."
+msgstr ""
+
+#: includes/admin/admin.php:907
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr ""
+
+#: includes/admin/admin.php:1008
+msgid "WooCommerce Elementor"
+msgstr ""
+
+#: includes/admin/admin.php:1012
+#, php-format
+msgid "WooCommerce Elementor %s"
+msgstr ""
+
+#: includes/admin/admin.php:1200
+#, php-format
+msgid "Create Your First %s"
+msgstr ""
+
+#: includes/admin/admin.php:1203
+msgid ""
+"Add templates and reuse them across your website. Easily export and import "
+"them to any other project, for an optimized workflow."
+msgstr ""
+
+#: includes/admin/admin.php:1207
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: includes/admin/admin.php:1235 includes/admin/admin.php:1238
+msgid "Display Conditions"
+msgstr ""
+
+#: includes/admin/admin.php:1265
+msgid "Where Do You Want to Display Your Single Product?"
+msgstr ""
+
+#: includes/admin/admin.php:1276
+msgid "Include"
+msgstr ""
+
+#: includes/admin/admin.php:1285
+msgid "In Categories"
+msgstr ""
+
+#: includes/admin/admin.php:1286
+#: includes/widgets/single-product/product-base.php:18
+msgid "Products"
+msgstr ""
+
+#: includes/admin/admin.php:1358 includes/admin/admin.php:1489
+msgid "Search for a category&hellip;"
+msgstr ""
+
+#: includes/admin/admin.php:1359
+msgid "-- Select --"
+msgstr ""
+
+#: includes/admin/admin.php:1384
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: includes/admin/admin.php:1424
+msgid "Where Do You Want to Display Your Archive Product?"
+msgstr ""
+
+#: includes/admin/admin.php:1430
+msgid "Product Categories"
+msgstr ""
+
+#: includes/admin/admin.php:1431
+msgid "Product Tags"
+msgstr ""
+
+#: includes/admin/admin.php:1511
+msgid "Search for a tag&hellip;"
+msgstr ""
+
+#: includes/admin/settings/class-admin-settings-templates.php:19
+msgid "All Templates"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:21
+#: includes/class-post-types.php:31 includes/class-post-types.php:32
+#: includes/class-post-types.php:33
+msgid "WooCommerce Builder Templates"
+msgstr ""
+
+#: includes/class-post-types.php:34
+msgctxt "Admin menu name"
+msgid "WooCommerce Templates"
+msgstr ""
+
+#: includes/class-post-types.php:35
+msgid "Add New"
+msgstr ""
+
+#: includes/class-post-types.php:36
+msgid "Add new product template"
+msgstr ""
+
+#: includes/class-post-types.php:37
+msgid "Edit"
+msgstr ""
+
+#: includes/class-post-types.php:38
+msgid "Edit template"
+msgstr ""
+
+#: includes/class-post-types.php:39
+msgid "New template"
+msgstr ""
+
+#: includes/class-post-types.php:40
+msgid "View template"
+msgstr ""
+
+#: includes/class-post-types.php:41
+msgid "View templates"
+msgstr ""
+
+#: includes/class-post-types.php:42
+msgid "Search template"
+msgstr ""
+
+#: includes/class-post-types.php:43
+msgid "No templates found"
+msgstr ""
+
+#: includes/class-post-types.php:44
+msgid "No templates found in trash"
+msgstr ""
+
+#: includes/class-post-types.php:45
+msgid "Parent template"
+msgstr ""
+
+#: includes/class-post-types.php:72
+msgctxt "Template Library"
+msgid "Type"
+msgstr ""
+
+#: includes/class-single-product-elementor.php:186
+msgid "Not supported"
+msgstr ""
+
+#: includes/class-single-product-elementor.php:193
+msgid "Sale!"
+msgstr ""
+
+#: includes/class-single-product-elementor.php:218
+msgid "Awaiting product image"
+msgstr ""
+
+#: includes/class-single-product-elementor.php:262
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-single-product-elementor.php:313
+msgid "SKU:"
+msgstr ""
+
+#: includes/class-single-product-elementor.php:313
+msgid "N/A"
+msgstr ""
+
+#: includes/class-single-product-elementor.php:317
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-single-product-elementor.php:319
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-woocommerce-builder-elementor.php:257
+msgid "Woo General"
+msgstr ""
+
+#: includes/class-woocommerce-builder-elementor.php:265
+msgid "Woo Product"
+msgstr ""
+
+#: includes/class-woocommerce-builder-elementor.php:273
+msgid "Woo Product Archive"
+msgstr ""
+
+#: includes/class-woocommerce-builder-elementor.php:281
+msgid "Woo Cart"
+msgstr ""
+
+#: includes/class-woocommerce-builder-elementor.php:289
+msgid "Woo Checkout"
+msgstr ""
+
+#: includes/class-woocommerce-builder-elementor.php:297
+msgid "Woo Thank You"
+msgstr ""
+
+#: includes/class-woocommerce-builder-elementor.php:305
+msgid "Woo My Account"
+msgstr ""
+
+#: includes/class-woocommerce-builder-elementor.php:312
+msgid "Woo Account Login"
+msgstr ""
+
+#: includes/class-woocommerce-builder-elementor.php:340
+msgid "Preview Settings"
+msgstr ""
+
+#: includes/class-woocommerce-builder-elementor.php:348
+#: includes/widgets/single-product/product-base.php:163
+#: includes/widgets/single-product/related.php:73
+#: includes/widgets/single-product/up-sells.php:62
+msgid "Title"
+msgstr ""
+
+#: includes/class-woocommerce-builder-elementor.php:370
+msgid ""
+"The <strong>DT WooCommerce Page Builder For Elementor For Elementor</strong> "
+"requires <strong><a href=\"https://woocommerce.com/\" target=\"_blank"
+"\">WooCommerce</a></strong> plugin to be installed and activated on your "
+"site."
+msgstr ""
+
+#: includes/class-woocommerce-builder-elementor.php:380
+#, php-format
+msgid "The %1$s requires %2$s to be installed and activated on your site."
+msgstr ""
+
+#: includes/class-woocommerce-builder-elementor.php:381
+msgid "DT WooCommerce Page Builder For Elementor For Elementor"
+msgstr ""
+
+#: includes/class-woocommerce-builder-elementor.php:382
+msgid "Elementor"
+msgstr ""
+
+#: includes/template-functions.php:14
+msgid "Back to Order list"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-description.php:18
+msgid "Woo Archive Description"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-description.php:38
+msgid "Archive Description"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-description.php:46
+msgid "Description Color"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-description.php:58
+#: includes/widgets/archive-product/archive-title.php:76
+#: includes/widgets/cart/cart-table.php:90
+#: includes/widgets/cart/cart-table.php:244
+#: includes/widgets/cart/cart-table.php:269
+#: includes/widgets/cart/cart-table.php:294
+#: includes/widgets/cart/cart-table.php:327
+#: includes/widgets/cart/cart-table.php:505
+#: includes/widgets/cart/cart-totals.php:91
+#: includes/widgets/cart/cart-totals.php:221
+#: includes/widgets/cart/cart-totals.php:246
+#: includes/widgets/cart/cart-totals.php:271
+#: includes/widgets/cart/cart-totals.php:304
+#: includes/widgets/checkout/form-additional.php:90
+#: includes/widgets/checkout/form-additional.php:144
+#: includes/widgets/checkout/form-additional.php:198
+#: includes/widgets/checkout/form-billing.php:90
+#: includes/widgets/checkout/form-billing.php:144
+#: includes/widgets/checkout/form-billing.php:208
+#: includes/widgets/checkout/form-billing.php:378
+#: includes/widgets/checkout/form-shipping.php:90
+#: includes/widgets/checkout/form-shipping.php:144
+#: includes/widgets/checkout/form-shipping.php:208
+#: includes/widgets/checkout/form-shipping.php:352
+#: includes/widgets/checkout/payment.php:90
+#: includes/widgets/checkout/payment.php:118
+#: includes/widgets/checkout/review-order.php:90
+#: includes/widgets/myaccount/downloads.php:89
+#: includes/widgets/myaccount/downloads.php:241
+#: includes/widgets/myaccount/downloads.php:269
+#: includes/widgets/myaccount/downloads.php:297
+#: includes/widgets/myaccount/downloads.php:325
+#: includes/widgets/myaccount/form-edit-account.php:90
+#: includes/widgets/myaccount/form-edit-account.php:154
+#: includes/widgets/myaccount/form-edit-account.php:319
+#: includes/widgets/myaccount/form-edit-address.php:90
+#: includes/widgets/myaccount/form-edit-address.php:144
+#: includes/widgets/myaccount/form-edit-address.php:198
+#: includes/widgets/myaccount/form-login.php:89
+#: includes/widgets/myaccount/form-login.php:197
+#: includes/widgets/myaccount/form-login.php:261
+#: includes/widgets/myaccount/form-login.php:431
+#: includes/widgets/myaccount/form-login.php:587
+#: includes/widgets/myaccount/form-register.php:89
+#: includes/widgets/myaccount/form-register.php:197
+#: includes/widgets/myaccount/form-register.php:261
+#: includes/widgets/myaccount/form-register.php:430
+#: includes/widgets/myaccount/form-register.php:487
+#: includes/widgets/myaccount/logout.php:101
+#: includes/widgets/myaccount/orders.php:89
+#: includes/widgets/myaccount/orders.php:240
+#: includes/widgets/myaccount/orders.php:268
+#: includes/widgets/myaccount/orders.php:296
+#: includes/widgets/myaccount/orders.php:324
+#: includes/widgets/myaccount/orders.php:352
+#: includes/widgets/single-product/add-to-cart.php:80
+#: includes/widgets/single-product/content.php:46
+#: includes/widgets/single-product/price.php:58
+#: includes/widgets/single-product/rating.php:80
+#: includes/widgets/single-product/short-description.php:58
+#: includes/widgets/single-product/title.php:76
+#: includes/widgets/thankyou/customer_details.php:90
+#: includes/widgets/thankyou/customer_details.php:143
+#: includes/widgets/thankyou/order_details.php:90
+#: includes/widgets/thankyou/order_details.php:151
+#: includes/widgets/thankyou/order_details.php:186
+#: includes/widgets/thankyou/order_details.php:223
+#: includes/widgets/thankyou/order_details.php:248
+#: includes/widgets/thankyou/thankyou.php:97
+#: includes/widgets/thankyou/thankyou.php:150
+#: includes/widgets/thankyou/thankyou.php:201
+msgid "Typography"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-description.php:66
+#: includes/widgets/archive-product/archive-title.php:84
+#: includes/widgets/cart/cart-totals.php:108
+#: includes/widgets/cart/cart-totals.php:186
+#: includes/widgets/checkout/form-additional.php:107
+#: includes/widgets/checkout/form-additional.php:161
+#: includes/widgets/checkout/form-billing.php:107
+#: includes/widgets/checkout/form-billing.php:171
+#: includes/widgets/checkout/form-shipping.php:107
+#: includes/widgets/checkout/form-shipping.php:171
+#: includes/widgets/checkout/review-order.php:107
+#: includes/widgets/global/breadcrumb.php:119
+#: includes/widgets/myaccount/dashboard.php:119
+#: includes/widgets/myaccount/form-edit-account.php:117
+#: includes/widgets/myaccount/form-edit-address.php:107
+#: includes/widgets/myaccount/form-edit-address.php:161
+#: includes/widgets/myaccount/form-edit-address.php:215
+#: includes/widgets/myaccount/form-login.php:224
+#: includes/widgets/myaccount/form-register.php:224
+#: includes/widgets/myaccount/logout.php:109
+#: includes/widgets/single-product/add-to-cart.php:55
+#: includes/widgets/single-product/content.php:63
+#: includes/widgets/single-product/price.php:66
+#: includes/widgets/single-product/product-base.php:96
+#: includes/widgets/single-product/short-description.php:66
+#: includes/widgets/single-product/title.php:84
+#: includes/widgets/thankyou/customer_details.php:107
+#: includes/widgets/thankyou/customer_details.php:160
+#: includes/widgets/thankyou/order_details.php:107
+#: includes/widgets/thankyou/thankyou.php:114
+#: includes/widgets/thankyou/thankyou.php:167
+#: includes/widgets/thankyou/thankyou.php:218
+msgid "Alignment"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-description.php:70
+#: includes/widgets/archive-product/archive-title.php:88
+#: includes/widgets/cart/cart-table.php:144
+#: includes/widgets/cart/cart-table.php:213
+#: includes/widgets/cart/cart-totals.php:112
+#: includes/widgets/cart/cart-totals.php:190
+#: includes/widgets/cart/cross-sells.php:201
+#: includes/widgets/checkout/form-additional.php:111
+#: includes/widgets/checkout/form-additional.php:165
+#: includes/widgets/checkout/form-billing.php:111
+#: includes/widgets/checkout/form-billing.php:175
+#: includes/widgets/checkout/form-shipping.php:111
+#: includes/widgets/checkout/form-shipping.php:175
+#: includes/widgets/checkout/review-order.php:111
+#: includes/widgets/global/breadcrumb.php:123
+#: includes/widgets/myaccount/dashboard.php:123
+#: includes/widgets/myaccount/downloads.php:143
+#: includes/widgets/myaccount/downloads.php:208
+#: includes/widgets/myaccount/form-edit-account.php:121
+#: includes/widgets/myaccount/form-edit-address.php:111
+#: includes/widgets/myaccount/form-edit-address.php:165
+#: includes/widgets/myaccount/form-edit-address.php:219
+#: includes/widgets/myaccount/form-login.php:110
+#: includes/widgets/myaccount/form-login.php:228
+#: includes/widgets/myaccount/form-login.php:598
+#: includes/widgets/myaccount/form-register.php:110
+#: includes/widgets/myaccount/form-register.php:228
+#: includes/widgets/myaccount/form-register.php:451
+#: includes/widgets/myaccount/logout.php:113
+#: includes/widgets/myaccount/orders.php:143
+#: includes/widgets/myaccount/orders.php:207
+#: includes/widgets/single-product/add-to-cart.php:59
+#: includes/widgets/single-product/content.php:67
+#: includes/widgets/single-product/price.php:70
+#: includes/widgets/single-product/product-base.php:100
+#: includes/widgets/single-product/product-base.php:973
+#: includes/widgets/single-product/rating.php:141
+#: includes/widgets/single-product/related.php:156
+#: includes/widgets/single-product/short-description.php:70
+#: includes/widgets/single-product/title.php:88
+#: includes/widgets/single-product/up-sells.php:145
+#: includes/widgets/thankyou/customer_details.php:111
+#: includes/widgets/thankyou/customer_details.php:164
+#: includes/widgets/thankyou/order_details.php:111
+#: includes/widgets/thankyou/thankyou.php:118
+#: includes/widgets/thankyou/thankyou.php:171
+#: includes/widgets/thankyou/thankyou.php:222
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-description.php:74
+#: includes/widgets/archive-product/archive-title.php:92
+#: includes/widgets/cart/cart-table.php:148
+#: includes/widgets/cart/cart-table.php:217
+#: includes/widgets/cart/cart-totals.php:116
+#: includes/widgets/cart/cart-totals.php:194
+#: includes/widgets/cart/cross-sells.php:205
+#: includes/widgets/checkout/form-additional.php:115
+#: includes/widgets/checkout/form-additional.php:169
+#: includes/widgets/checkout/form-billing.php:115
+#: includes/widgets/checkout/form-billing.php:179
+#: includes/widgets/checkout/form-shipping.php:115
+#: includes/widgets/checkout/form-shipping.php:179
+#: includes/widgets/checkout/review-order.php:115
+#: includes/widgets/global/breadcrumb.php:127
+#: includes/widgets/myaccount/dashboard.php:127
+#: includes/widgets/myaccount/downloads.php:147
+#: includes/widgets/myaccount/downloads.php:212
+#: includes/widgets/myaccount/form-edit-account.php:125
+#: includes/widgets/myaccount/form-edit-address.php:115
+#: includes/widgets/myaccount/form-edit-address.php:169
+#: includes/widgets/myaccount/form-edit-address.php:223
+#: includes/widgets/myaccount/form-login.php:114
+#: includes/widgets/myaccount/form-login.php:232
+#: includes/widgets/myaccount/form-login.php:602
+#: includes/widgets/myaccount/form-register.php:114
+#: includes/widgets/myaccount/form-register.php:232
+#: includes/widgets/myaccount/form-register.php:455
+#: includes/widgets/myaccount/logout.php:117
+#: includes/widgets/myaccount/orders.php:147
+#: includes/widgets/myaccount/orders.php:211
+#: includes/widgets/single-product/add-to-cart.php:63
+#: includes/widgets/single-product/content.php:71
+#: includes/widgets/single-product/price.php:74
+#: includes/widgets/single-product/product-base.php:104
+#: includes/widgets/single-product/rating.php:145
+#: includes/widgets/single-product/related.php:160
+#: includes/widgets/single-product/short-description.php:74
+#: includes/widgets/single-product/title.php:92
+#: includes/widgets/single-product/up-sells.php:149
+#: includes/widgets/thankyou/customer_details.php:115
+#: includes/widgets/thankyou/customer_details.php:168
+#: includes/widgets/thankyou/order_details.php:115
+#: includes/widgets/thankyou/thankyou.php:122
+#: includes/widgets/thankyou/thankyou.php:175
+#: includes/widgets/thankyou/thankyou.php:226
+msgid "Center"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-description.php:78
+#: includes/widgets/archive-product/archive-title.php:96
+#: includes/widgets/cart/cart-table.php:152
+#: includes/widgets/cart/cart-table.php:221
+#: includes/widgets/cart/cart-totals.php:120
+#: includes/widgets/cart/cart-totals.php:198
+#: includes/widgets/cart/cross-sells.php:209
+#: includes/widgets/checkout/form-additional.php:119
+#: includes/widgets/checkout/form-additional.php:173
+#: includes/widgets/checkout/form-billing.php:119
+#: includes/widgets/checkout/form-billing.php:183
+#: includes/widgets/checkout/form-shipping.php:119
+#: includes/widgets/checkout/form-shipping.php:183
+#: includes/widgets/checkout/review-order.php:119
+#: includes/widgets/global/breadcrumb.php:131
+#: includes/widgets/myaccount/dashboard.php:131
+#: includes/widgets/myaccount/downloads.php:151
+#: includes/widgets/myaccount/downloads.php:216
+#: includes/widgets/myaccount/form-edit-account.php:129
+#: includes/widgets/myaccount/form-edit-address.php:119
+#: includes/widgets/myaccount/form-edit-address.php:173
+#: includes/widgets/myaccount/form-edit-address.php:227
+#: includes/widgets/myaccount/form-login.php:118
+#: includes/widgets/myaccount/form-login.php:236
+#: includes/widgets/myaccount/form-login.php:606
+#: includes/widgets/myaccount/form-register.php:118
+#: includes/widgets/myaccount/form-register.php:236
+#: includes/widgets/myaccount/form-register.php:459
+#: includes/widgets/myaccount/logout.php:121
+#: includes/widgets/myaccount/orders.php:151
+#: includes/widgets/myaccount/orders.php:215
+#: includes/widgets/single-product/add-to-cart.php:67
+#: includes/widgets/single-product/content.php:75
+#: includes/widgets/single-product/price.php:78
+#: includes/widgets/single-product/product-base.php:108
+#: includes/widgets/single-product/product-base.php:977
+#: includes/widgets/single-product/rating.php:149
+#: includes/widgets/single-product/related.php:164
+#: includes/widgets/single-product/short-description.php:78
+#: includes/widgets/single-product/title.php:96
+#: includes/widgets/single-product/up-sells.php:153
+#: includes/widgets/thankyou/customer_details.php:119
+#: includes/widgets/thankyou/customer_details.php:172
+#: includes/widgets/thankyou/order_details.php:119
+#: includes/widgets/thankyou/thankyou.php:126
+#: includes/widgets/thankyou/thankyou.php:179
+#: includes/widgets/thankyou/thankyou.php:230
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-products.php:18
+msgid "Woo Archive Products"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-products.php:38
+msgid "Content"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-products.php:46
+#: includes/widgets/cart/cross-sells.php:101
+#: includes/widgets/single-product/related.php:56
+#: includes/widgets/single-product/up-sells.php:45
+msgid "Columns"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-products.php:58
+msgid "Rows"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-products.php:73
+#: includes/widgets/single-product/product-base.php:687
+msgid "Pagination"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-products.php:82
+msgid "Allow Order"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-products.php:94
+msgid "Show Result Count"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-products.php:107
+#: includes/widgets/archive-product/archive-products.php:129
+msgid "Nothing Found Message"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-products.php:109
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: includes/widgets/archive-product/archive-products.php:139
+#: includes/widgets/cart/cart-table.php:97
+#: includes/widgets/cart/cart-totals.php:98
+#: includes/widgets/cart/cross-sells.php:167
+#: includes/widgets/checkout/form-additional.php:97
+#: includes/widgets/checkout/form-billing.php:97
+#: includes/widgets/checkout/form-shipping.php:97
+#: includes/widgets/checkout/payment.php:97
+#: includes/widgets/checkout/review-order.php:97
+#: includes/widgets/myaccount/downloads.php:96
+#: includes/widgets/myaccount/downloads.php:248
+#: includes/widgets/myaccount/downloads.php:276
+#: includes/widgets/myaccount/downloads.php:304
+#: includes/widgets/myaccount/form-edit-address.php:97
+#: includes/widgets/myaccount/form-edit-address.php:151
+#: includes/widgets/myaccount/form-edit-address.php:205
+#: includes/widgets/myaccount/form-login.php:96
+#: includes/widgets/myaccount/form-login.php:626
+#: includes/widgets/myaccount/form-login.php:642
+#: includes/widgets/myaccount/form-register.php:96
+#: includes/widgets/myaccount/form-register.php:437
+#: includes/widgets/myaccount/logout.php:89
+#: includes/widgets/myaccount/orders.php:96
+#: includes/widgets/myaccount/orders.php:247
+#: includes/widgets/myaccount/orders.php:275
+#: includes/widgets/myaccount/orders.php:303
+#: includes/widgets/myaccount/orders.php:331
+#: includes/widgets/single-product/add-to-cart.php:436
+#: includes/widgets/single-product/add-to-cart.php:464
+#: includes/widgets/single-product/content.php:53
+#: includes/widgets/single-product/meta.php:79
+#: includes/widgets/single-product/meta.php:107
+#: includes/widgets/single-product/price.php:46
+#: includes/widgets/single-product/product-base.php:172
+#: includes/widgets/single-product/product-base.php:299
+#: includes/widgets/single-product/product-base.php:334
+#: includes/widgets/single-product/product-base.php:521
+#: includes/widgets/single-product/product-base.php:772
+#: includes/widgets/single-product/product-base.php:802
+#: includes/widgets/single-product/product-base.php:832
+#: includes/widgets/single-product/related.php:122
+#: includes/widgets/single-product/short-description.php:46
+#: includes/widgets/single-product/up-sells.php:111
+#: includes/widgets/thankyou/customer_details.php:97
+#: includes/widgets/thankyou/customer_details.php:150
+#: includes/widgets/thankyou/order_details.php:97
+#: includes/widgets/thankyou/order_details.php:230
+#: includes/widgets/thankyou/order_details.php:255
+#: includes/widgets/thankyou/thankyou.php:104
+#: includes/widgets/thankyou/thankyou.php:157
+#: includes/widgets/thankyou/thankyou.php:208
+msgid "Color"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-title.php:18
+msgid "Woo Archive Title"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-title.php:38
+msgid "Archive Title"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-title.php:46
+#: includes/widgets/single-product/title.php:46
+msgid "HTML Tag"
+msgstr ""
+
+#: includes/widgets/archive-product/archive-title.php:64
+#: includes/widgets/single-product/title.php:64
+msgid "Title Color"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:38
+#: includes/widgets/cart/cart-table.php:169
+msgid "Cart Table"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:82
+msgid "Cart Headings"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:117
+#: includes/widgets/cart/cart-table.php:186
+#: includes/widgets/cart/cart-table.php:384
+#: includes/widgets/cart/cart-table.php:442
+#: includes/widgets/cart/cart-table.php:562
+#: includes/widgets/cart/cart-table.php:620
+#: includes/widgets/cart/cart-totals.php:163
+#: includes/widgets/cart/cart-totals.php:361
+#: includes/widgets/cart/cart-totals.php:420
+#: includes/widgets/checkout/form-additional.php:263
+#: includes/widgets/checkout/form-additional.php:332
+#: includes/widgets/checkout/form-billing.php:254
+#: includes/widgets/checkout/form-billing.php:323
+#: includes/widgets/checkout/form-billing.php:425
+#: includes/widgets/checkout/form-billing.php:494
+#: includes/widgets/checkout/form-shipping.php:254
+#: includes/widgets/checkout/form-shipping.php:309
+#: includes/widgets/checkout/form-shipping.php:398
+#: includes/widgets/checkout/form-shipping.php:453
+#: includes/widgets/checkout/payment.php:175
+#: includes/widgets/checkout/payment.php:223
+#: includes/widgets/myaccount/downloads.php:116
+#: includes/widgets/myaccount/downloads.php:183
+#: includes/widgets/myaccount/downloads.php:382
+#: includes/widgets/myaccount/downloads.php:435
+#: includes/widgets/myaccount/form-edit-account.php:198
+#: includes/widgets/myaccount/form-edit-account.php:265
+#: includes/widgets/myaccount/form-edit-account.php:376
+#: includes/widgets/myaccount/form-edit-account.php:417
+#: includes/widgets/myaccount/form-login.php:149
+#: includes/widgets/myaccount/form-login.php:307
+#: includes/widgets/myaccount/form-login.php:376
+#: includes/widgets/myaccount/form-login.php:488
+#: includes/widgets/myaccount/form-login.php:536
+#: includes/widgets/myaccount/form-register.php:149
+#: includes/widgets/myaccount/form-register.php:307
+#: includes/widgets/myaccount/form-register.php:376
+#: includes/widgets/myaccount/form-register.php:544
+#: includes/widgets/myaccount/form-register.php:592
+#: includes/widgets/myaccount/orders.php:116
+#: includes/widgets/myaccount/orders.php:182
+#: includes/widgets/myaccount/orders.php:409
+#: includes/widgets/myaccount/orders.php:461
+#: includes/widgets/single-product/add-to-cart.php:150
+#: includes/widgets/single-product/add-to-cart.php:191
+#: includes/widgets/single-product/add-to-cart.php:319
+#: includes/widgets/single-product/add-to-cart.php:360
+#: includes/widgets/single-product/add-to-cart.php:486
+#: includes/widgets/single-product/product-base.php:401
+#: includes/widgets/single-product/product-base.php:452
+#: includes/widgets/single-product/product-base.php:632
+#: includes/widgets/single-product/product-base.php:670
+#: includes/widgets/single-product/product-base.php:722
+msgid "Border Color"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:128
+#: includes/widgets/cart/cart-table.php:197
+#: includes/widgets/cart/cart-table.php:342
+#: includes/widgets/cart/cart-table.php:520
+#: includes/widgets/cart/cart-totals.php:174
+#: includes/widgets/cart/cart-totals.php:319
+#: includes/widgets/checkout/form-additional.php:222
+#: includes/widgets/checkout/form-billing.php:215
+#: includes/widgets/checkout/form-billing.php:385
+#: includes/widgets/checkout/form-shipping.php:215
+#: includes/widgets/checkout/form-shipping.php:359
+#: includes/widgets/checkout/payment.php:133
+#: includes/widgets/myaccount/downloads.php:127
+#: includes/widgets/myaccount/downloads.php:193
+#: includes/widgets/myaccount/downloads.php:340
+#: includes/widgets/myaccount/form-edit-account.php:161
+#: includes/widgets/myaccount/form-edit-account.php:334
+#: includes/widgets/myaccount/form-login.php:176
+#: includes/widgets/myaccount/form-login.php:268
+#: includes/widgets/myaccount/form-login.php:446
+#: includes/widgets/myaccount/form-register.php:176
+#: includes/widgets/myaccount/form-register.php:268
+#: includes/widgets/myaccount/form-register.php:502
+#: includes/widgets/myaccount/orders.php:127
+#: includes/widgets/myaccount/orders.php:192
+#: includes/widgets/myaccount/orders.php:367
+#: includes/widgets/single-product/add-to-cart.php:108
+#: includes/widgets/single-product/add-to-cart.php:277
+#: includes/widgets/single-product/product-base.php:587
+#: includes/widgets/single-product/product-base.php:737
+msgid "Padding"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:140
+#: includes/widgets/cart/cart-table.php:209
+#: includes/widgets/myaccount/downloads.php:139
+#: includes/widgets/myaccount/downloads.php:204
+#: includes/widgets/myaccount/form-login.php:106
+#: includes/widgets/myaccount/form-login.php:594
+#: includes/widgets/myaccount/form-register.php:106
+#: includes/widgets/myaccount/form-register.php:447
+#: includes/widgets/myaccount/orders.php:139
+#: includes/widgets/myaccount/orders.php:203
+msgid "Text Alignment"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:237
+#: includes/widgets/thankyou/order_details.php:316
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:32
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:76
+msgid "Product"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:251
+msgid "Product Name Color"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:262
+#: includes/widgets/cart/cross-sells.php:123
+#: includes/widgets/single-product/product-base.php:290
+#: includes/widgets/single-product/related.php:74
+#: includes/widgets/single-product/up-sells.php:63
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:33
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:96
+msgid "Price"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:276
+msgid "Product Price Color"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:287
+#: includes/widgets/cart/cart-totals.php:264
+#: includes/widgets/myaccount/orders.php:316
+#: includes/widgets/thankyou/order_details.php:208
+#: includes/widgets/thankyou/order_details.php:241
+#: includes/widgets/thankyou/order_details.php:317
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:35
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:119
+msgid "Total"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:301
+#: includes/widgets/cart/cart-totals.php:278
+msgid "Total Color"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:319
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:137
+msgid "Apply coupon"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:355
+#: includes/widgets/cart/cart-table.php:533
+#: includes/widgets/cart/cart-totals.php:332
+#: includes/widgets/checkout/form-additional.php:236
+#: includes/widgets/checkout/form-billing.php:229
+#: includes/widgets/checkout/form-billing.php:400
+#: includes/widgets/checkout/form-shipping.php:229
+#: includes/widgets/checkout/form-shipping.php:373
+#: includes/widgets/checkout/payment.php:146
+#: includes/widgets/myaccount/downloads.php:353
+#: includes/widgets/myaccount/form-edit-account.php:173
+#: includes/widgets/myaccount/form-edit-account.php:347
+#: includes/widgets/myaccount/form-login.php:282
+#: includes/widgets/myaccount/form-login.php:459
+#: includes/widgets/myaccount/form-login.php:620
+#: includes/widgets/myaccount/form-register.php:282
+#: includes/widgets/myaccount/form-register.php:515
+#: includes/widgets/myaccount/orders.php:380
+#: includes/widgets/single-product/add-to-cart.php:121
+#: includes/widgets/single-product/add-to-cart.php:290
+#: includes/widgets/single-product/product-base.php:371
+#: includes/widgets/single-product/product-base.php:606
+#: includes/widgets/single-product/product-base.php:765
+msgid "Normal"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:362
+#: includes/widgets/cart/cart-table.php:420
+#: includes/widgets/cart/cart-table.php:540
+#: includes/widgets/cart/cart-table.php:598
+#: includes/widgets/cart/cart-totals.php:339
+#: includes/widgets/cart/cart-totals.php:398
+#: includes/widgets/checkout/form-additional.php:243
+#: includes/widgets/checkout/form-additional.php:312
+#: includes/widgets/checkout/form-billing.php:235
+#: includes/widgets/checkout/form-billing.php:304
+#: includes/widgets/checkout/form-billing.php:406
+#: includes/widgets/checkout/form-billing.php:475
+#: includes/widgets/checkout/form-shipping.php:235
+#: includes/widgets/checkout/form-shipping.php:290
+#: includes/widgets/checkout/form-shipping.php:379
+#: includes/widgets/checkout/form-shipping.php:434
+#: includes/widgets/checkout/payment.php:153
+#: includes/widgets/checkout/payment.php:201
+#: includes/widgets/global/breadcrumb.php:89
+#: includes/widgets/myaccount/dashboard.php:89
+#: includes/widgets/myaccount/downloads.php:360
+#: includes/widgets/myaccount/downloads.php:413
+#: includes/widgets/myaccount/form-edit-account.php:179
+#: includes/widgets/myaccount/form-edit-account.php:246
+#: includes/widgets/myaccount/form-edit-account.php:354
+#: includes/widgets/myaccount/form-edit-account.php:395
+#: includes/widgets/myaccount/form-login.php:288
+#: includes/widgets/myaccount/form-login.php:357
+#: includes/widgets/myaccount/form-login.php:466
+#: includes/widgets/myaccount/form-login.php:514
+#: includes/widgets/myaccount/form-register.php:288
+#: includes/widgets/myaccount/form-register.php:357
+#: includes/widgets/myaccount/form-register.php:522
+#: includes/widgets/myaccount/form-register.php:570
+#: includes/widgets/myaccount/orders.php:387
+#: includes/widgets/myaccount/orders.php:439
+#: includes/widgets/single-product/add-to-cart.php:128
+#: includes/widgets/single-product/add-to-cart.php:169
+#: includes/widgets/single-product/add-to-cart.php:297
+#: includes/widgets/single-product/add-to-cart.php:338
+#: includes/widgets/single-product/product-base.php:378
+#: includes/widgets/single-product/product-base.php:430
+#: includes/widgets/single-product/product-base.php:884
+#: includes/widgets/thankyou/order_details.php:158
+#: includes/widgets/thankyou/order_details.php:193
+msgid "Text Color"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:373
+#: includes/widgets/cart/cart-table.php:431
+#: includes/widgets/cart/cart-table.php:551
+#: includes/widgets/cart/cart-table.php:609
+#: includes/widgets/cart/cart-totals.php:144
+#: includes/widgets/cart/cart-totals.php:350
+#: includes/widgets/cart/cart-totals.php:409
+#: includes/widgets/checkout/form-additional.php:274
+#: includes/widgets/checkout/form-additional.php:343
+#: includes/widgets/checkout/form-billing.php:265
+#: includes/widgets/checkout/form-billing.php:334
+#: includes/widgets/checkout/form-billing.php:436
+#: includes/widgets/checkout/form-billing.php:505
+#: includes/widgets/checkout/form-shipping.php:265
+#: includes/widgets/checkout/form-shipping.php:320
+#: includes/widgets/checkout/form-shipping.php:409
+#: includes/widgets/checkout/form-shipping.php:464
+#: includes/widgets/checkout/payment.php:164
+#: includes/widgets/checkout/payment.php:212
+#: includes/widgets/myaccount/downloads.php:371
+#: includes/widgets/myaccount/downloads.php:424
+#: includes/widgets/myaccount/form-edit-account.php:209
+#: includes/widgets/myaccount/form-edit-account.php:276
+#: includes/widgets/myaccount/form-edit-account.php:365
+#: includes/widgets/myaccount/form-edit-account.php:406
+#: includes/widgets/myaccount/form-login.php:166
+#: includes/widgets/myaccount/form-login.php:318
+#: includes/widgets/myaccount/form-login.php:387
+#: includes/widgets/myaccount/form-login.php:477
+#: includes/widgets/myaccount/form-login.php:525
+#: includes/widgets/myaccount/form-register.php:166
+#: includes/widgets/myaccount/form-register.php:318
+#: includes/widgets/myaccount/form-register.php:387
+#: includes/widgets/myaccount/form-register.php:533
+#: includes/widgets/myaccount/form-register.php:581
+#: includes/widgets/myaccount/orders.php:398
+#: includes/widgets/myaccount/orders.php:450
+#: includes/widgets/single-product/add-to-cart.php:139
+#: includes/widgets/single-product/add-to-cart.php:180
+#: includes/widgets/single-product/add-to-cart.php:308
+#: includes/widgets/single-product/add-to-cart.php:349
+#: includes/widgets/single-product/add-to-cart.php:475
+#: includes/widgets/single-product/product-base.php:390
+#: includes/widgets/single-product/product-base.php:441
+#: includes/widgets/single-product/product-base.php:621
+#: includes/widgets/single-product/product-base.php:659
+#: includes/widgets/single-product/product-base.php:783
+#: includes/widgets/single-product/product-base.php:813
+#: includes/widgets/single-product/product-base.php:843
+#: includes/widgets/single-product/product-base.php:898
+msgid "Background Color"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:394
+#: includes/widgets/cart/cart-table.php:452
+#: includes/widgets/cart/cart-table.php:572
+#: includes/widgets/cart/cart-table.php:631
+#: includes/widgets/cart/cart-totals.php:371
+#: includes/widgets/cart/cart-totals.php:430
+#: includes/widgets/checkout/form-additional.php:284
+#: includes/widgets/checkout/form-additional.php:353
+#: includes/widgets/checkout/form-billing.php:276
+#: includes/widgets/checkout/form-billing.php:345
+#: includes/widgets/checkout/form-billing.php:447
+#: includes/widgets/checkout/form-billing.php:516
+#: includes/widgets/myaccount/downloads.php:393
+#: includes/widgets/myaccount/downloads.php:446
+#: includes/widgets/myaccount/form-edit-account.php:219
+#: includes/widgets/myaccount/form-edit-account.php:287
+#: includes/widgets/myaccount/form-login.php:329
+#: includes/widgets/myaccount/form-login.php:398
+#: includes/widgets/myaccount/form-register.php:329
+#: includes/widgets/myaccount/form-register.php:398
+#: includes/widgets/myaccount/orders.php:419
+#: includes/widgets/myaccount/orders.php:472
+#: includes/widgets/single-product/add-to-cart.php:97
+#: includes/widgets/single-product/add-to-cart.php:266
+#: includes/widgets/single-product/add-to-cart.php:505
+#: includes/widgets/single-product/product-base.php:139
+#: includes/widgets/single-product/product-base.php:476
+#: includes/widgets/single-product/product-base.php:569
+#: includes/widgets/single-product/product-base.php:923
+msgid "Border Radius"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:413
+#: includes/widgets/cart/cart-table.php:591
+#: includes/widgets/cart/cart-totals.php:391
+#: includes/widgets/checkout/payment.php:194
+#: includes/widgets/myaccount/downloads.php:406
+#: includes/widgets/myaccount/form-edit-account.php:388
+#: includes/widgets/myaccount/form-login.php:507
+#: includes/widgets/myaccount/form-login.php:636
+#: includes/widgets/myaccount/form-register.php:563
+#: includes/widgets/myaccount/orders.php:432
+#: includes/widgets/single-product/add-to-cart.php:162
+#: includes/widgets/single-product/product-base.php:423
+#: includes/widgets/single-product/product-base.php:644
+#: includes/widgets/single-product/product-base.php:795
+msgid "Hover"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:470
+#: includes/widgets/cart/cart-table.php:649
+#: includes/widgets/cart/cart-totals.php:448
+#: includes/widgets/checkout/payment.php:242
+#: includes/widgets/myaccount/downloads.php:458
+#: includes/widgets/myaccount/form-edit-account.php:428
+#: includes/widgets/myaccount/form-login.php:553
+#: includes/widgets/myaccount/form-login.php:652
+#: includes/widgets/myaccount/form-register.php:609
+#: includes/widgets/myaccount/orders.php:484
+#: includes/widgets/single-product/add-to-cart.php:202
+#: includes/widgets/single-product/add-to-cart.php:371
+msgid "Transition Duration"
+msgstr ""
+
+#: includes/widgets/cart/cart-table.php:497
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:142
+msgid "Update cart"
+msgstr ""
+
+#: includes/widgets/cart/cart-totals.php:38
+msgid "Cart Totals"
+msgstr ""
+
+#: includes/widgets/cart/cart-totals.php:83
+#: includes/widgets/cart/cart-totals.php:214
+#: includes/widgets/cart/cross-sells.php:146
+#: includes/widgets/cart/cross-sells.php:154
+#: includes/widgets/checkout/form-additional.php:82
+#: includes/widgets/checkout/form-billing.php:82
+#: includes/widgets/checkout/form-shipping.php:82
+#: includes/widgets/checkout/review-order.php:82
+#: includes/widgets/single-product/related.php:101
+#: includes/widgets/single-product/related.php:109
+#: includes/widgets/single-product/up-sells.php:90
+#: includes/widgets/single-product/up-sells.php:98
+#: includes/widgets/thankyou/customer_details.php:82
+#: includes/widgets/thankyou/order_details.php:82
+msgid "Heading"
+msgstr ""
+
+#: includes/widgets/cart/cart-totals.php:137
+msgid "Cart Totals Table"
+msgstr ""
+
+#: includes/widgets/cart/cart-totals.php:228
+msgid "Heading Color"
+msgstr ""
+
+#: includes/widgets/cart/cart-totals.php:239
+msgid "Subtotal"
+msgstr ""
+
+#: includes/widgets/cart/cart-totals.php:253
+msgid "Subtotal Color"
+msgstr ""
+
+#: includes/widgets/cart/cart-totals.php:296
+msgid "Checkout Button"
+msgstr ""
+
+#: includes/widgets/cart/cross-sells.php:38
+#: includes/widgets/cart/cross-sells.php:82
+msgid "Cross Sells"
+msgstr ""
+
+#: includes/widgets/cart/cross-sells.php:90
+msgid "Limit"
+msgstr ""
+
+#: includes/widgets/cart/cross-sells.php:113
+#: includes/widgets/single-product/related.php:68
+#: includes/widgets/single-product/up-sells.php:57
+msgid "Orderby"
+msgstr ""
+
+#: includes/widgets/cart/cross-sells.php:117
+#: includes/widgets/single-product/related.php:77
+#: includes/widgets/single-product/up-sells.php:66
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/cart/cross-sells.php:118
+msgid "Publish Date"
+msgstr ""
+
+#: includes/widgets/cart/cross-sells.php:119
+msgid "Modified Date"
+msgstr ""
+
+#: includes/widgets/cart/cross-sells.php:120
+msgid "Alphabetic"
+msgstr ""
+
+#: includes/widgets/cart/cross-sells.php:121
+#: includes/widgets/single-product/related.php:75
+#: includes/widgets/single-product/up-sells.php:64
+msgid "Popularity"
+msgstr ""
+
+#: includes/widgets/cart/cross-sells.php:122
+msgid "Rate"
+msgstr ""
+
+#: includes/widgets/cart/cross-sells.php:131
+#: includes/widgets/myaccount/orders.php:232
+#: includes/widgets/single-product/related.php:86
+#: includes/widgets/single-product/up-sells.php:75
+msgid "Order"
+msgstr ""
+
+#: includes/widgets/cart/cross-sells.php:135
+#: includes/widgets/single-product/related.php:90
+#: includes/widgets/single-product/up-sells.php:79
+msgid "DESC"
+msgstr ""
+
+#: includes/widgets/cart/cross-sells.php:136
+#: includes/widgets/single-product/related.php:91
+#: includes/widgets/single-product/up-sells.php:80
+msgid "ASC"
+msgstr ""
+
+#: includes/widgets/cart/cross-sells.php:156
+#: includes/widgets/single-product/product-base.php:711
+#: includes/widgets/single-product/product-base.php:870
+#: includes/widgets/single-product/related.php:111
+#: includes/widgets/single-product/up-sells.php:100
+msgid "Hide"
+msgstr ""
+
+#: includes/widgets/cart/cross-sells.php:157
+#: includes/widgets/single-product/product-base.php:712
+#: includes/widgets/single-product/product-base.php:871
+#: includes/widgets/single-product/related.php:112
+#: includes/widgets/single-product/up-sells.php:101
+msgid "Show"
+msgstr ""
+
+#: includes/widgets/cart/cross-sells.php:197
+#: includes/widgets/single-product/related.php:152
+#: includes/widgets/single-product/up-sells.php:141
+msgid "Text Align"
+msgstr ""
+
+#: includes/widgets/cart/cross-sells.php:225
+#: includes/widgets/single-product/add-to-cart.php:236
+#: includes/widgets/single-product/add-to-cart.php:405
+#: includes/widgets/single-product/product-base.php:151
+#: includes/widgets/single-product/product-base.php:199
+#: includes/widgets/single-product/product-base.php:271
+#: includes/widgets/single-product/product-base.php:500
+#: includes/widgets/single-product/product-base.php:698
+#: includes/widgets/single-product/related.php:180
+#: includes/widgets/single-product/up-sells.php:169
+msgid "Spacing"
+msgstr ""
+
+#: includes/widgets/checkout/checkout_coupon_form.php:38
+msgid "Checkout Coupon Form"
+msgstr ""
+
+#: includes/widgets/checkout/form-additional.php:38
+msgid "Checkout Form Additional"
+msgstr ""
+
+#: includes/widgets/checkout/form-additional.php:136
+#: includes/widgets/checkout/form-billing.php:136
+#: includes/widgets/checkout/form-shipping.php:136
+#: includes/widgets/myaccount/form-edit-account.php:82
+#: includes/widgets/myaccount/form-login.php:189
+#: includes/widgets/myaccount/form-register.php:189
+#: includes/widgets/single-product/add-to-cart.php:427
+#: includes/widgets/thankyou/order_details.php:216
+#: includes/widgets/thankyou/thankyou.php:142
+msgid "Label"
+msgstr ""
+
+#: includes/widgets/checkout/form-additional.php:151
+#: includes/widgets/checkout/form-billing.php:151
+#: includes/widgets/checkout/form-shipping.php:151
+#: includes/widgets/myaccount/form-edit-account.php:97
+#: includes/widgets/myaccount/form-login.php:204
+#: includes/widgets/myaccount/form-register.php:204
+msgid "Label Color"
+msgstr ""
+
+#: includes/widgets/checkout/form-additional.php:190
+msgid "Input Fields"
+msgstr ""
+
+#: includes/widgets/checkout/form-additional.php:205
+msgid "Field Placeholder Input Color"
+msgstr ""
+
+#: includes/widgets/checkout/form-additional.php:306
+#: includes/widgets/checkout/form-billing.php:298
+#: includes/widgets/checkout/form-billing.php:469
+#: includes/widgets/checkout/form-shipping.php:284
+#: includes/widgets/checkout/form-shipping.php:428
+#: includes/widgets/myaccount/form-edit-account.php:240
+#: includes/widgets/myaccount/form-login.php:351
+#: includes/widgets/myaccount/form-register.php:351
+#: includes/widgets/single-product/add-to-cart.php:331
+msgid "Focus"
+msgstr ""
+
+#: includes/widgets/checkout/form-additional.php:393
+#: includes/widgets/checkout/form-additional.php:417
+msgid "Additional information"
+msgstr ""
+
+#: includes/widgets/checkout/form-billing.php:38
+msgid "Checkout Form Billing"
+msgstr ""
+
+#: includes/widgets/checkout/form-billing.php:161
+#: includes/widgets/checkout/form-shipping.php:161
+#: includes/widgets/myaccount/form-edit-account.php:107
+#: includes/widgets/myaccount/form-login.php:214
+#: includes/widgets/myaccount/form-register.php:214
+msgid "Required Color"
+msgstr ""
+
+#: includes/widgets/checkout/form-billing.php:200
+#: includes/widgets/checkout/form-shipping.php:200
+#: includes/widgets/myaccount/form-edit-account.php:146
+#: includes/widgets/myaccount/form-login.php:253
+#: includes/widgets/myaccount/form-register.php:253
+msgid "Input"
+msgstr ""
+
+#: includes/widgets/checkout/form-shipping.php:38
+msgid "Checkout Form Shipping"
+msgstr ""
+
+#: includes/widgets/checkout/form-shipping.php:500
+#: includes/widgets/checkout/form-shipping.php:535
+msgid "Ship to a different address?"
+msgstr ""
+
+#: includes/widgets/checkout/payment.php:38
+msgid "Checkout Payment"
+msgstr ""
+
+#: includes/widgets/checkout/payment.php:82
+msgid "Payment"
+msgstr ""
+
+#: includes/widgets/checkout/payment.php:110
+#: includes/widgets/myaccount/form-edit-account.php:311
+#: includes/widgets/myaccount/form-login.php:423
+#: includes/widgets/myaccount/form-register.php:479
+#: includes/widgets/single-product/add-to-cart.php:38
+#: includes/widgets/single-product/product-base.php:360
+msgid "Button"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:38
+msgid "Checkout Review Order"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:135
+msgid "Table Head"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:142
+msgid "Head Color"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:154
+msgid "Head Typography"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:161
+msgid "Head Background Color"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:182
+msgid "Head Padding"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:196
+msgid "Table Body"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:204
+msgid "Table Body Item Padding"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:216
+msgid "Body Text Color"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:229
+msgid "Table Body Typography"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:236
+msgid "Table Odd Rows Background Color"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:246
+msgid "Table Even Rows Background Color"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:268
+msgid "Table Footer"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:275
+msgid "Table Footer Item Padding"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:287
+msgid "Table Footer Text Color"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:300
+msgid "Table Footer Typography"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:308
+msgid "Table Footer Header Cell Typography"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:315
+msgid "Table Footer Column Background Color"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:325
+msgid "Table Footer Header Column Background Color"
+msgstr ""
+
+#: includes/widgets/checkout/review-order.php:359
+#: includes/widgets/checkout/review-order.php:369
+msgid "Your order"
+msgstr ""
+
+#: includes/widgets/global/breadcrumb.php:38
+msgid "WooCommerce Breadcrumbs"
+msgstr ""
+
+#: includes/widgets/global/breadcrumb.php:81
+#: includes/widgets/myaccount/dashboard.php:81
+#: includes/widgets/myaccount/logout.php:81
+#: includes/widgets/single-product/content.php:38
+#: includes/widgets/single-product/meta.php:38
+#: includes/widgets/single-product/product-images.php:86
+#: includes/widgets/single-product/short-description.php:38
+msgid "Style"
+msgstr ""
+
+#: includes/widgets/global/breadcrumb.php:100
+#: includes/widgets/myaccount/dashboard.php:100
+#: includes/widgets/single-product/rating.php:68
+msgid "Link Color"
+msgstr ""
+
+#: includes/widgets/myaccount/dashboard.php:38
+msgid "My Account Dashboard"
+msgstr ""
+
+#: includes/widgets/myaccount/downloads.php:38
+msgid "My Account Downloads"
+msgstr ""
+
+#: includes/widgets/myaccount/downloads.php:81
+#: includes/widgets/myaccount/form-login.php:81
+#: includes/widgets/myaccount/form-register.php:81
+#: includes/widgets/myaccount/orders.php:81
+msgid "Headings"
+msgstr ""
+
+#: includes/widgets/myaccount/downloads.php:168
+msgid "Table Style"
+msgstr ""
+
+#: includes/widgets/myaccount/downloads.php:233
+#: includes/widgets/thankyou/order_details.php:144
+msgid "Product Name"
+msgstr ""
+
+#: includes/widgets/myaccount/downloads.php:261
+msgid "Downloads remaining"
+msgstr ""
+
+#: includes/widgets/myaccount/downloads.php:289
+msgid "Expires"
+msgstr ""
+
+#: includes/widgets/myaccount/downloads.php:317
+msgid "Download"
+msgstr ""
+
+#: includes/widgets/myaccount/extra-endpoint.php:38
+msgid "MyAccount Extra Endpoint"
+msgstr ""
+
+#: includes/widgets/myaccount/extra-endpoint.php:82
+msgid "Extra Key"
+msgstr ""
+
+#: includes/widgets/myaccount/extra-endpoint.php:90
+msgid "Extra key"
+msgstr ""
+
+#: includes/widgets/myaccount/extra-endpoint.php:92
+msgid ""
+"Enter only the extra key. e.g. extra-key . It will be used for "
+"\"woocommerce_account_extra-key_endpoint\" "
+msgstr ""
+
+#: includes/widgets/myaccount/extra-endpoint.php:112
+#: includes/widgets/myaccount/form-edit-account.php:462
+#: includes/widgets/myaccount/form-edit-address.php:251
+#: includes/widgets/myaccount/orders.php:518
+msgid "You need first to be logged in"
+msgstr ""
+
+#: includes/widgets/myaccount/form-edit-account.php:38
+msgid "My Account Details"
+msgstr ""
+
+#: includes/widgets/myaccount/form-edit-address.php:38
+msgid "My Account Address"
+msgstr ""
+
+#: includes/widgets/myaccount/form-edit-address.php:82
+msgid "Message"
+msgstr ""
+
+#: includes/widgets/myaccount/form-edit-address.php:136
+msgid "Header"
+msgstr ""
+
+#: includes/widgets/myaccount/form-edit-address.php:190
+#: includes/widgets/thankyou/customer_details.php:135
+msgid "Address"
+msgstr ""
+
+#: includes/widgets/myaccount/form-login.php:38
+msgid "My Account Form Login"
+msgstr ""
+
+#: includes/widgets/myaccount/form-login.php:134
+#: includes/widgets/myaccount/form-register.php:134
+msgid "Form Style"
+msgstr ""
+
+#: includes/widgets/myaccount/form-login.php:579
+msgid "Lost Password"
+msgstr ""
+
+#: includes/widgets/myaccount/form-login.php:688
+msgid "Login"
+msgstr ""
+
+#: includes/widgets/myaccount/form-login.php:695
+msgid "Username or email address"
+msgstr ""
+
+#: includes/widgets/myaccount/form-login.php:699
+#: includes/widgets/myaccount/form-register.php:670
+msgid "Password"
+msgstr ""
+
+#: includes/widgets/myaccount/form-login.php:707
+msgid "Log in"
+msgstr ""
+
+#: includes/widgets/myaccount/form-login.php:709
+msgid "Remember me"
+msgstr ""
+
+#: includes/widgets/myaccount/form-login.php:713
+msgid "Lost your password?"
+msgstr ""
+
+#: includes/widgets/myaccount/form-register.php:38
+msgid "My Account Form Register"
+msgstr ""
+
+#: includes/widgets/myaccount/form-register.php:422
+msgid "Policy Text"
+msgstr ""
+
+#: includes/widgets/myaccount/form-register.php:463
+#: includes/widgets/single-product/content.php:79
+msgid "Justified"
+msgstr ""
+
+#: includes/widgets/myaccount/form-register.php:647
+#: includes/widgets/myaccount/form-register.php:680
+msgid "Register"
+msgstr ""
+
+#: includes/widgets/myaccount/form-register.php:656
+msgid "Username"
+msgstr ""
+
+#: includes/widgets/myaccount/form-register.php:663
+msgid "Email address"
+msgstr ""
+
+#: includes/widgets/myaccount/logout.php:38
+msgid "My Account Logout"
+msgstr ""
+
+#: includes/widgets/myaccount/orders.php:38
+msgid "My Account Orders"
+msgstr ""
+
+#: includes/widgets/myaccount/orders.php:167
+msgid "Row Style"
+msgstr ""
+
+#: includes/widgets/myaccount/orders.php:260
+#: includes/widgets/single-product/related.php:72
+#: includes/widgets/single-product/up-sells.php:61
+msgid "Date"
+msgstr ""
+
+#: includes/widgets/myaccount/orders.php:288
+msgid "Status"
+msgstr ""
+
+#: includes/widgets/myaccount/orders.php:344
+msgid "Actions"
+msgstr ""
+
+#: includes/widgets/myaccount/woocommerce-bookings/bookings.php:18
+msgid "My Account WC Bookings"
+msgstr ""
+
+#: includes/widgets/myaccount/woocommerce-memberships/memberships.php:18
+msgid "WC Memberships: My Account Memberships"
+msgstr ""
+
+#: includes/widgets/myaccount/woocommerce-subscriptions/subscriptions.php:18
+msgid "My Account WC Subscriptions"
+msgstr ""
+
+#: includes/widgets/myaccount/woocommerce-subscriptions/subscriptions.php:47
+msgid "Back to Subscriptions list"
+msgstr ""
+
+#: includes/widgets/single-product/add-to-cart.php:18
+msgid "Woo Add To Cart"
+msgstr ""
+
+#: includes/widgets/single-product/add-to-cart.php:47
+#: includes/widgets/single-product/product-base.php:27
+msgid ""
+"The style of this widget is often affected by your theme and plugins. If you "
+"experience any such issue, try to switch to a basic theme and deactivate "
+"related plugins."
+msgstr ""
+
+#: includes/widgets/single-product/add-to-cart.php:228
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:34
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:102
+msgid "Quantity"
+msgstr ""
+
+#: includes/widgets/single-product/add-to-cart.php:397
+msgid "Variations"
+msgstr ""
+
+#: includes/widgets/single-product/add-to-cart.php:416
+#: includes/widgets/single-product/rating.php:109
+msgid "Space Between"
+msgstr ""
+
+#: includes/widgets/single-product/add-to-cart.php:455
+msgid "Select field"
+msgstr ""
+
+#: includes/widgets/single-product/add-to-cart.php:529
+msgid "Add To Cart"
+msgstr ""
+
+#: includes/widgets/single-product/additional-information.php:18
+msgid "Woo Product Additional Information"
+msgstr ""
+
+#: includes/widgets/single-product/additional-information.php:48
+msgid "Product Additional Information"
+msgstr ""
+
+#: includes/widgets/single-product/content.php:18
+msgid "Woo Product Content"
+msgstr ""
+
+#: includes/widgets/single-product/content.php:106
+msgid "Product Content"
+msgstr ""
+
+#: includes/widgets/single-product/custom-key.php:18
+msgid "Woo Product Custom_Key"
+msgstr ""
+
+#: includes/widgets/single-product/custom-key.php:37
+msgid "custom_key"
+msgstr ""
+
+#: includes/widgets/single-product/custom-key.php:45
+#: includes/widgets/single-product/custom-key.php:47
+msgid "Custom key lable"
+msgstr ""
+
+#: includes/widgets/single-product/custom-key.php:55
+msgid "Custom key"
+msgstr ""
+
+#: includes/widgets/single-product/custom-key.php:57
+msgid ""
+"Enter only the custom_key in Product > Custom Fields name. e.g. "
+"total_sales . Default value \"0\" will be shown"
+msgstr ""
+
+#: includes/widgets/single-product/custom-key.php:65
+#: includes/widgets/single-product/meta.php:46
+msgid "View"
+msgstr ""
+
+#: includes/widgets/single-product/custom-key.php:70
+#: includes/widgets/single-product/meta.php:51
+msgid "Table"
+msgstr ""
+
+#: includes/widgets/single-product/custom-key.php:71
+#: includes/widgets/single-product/meta.php:53
+msgid "Inline"
+msgstr ""
+
+#: includes/widgets/single-product/meta.php:18
+msgid "Woo Product Meta"
+msgstr ""
+
+#: includes/widgets/single-product/meta.php:52
+msgid "Stacked"
+msgstr ""
+
+#: includes/widgets/single-product/meta.php:62
+msgid "Text"
+msgstr ""
+
+#: includes/widgets/single-product/meta.php:90
+msgid "Link"
+msgstr ""
+
+#: includes/widgets/single-product/meta.php:129
+msgid "Product Meta"
+msgstr ""
+
+#: includes/widgets/single-product/price.php:18
+msgid "Woo Product Price"
+msgstr ""
+
+#: includes/widgets/single-product/price.php:38
+#: includes/widgets/single-product/price.php:113
+msgid "Product Price"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:44
+msgid "Columns Gap"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:70
+msgid "Rows Gap"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:122
+msgid "Image"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:219
+#: includes/widgets/single-product/related.php:76
+#: includes/widgets/single-product/up-sells.php:65
+msgid "Rating"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:228
+#: includes/widgets/single-product/rating.php:46
+msgid "Star Color"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:239
+#: includes/widgets/single-product/rating.php:57
+msgid "Empty Star Color"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:250
+#: includes/widgets/single-product/rating.php:88
+msgid "Star Size"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:325
+msgid "Regular Price"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:488
+msgid "Text Padding"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:512
+msgid "View Cart"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:543
+msgid "Box"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:551
+msgid "Border Width"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:709
+msgid "Border"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:825
+msgid "Active"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:860
+#: includes/widgets/single-product/product-base.php:868
+msgid "Sale Flash"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:938
+msgid "Width"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:953
+msgid "Height"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:968
+msgid "Position"
+msgstr ""
+
+#: includes/widgets/single-product/product-base.php:997
+msgid "Distance"
+msgstr ""
+
+#: includes/widgets/single-product/product-images.php:38
+msgid "Woo Product Images"
+msgstr ""
+
+#: includes/widgets/single-product/product-images.php:95
+msgid ""
+"This is the preview mode of the builder, this widget may not show properly "
+"you should view the result in the Product Page and The style of this widget "
+"is often affected by your theme and plugins. If you experience any such "
+"issue, try to switch to a basic theme and deactivate related plugins."
+msgstr ""
+
+#: includes/widgets/single-product/product-images.php:145
+msgid "Product Images"
+msgstr ""
+
+#: includes/widgets/single-product/rating.php:18
+msgid "Woo Product Rating"
+msgstr ""
+
+#: includes/widgets/single-product/rating.php:38
+#: includes/widgets/single-product/rating.php:184
+msgid "Product Rating"
+msgstr ""
+
+#: includes/widgets/single-product/rating.php:137
+msgid "AlignmentAlignment"
+msgstr ""
+
+#: includes/widgets/single-product/related.php:18
+msgid "Woo Product Related"
+msgstr ""
+
+#: includes/widgets/single-product/related.php:37
+msgid "Related Products"
+msgstr ""
+
+#: includes/widgets/single-product/related.php:45
+msgid "Products Per Page"
+msgstr ""
+
+#: includes/widgets/single-product/related.php:78
+#: includes/widgets/single-product/up-sells.php:67
+msgid "Menu Order"
+msgstr ""
+
+#: includes/widgets/single-product/reviews.php:18
+msgid "Woo Product Reviews"
+msgstr ""
+
+#: includes/widgets/single-product/reviews.php:48
+msgid "Product Reviews"
+msgstr ""
+
+#: includes/widgets/single-product/share.php:18
+msgid "Woo Product Share"
+msgstr ""
+
+#: includes/widgets/single-product/share.php:48
+msgid "Product Share"
+msgstr ""
+
+#: includes/widgets/single-product/short-description.php:18
+msgid "Woo Product Short Description"
+msgstr ""
+
+#: includes/widgets/single-product/short-description.php:113
+msgid "Product Short Description"
+msgstr ""
+
+#: includes/widgets/single-product/tabs.php:18
+msgid "Woo Product Tabs"
+msgstr ""
+
+#: includes/widgets/single-product/tabs.php:48
+msgid "Product Tabs"
+msgstr ""
+
+#: includes/widgets/single-product/title.php:18
+msgid "Woo Product Title"
+msgstr ""
+
+#: includes/widgets/single-product/title.php:38
+#: includes/widgets/single-product/title.php:122
+msgid "Product Title"
+msgstr ""
+
+#: includes/widgets/single-product/up-sells.php:18
+msgid "Woo Product Upsells"
+msgstr ""
+
+#: includes/widgets/single-product/up-sells.php:37
+msgid "Upsells"
+msgstr ""
+
+#: includes/widgets/single-product/woocommerce-german-market/woocommerce_de_price_with_tax_hint_single.php:18
+msgid "German Market: print tax hint"
+msgstr ""
+
+#: includes/widgets/single-product/woocommerce-germanized/delivery-time-info.php:18
+msgid "Woo Germanized Delivery Time Info"
+msgstr ""
+
+#: includes/widgets/single-product/woocommerce-germanized/legal-info.php:18
+msgid "Woo Germanized Legal Info"
+msgstr ""
+
+#: includes/widgets/single-product/woocommerce-germanized/price-unit.php:18
+msgid "Woo Germanized Price Unit"
+msgstr ""
+
+#: includes/widgets/single-product/woocommerce-memberships/purchasing-discount-message.php:18
+msgid "Woo Memberships: Product Purchasing Discount"
+msgstr ""
+
+#: includes/widgets/single-product/woocommerce-memberships/purchasing-restricted-message.php:18
+msgid "Woo Memberships: Product Purchasing Restricted"
+msgstr ""
+
+#: includes/widgets/single-product/yith/compare.php:18
+msgid "YITH Add Compare"
+msgstr ""
+
+#: includes/widgets/single-product/yith/wishlist.php:18
+msgid "YITH Add To Wishlist"
+msgstr ""
+
+#: includes/widgets/thankyou/customer_details.php:38
+msgid "Order Customer Details"
+msgstr ""
+
+#: includes/widgets/thankyou/order_details.php:38
+msgid "Order Details"
+msgstr ""
+
+#: includes/widgets/thankyou/order_details.php:136
+msgid "Order Item"
+msgstr ""
+
+#: includes/widgets/thankyou/order_details.php:168
+msgid "Quantity Color"
+msgstr ""
+
+#: includes/widgets/thankyou/order_details.php:179
+msgid "Product Total"
+msgstr ""
+
+#: includes/widgets/thankyou/order_details.php:310
+msgid "Order details"
+msgstr ""
+
+#: includes/widgets/thankyou/order_details.php:355
+msgid "Note:"
+msgstr ""
+
+#: includes/widgets/thankyou/thankyou.php:38
+msgid "Thank You Order"
+msgstr ""
+
+#: includes/widgets/thankyou/thankyou.php:81
+msgid "Order Received"
+msgstr ""
+
+#: includes/widgets/thankyou/thankyou.php:88
+msgid "Order Received Text"
+msgstr ""
+
+#: includes/widgets/thankyou/thankyou.php:90
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: includes/widgets/thankyou/thankyou.php:193
+msgid "Details"
+msgstr ""
+
+#: includes/widgets/thankyou/thankyou.php:270
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: includes/widgets/thankyou/thankyou.php:273
+msgid "Pay"
+msgstr ""
+
+#: includes/widgets/thankyou/thankyou.php:275
+msgid "My account"
+msgstr ""
+
+#: includes/widgets/thankyou/thankyou.php:286
+msgid "Order number:"
+msgstr ""
+
+#: includes/widgets/thankyou/thankyou.php:291
+msgid "Date:"
+msgstr ""
+
+#: includes/widgets/thankyou/thankyou.php:297
+msgid "Email:"
+msgstr ""
+
+#: includes/widgets/thankyou/thankyou.php:303
+msgid "Total:"
+msgstr ""
+
+#: includes/widgets/thankyou/thankyou.php:309
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:57
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:91
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:137
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce-builder-elementor-templates/cart/cart-table.php:137
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce-builder-elementor-templates/checkout/form-checkout.php:17
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce-builder-elementor-templates/myaccount/partials/dropdown.php:13
+msgid "Choose value"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "DT WooCommerce Page Builder For Elementor"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://dawnthemes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"is the ideal Elementor add-on to effortlessly layout for WooCommerce and "
+"more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "DawnThemes"
+msgstr ""

@@ -1,0 +1,2616 @@
+# Copyright (C) 2019 EPIC News Element
+# This file is distributed under the same license as the EPIC News Element package.
+msgid ""
+msgstr ""
+"Project-Id-Version: EPIC News Element\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Jegtheme <support@jegtheme.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: epic-news-element/includes/helper.php:148
+msgid "edit post"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:295
+msgid "%s ago"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:879, epic-news-element/includes/class/Module/Block/BlockViewAbstract.php:111
+msgid "Previous"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:880, epic-news-element/includes/class/Module/Block/BlockViewAbstract.php:106, epic-news-element/includes/class/Module/Block/BlockViewAbstract.php:112, epic-news-element/includes/class/Module/Block/BlockViewAbstract.php:172, epic-news-element/includes/class/Module/Element/Element_Newsticker_View.php:66
+msgid "Next"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:968
+msgid "&hellip;"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:1001, epic-news-element/includes/class/Module/Block/BlockViewAbstract.php:290
+msgid "Page %s of %s"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:1040, epic-news-element/includes/class/Option/sections/single_post_template.php:31
+msgid "Choose Custom Template"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:1572
+msgid "Facebook"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:1577
+msgid "Twitter"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:1582
+msgid "Google+"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:1587
+msgid "Linked In"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:1592
+msgid "Pinterest"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:1597
+msgid "Tumblr"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:1602
+msgid "StumbleUpon"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:1607
+msgid "WhatsApp"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:1612
+msgid "E-mail"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:1617
+msgid "VK"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:1622
+msgid "Reddit"
+msgstr ""
+
+#: epic-news-element/includes/helper.php:1627
+msgid "WeChat"
+msgstr ""
+
+#: epic-news-element/includes/class/ShortCodeGenerator.php:119, epic-news-element/includes/class/Widget/WidgetAbstract.php:22
+msgid "General"
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Author.php:42
+msgid "Override Author Setting"
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Author.php:53
+msgid "Override Author Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Author.php:54
+msgid "Override general author template for this user."
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Author.php:61
+msgid "Author Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Author.php:62
+msgid "Choose archive template that you want to use for this user."
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Author.php:76, epic-news-element/includes/class/Archive/Category.php:191, epic-news-element/includes/class/Archive/Tag.php:71, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:166, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:98, epic-news-element/includes/class/Option/sections/single_archive_template.php:61, epic-news-element/includes/class/Option/sections/single_archive_template.php:222, epic-news-element/includes/class/Option/sections/single_archive_template.php:383, epic-news-element/includes/class/Option/sections/single_archive_template.php:532
+msgid "Number of Post"
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Author.php:77
+msgid "Set the number of post per page on author page."
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Category.php:80
+msgid "Override Category Setting"
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Category.php:130
+msgid "Override Category Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Category.php:131
+msgid "Override category general color setting."
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Category.php:138
+msgid "Category Background Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Category.php:139
+msgid "Main color for this category."
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Category.php:153
+msgid "Category Text Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Category.php:154
+msgid "Choose text color for this category."
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Category.php:168
+msgid "Override Category Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Category.php:169
+msgid "Override general category template for this category."
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Category.php:176
+msgid "Category Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Category.php:177
+msgid "Choose archive template that you want to use for this category."
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Category.php:192, epic-news-element/includes/class/Option/sections/single_archive_template.php:62
+msgid "Set the number of post per page on category page."
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Tag.php:30
+msgid "Override Tag Setting"
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Tag.php:48
+msgid "Override Tag Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Tag.php:49
+msgid "Override general tag template for this post tag."
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Tag.php:56
+msgid "Tag Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Tag.php:57
+msgid "Choose archive template that you want to use for this tag."
+msgstr ""
+
+#: epic-news-element/includes/class/Archive/Tag.php:72
+msgid "Set the number of post per page on tag page."
+msgstr ""
+
+#: epic-news-element/includes/class/Elementor/ModuleElementor.php:313, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:427
+msgid "EPIC - Module"
+msgstr ""
+
+#: epic-news-element/includes/class/Elementor/ModuleElementor.php:314, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:22
+msgid "EPIC - Hero"
+msgstr ""
+
+#: epic-news-element/includes/class/Elementor/ModuleElementor.php:315, epic-news-element/includes/class/Module/Slider/SliderOptionAbstract.php:20
+msgid "EPIC - Slider"
+msgstr ""
+
+#: epic-news-element/includes/class/Elementor/ModuleElementor.php:316, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:52, epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:23, epic-news-element/includes/class/Module/Element/Element_Embedplaylist_Option.php:18, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:23, epic-news-element/includes/class/Module/Element/Element_Iconlink_Option.php:23, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:23
+msgid "EPIC - Element"
+msgstr ""
+
+#: epic-news-element/includes/class/Elementor/ModuleElementor.php:317, epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:27
+msgid "EPIC - Carousel"
+msgstr ""
+
+#: epic-news-element/includes/class/Elementor/ModuleElementor.php:318
+msgid "EPIC - Footer"
+msgstr ""
+
+#: epic-news-element/includes/class/Elementor/ModuleElementor.php:319, epic-news-element/includes/class/Module/Post/Post_Author_Option.php:13, epic-news-element/includes/class/Module/Post/Post_Comment_Option.php:13, epic-news-element/includes/class/Module/Post/Post_Content_Option.php:13, epic-news-element/includes/class/Module/Post/Post_Feature_Option.php:13, epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:12, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:13, epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:12, epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:12, epic-news-element/includes/class/Module/Post/Post_Title_Option.php:12
+msgid "EPIC - Post"
+msgstr ""
+
+#: epic-news-element/includes/class/Elementor/ModuleElementor.php:320, epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:13, epic-news-element/includes/class/Module/Archive/Archive_Breadcrumb_Option.php:13, epic-news-element/includes/class/Module/Archive/Archive_Desc_Option.php:13, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:12, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:13, epic-news-element/includes/class/Module/Archive/Archive_Title_Option.php:13
+msgid "EPIC - Archive"
+msgstr ""
+
+#: epic-news-element/includes/class/Elementor/ModuleElementor.php:343
+msgid "Custom CSS Setting"
+msgstr ""
+
+#: epic-news-element/includes/class/Elementor/ModuleElementor.php:346
+msgid "Enter custom CSS (Note: it will be outputted only on this particular page)."
+msgstr ""
+
+#: epic-news-element/includes/class/Elementor/ModuleElementorAbstract.php:88
+msgid "Style"
+msgstr ""
+
+#: epic-news-element/includes/class/Elementor/ModuleElementorAbstract.php:93
+msgid "Setting"
+msgstr ""
+
+#: epic-news-element/includes/class/Image/Image.php:82
+msgid "Custom Size"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:116
+msgid "Compatible Column: "
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:117, epic-news-element/includes/class/Widget/Module/WidgetModuleAbstract.php:191
+msgid "Please check style / design tab to change Module / Block width and make it fit with your current column width"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:154
+msgid "Include Post Type"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:155
+msgid "Choose post type for this content."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:156, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:168, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:182, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:192, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:205, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:228, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:243, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:257, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:271, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:285, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:299, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:313, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:326, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:445
+msgid "Content Filter"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:167
+msgid "Show number of post on this module."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:180, epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:135
+msgid "Number of post"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:181
+msgid "This module will require you to choose %s number of post."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:190
+msgid "Post Offset"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:191
+msgid "Number of post offset (start of content)."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:203
+msgid "Include into Unique Content Group"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:204
+msgid "Choose unique content option, and this module will be included into unique content group. It won't duplicate content across the group. Ajax loaded content won't affect this unique content feature."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:208
+msgid "Disable"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:209
+msgid "Unique Content - Group 1"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:210
+msgid "Unique Content - Group 2"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:211
+msgid "Unique Content - Group 3"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:212
+msgid "Unique Content - Group 4"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:213
+msgid "Unique Content - Group 5"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:226
+msgid "Include Post ID"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:227, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:242
+msgid "Tips :<br/> - You can search post id by inputing title, clicking search title, and you will have your post id.<br/>- You can also directly insert your post id, and click enter to add it on the list."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:241
+msgid "Exclude Post ID"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:255
+msgid "Include Category"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:256
+msgid "Choose which category you want to show on this module."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:269
+msgid "Exclude Category"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:270
+msgid "Choose excluded category for this module."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:283, epic-news-element/includes/class/Module/Archive/Archive_Breadcrumb_View.php:65, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:229, epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:38, epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:54
+msgid "Author"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:284
+msgid "Write to search post author."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:297
+msgid "Include Tags"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:298, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:312
+msgid "Write to search post tag."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:311
+msgid "Exclude Tags"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:323
+msgid "Sort by"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:325
+msgid "Sort post by this option<br/>* <strong>Jetpack :</strong> Need <strong>Jetpack</strong> plugin & Stat module enabled.<br/>"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:329
+msgid "Latest Post"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:330
+msgid "Oldest Post"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:331
+msgid "Alphabet Asc"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:332
+msgid "Alphabet Desc"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:333
+msgid "Random Post"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:334
+msgid "Random Post (7 Days)"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:335
+msgid "Random Post (30 Days)"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:336
+msgid "Most Comment"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:337
+msgid "Popular Post (1 Day - Jetpack)"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:338
+msgid "Popular Post (7 Days - Jetpack)"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:339
+msgid "Popular Post (30 Days - Jetpack)"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:340
+msgid "Popular Post (All Time - Jetpack)"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:347, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:35, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:14
+msgid "Auto"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:352
+msgid "4 Column Design ( 1 Block )"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:358
+msgid "8 Column Design ( 2 Block )"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:364
+msgid "12 Column Design ( 3 Block )"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:371
+msgid "Element ID"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:372
+msgid "Enter element ID (Note: make sure it is unique and valid according to <a href=\"%s\">w3c specification</a>)."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:373, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:381, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:390, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:404, epic-news-element/includes/class/Module/ModuleOptionAbstract.php:415, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:75, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:83, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:91, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:99, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:515, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:523, epic-news-element/includes/class/Module/Block/Block_11_Option.php:25, epic-news-element/includes/class/Module/Block/Block_12_Option.php:26, epic-news-element/includes/class/Module/Block/Block_28_Option.php:30, epic-news-element/includes/class/Module/Block/Block_29_Option.php:30, epic-news-element/includes/class/Module/Block/Block_30_Option.php:30, epic-news-element/includes/class/Module/Block/Block_32_Option.php:25, epic-news-element/includes/class/Module/Block/Block_32_Option.php:33, epic-news-element/includes/class/Module/Block/Block_32_Option.php:41, epic-news-element/includes/class/Module/Block/Block_33_Option.php:25, epic-news-element/includes/class/Module/Block/Block_33_Option.php:33, epic-news-element/includes/class/Module/Block/Block_33_Option.php:41, epic-news-element/includes/class/Module/Block/Block_35_Option.php:25, epic-news-element/includes/class/Module/Block/Block_35_Option.php:33, epic-news-element/includes/class/Module/Block/Block_35_Option.php:41, epic-news-element/includes/class/Module/Block/Block_36_Option.php:25, epic-news-element/includes/class/Module/Block/Block_36_Option.php:33, epic-news-element/includes/class/Module/Block/Block_37_Option.php:22, epic-news-element/includes/class/Module/Block/Block_37_Option.php:30, epic-news-element/includes/class/Module/Block/Block_37_Option.php:38, epic-news-element/includes/class/Module/Block/Block_37_Option.php:46, epic-news-element/includes/class/Module/Block/Block_37_Option.php:54, epic-news-element/includes/class/Module/Block/Block_38_Option.php:23, epic-news-element/includes/class/Module/Block/Block_38_Option.php:31, epic-news-element/includes/class/Module/Block/Block_38_Option.php:39, epic-news-element/includes/class/Module/Block/Block_38_Option.php:47, epic-news-element/includes/class/Module/Block/Block_38_Option.php:55, epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:29, epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:43, epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:52, epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:61, epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:69, epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:77, epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:85, epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:30, epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:38, epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:46, epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:54, epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:62, epic-news-element/includes/class/Module/Post/Post_Title_Option.php:30, epic-news-element/includes/class/Module/Post/Post_Title_Option.php:38, epic-news-element/includes/class/Module/Slider/Slider_7_Option.php:25
+msgid "Design"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:379
+msgid "Extra class name"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:380
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:388
+msgid "Element Color Scheme"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:389
+msgid "choose element color scheme for your element "
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:393
+msgid "Light"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:394
+msgid "Dark"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:402
+msgid "Block / Column Width"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:403
+msgid "Please choose width of column you want to use on this block. 1 Block represents 4 columns."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:414
+msgid "CSS Box"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleOptionAbstract.php:444
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleVC.php:434
+msgid "Select File"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleViewAbstract.php:195
+msgid "This module works best for column <strong>%s</strong> ( current column width <strong>%s</strong> ). This warning will only show if you login as Admin."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleViewAbstract.php:198
+msgid "Optimal Column"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleViewAbstract.php:414, epic-news-element/includes/class/Module/ModuleViewAbstract.php:469, epic-news-element/includes/class/Module/Block/Block_26_View.php:52, epic-news-element/includes/class/Module/Block/Block_26_View.php:105, epic-news-element/includes/class/Module/Post/Post_Meta_View.php:77, epic-news-element/includes/class/Module/Post/Post_Meta_View.php:147, epic-news-element/includes/class/Module/Slider/SliderViewAbstract.php:30
+msgid "by"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleViewAbstract.php:503
+msgid "No Content Available"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/ModuleViewAbstract.php:636
+msgid "ADVERTISEMENT"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/Option.php:48
+msgid "EPIC : Custom Template Option"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/Option.php:49, epic-news-element/includes/class/Option/Option.php:77
+msgid "Jeg "
+msgstr ""
+
+#: epic-news-element/includes/class/Option/Option.php:55, epic-news-element/includes/class/Single/SinglePost.php:66, epic-news-element/includes/class/Option/sections/single_post_template.php:11
+msgid "Single Post Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/Option.php:64, epic-news-element/includes/class/Single/SingleArchive.php:70
+msgid "Single Archive Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/Option.php:76
+msgid "EPIC : Module Element Option"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/Option.php:83
+msgid "Module Image Setting"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/Option.php:92
+msgid "Module Loader"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/Option.php:101
+msgid "Module Meta Option"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/Option.php:110
+msgid "Module Custom Post Type"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/Option.php:119
+msgid "Module Global Font"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SingleAbstract.php:128
+msgid "No title"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SingleArchive.php:57, epic-news-element/includes/class/Single/SingleArchive.php:58, epic-news-element/includes/class/Single/SingleArchive.php:59, epic-news-element/includes/class/Single/SingleArchive.php:132
+msgid "Archive Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SingleArchive.php:60
+msgid "New Archive Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SingleArchive.php:61
+msgid "Build Archive Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SingleArchive.php:62
+msgid "Edit Archive Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SingleArchive.php:63
+msgid "New Archive Template Entry"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SingleArchive.php:64
+msgid "View Archive Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SingleArchive.php:65
+msgid "Search Archive Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SingleArchive.php:66, epic-news-element/includes/class/Single/SinglePost.php:62
+msgid "No entry found"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SingleArchive.php:67
+msgid "No Archive Template in Trash"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SingleArchive.php:136
+msgid "Archive Template for Epic News Element"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SinglePost.php:53, epic-news-element/includes/class/Single/SinglePost.php:54, epic-news-element/includes/class/Single/SinglePost.php:55, epic-news-element/includes/class/Single/SinglePost.php:95
+msgid "Post Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SinglePost.php:56
+msgid "New Post Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SinglePost.php:57
+msgid "Build Post Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SinglePost.php:58
+msgid "Edit Post Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SinglePost.php:59
+msgid "New Post Template Entry"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SinglePost.php:60
+msgid "View Post Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SinglePost.php:61
+msgid "Search Post Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SinglePost.php:63
+msgid "No Post Template in Trash"
+msgstr ""
+
+#: epic-news-element/includes/class/Single/SinglePost.php:99
+msgid "Post Template for Epic News Element"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:23
+msgid "EPIC - Archive Block"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:37, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:37
+msgid "Pagination Mode"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:38, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:38, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:313
+msgid "Choose which pagination mode that fit with your block."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:39, epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:54, epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:69, epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:81, epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:90, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:39, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:53, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:64, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:72, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:314, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:328, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:336, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:348
+msgid "Pagination"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:42, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:42
+msgid "Normal - Navigation 1"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:43, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:43
+msgid "Normal - Navigation 2"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:44, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:44
+msgid "Normal - Navigation 3"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:55, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:346, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:109
+msgid "Auto Load Limit"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:56, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:347, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:110
+msgid "Limit of auto load when scrolling, set to zero to always load until end of content."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:67, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:51
+msgid "Pagination Align"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:68, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:52
+msgid "Choose pagination alignment."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:72, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:56, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:79, epic-news-element/includes/class/Module/Slider/Slider_7_Option.php:27
+msgid "Left"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:73, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:57, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:80
+msgid "Center"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:82, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:65, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:326
+msgid "Show Navigation Text"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:83, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:66
+msgid "Show navigation text (next, prev)."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:91, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:73
+msgid "Show Page Info"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:92, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:74
+msgid "Show page info text (Page x of y)."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:128
+msgid "Block Type"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:129
+msgid "Choose which block type that fit your content design."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:136
+msgid "Set number of post for this block."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:146, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:516
+msgid "Enable Boxed"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:147, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:517
+msgid "This option will turn the module into boxed."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:154, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:524
+msgid "Enable Shadow"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:155
+msgid "Enable excerpt ellipsis"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:162, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:287, epic-news-element/includes/class/Module/Block/Block_28_Option.php:75, epic-news-element/includes/class/Module/Block/Block_29_Option.php:75, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:158
+msgid "Excerpt Length"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:163, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:288, epic-news-element/includes/class/Module/Block/Block_28_Option.php:76, epic-news-element/includes/class/Module/Block/Block_29_Option.php:76
+msgid "Set word length of excerpt on post block."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:174, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:299
+msgid "Excerpt Ellipsis"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:175, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:300
+msgid "Define excerpt ellipsis"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:183, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:261, epic-news-element/includes/class/Module/Block/Block_28_Option.php:49, epic-news-element/includes/class/Module/Block/Block_29_Option.php:49
+msgid "Content Date Format"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:184, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:125, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:262, epic-news-element/includes/class/Module/Block/Block_28_Option.php:50, epic-news-element/includes/class/Module/Block/Block_29_Option.php:50, epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:80, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:47, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:171, epic-news-element/includes/class/Module/Slider/SliderOptionAbstract.php:58, epic-news-element/includes/class/Module/Slider/Slider_3_Option.php:59, epic-news-element/includes/class/Module/Slider/Slider_8_Option.php:59
+msgid "Choose which date format you want to use."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:187, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:128, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:266, epic-news-element/includes/class/Module/Block/Block_28_Option.php:54, epic-news-element/includes/class/Module/Block/Block_29_Option.php:54, epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:83, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:50, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:175, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:173, epic-news-element/includes/class/Module/Slider/SliderOptionAbstract.php:61, epic-news-element/includes/class/Module/Slider/Slider_3_Option.php:62, epic-news-element/includes/class/Module/Slider/Slider_4_Option.php:53, epic-news-element/includes/class/Module/Slider/Slider_8_Option.php:62
+msgid "Relative Date/Time Format (ago)"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:188, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:129, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:267, epic-news-element/includes/class/Module/Block/Block_28_Option.php:55, epic-news-element/includes/class/Module/Block/Block_29_Option.php:55, epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:84, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:51, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:176, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:174, epic-news-element/includes/class/Module/Slider/SliderOptionAbstract.php:62, epic-news-element/includes/class/Module/Slider/Slider_3_Option.php:63, epic-news-element/includes/class/Module/Slider/Slider_4_Option.php:54, epic-news-element/includes/class/Module/Slider/Slider_8_Option.php:63
+msgid "WordPress Default Format"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:189, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:130, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:268, epic-news-element/includes/class/Module/Block/Block_28_Option.php:56, epic-news-element/includes/class/Module/Block/Block_29_Option.php:56, epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:85, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:52, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:177, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:175, epic-news-element/includes/class/Module/Slider/SliderOptionAbstract.php:63, epic-news-element/includes/class/Module/Slider/Slider_3_Option.php:64, epic-news-element/includes/class/Module/Slider/Slider_4_Option.php:55, epic-news-element/includes/class/Module/Slider/Slider_8_Option.php:64
+msgid "Custom Format"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:197, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:156, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:275, epic-news-element/includes/class/Module/Block/Block_28_Option.php:63, epic-news-element/includes/class/Module/Block/Block_29_Option.php:63, epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:91, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:59, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:183, epic-news-element/includes/class/Module/Slider/SliderOptionAbstract.php:69, epic-news-element/includes/class/Module/Slider/Slider_3_Option.php:70, epic-news-element/includes/class/Module/Slider/Slider_4_Option.php:61, epic-news-element/includes/class/Module/Slider/Slider_8_Option.php:70
+msgid "Custom Date Format"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:198, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:157, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:276, epic-news-element/includes/class/Module/Block/Block_28_Option.php:64, epic-news-element/includes/class/Module/Block/Block_29_Option.php:64, epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:92, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:60, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:184, epic-news-element/includes/class/Module/Slider/SliderOptionAbstract.php:70, epic-news-element/includes/class/Module/Slider/Slider_3_Option.php:71, epic-news-element/includes/class/Module/Slider/Slider_4_Option.php:62, epic-news-element/includes/class/Module/Slider/Slider_8_Option.php:71
+msgid "Please write custom date format for your module, for more detail about how to write date format, you can refer to this <a href=\"%s\" target=\"_blank\">link</a>."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:206, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:165
+msgid "Only First Page"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:207
+msgid "Enable this option if you want to show this block only on the first page."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:218, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:452, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:535, epic-news-element/includes/class/Module/Block/Block_11_Option.php:37, epic-news-element/includes/class/Module/Block/Block_14_Option.php:30, epic-news-element/includes/class/Module/Block/Block_15_Option.php:24, epic-news-element/includes/class/Module/Block/Block_18_Option.php:31, epic-news-element/includes/class/Module/Block/Block_19_Option.php:30, epic-news-element/includes/class/Module/Block/Block_20_Option.php:30, epic-news-element/includes/class/Module/Block/Block_21_Option.php:30, epic-news-element/includes/class/Module/Block/Block_22_Option.php:30, epic-news-element/includes/class/Module/Block/Block_24_Option.php:30, epic-news-element/includes/class/Module/Block/Block_28_Option.php:92, epic-news-element/includes/class/Module/Block/Block_29_Option.php:92, epic-news-element/includes/class/Module/Block/Block_34_Option.php:24, epic-news-element/includes/class/Module/Block/Block_37_Option.php:66, epic-news-element/includes/class/Module/Block/Block_8_Option.php:30, epic-news-element/includes/class/Module/Block/Block_9_Option.php:30, epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:104, epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:87, epic-news-element/includes/class/Module/Element/Element_Embedplaylist_Option.php:75, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:125, epic-news-element/includes/class/Module/Element/Element_Iconlink_Option.php:77, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:129, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:243, epic-news-element/includes/class/Module/Hero/Hero_14_Option.php:34, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:196, epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:97, epic-news-element/includes/class/Module/Slider/SliderOptionAbstract.php:82, epic-news-element/includes/class/Module/Slider/Slider_6_Option.php:24, epic-news-element/includes/class/Module/Slider/Slider_7_Option.php:41
+msgid "Title Typography"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:219, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:453, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:536, epic-news-element/includes/class/Module/Block/Block_11_Option.php:38, epic-news-element/includes/class/Module/Block/Block_14_Option.php:31, epic-news-element/includes/class/Module/Block/Block_15_Option.php:25, epic-news-element/includes/class/Module/Block/Block_18_Option.php:32, epic-news-element/includes/class/Module/Block/Block_19_Option.php:31, epic-news-element/includes/class/Module/Block/Block_20_Option.php:31, epic-news-element/includes/class/Module/Block/Block_21_Option.php:31, epic-news-element/includes/class/Module/Block/Block_22_Option.php:31, epic-news-element/includes/class/Module/Block/Block_24_Option.php:31, epic-news-element/includes/class/Module/Block/Block_28_Option.php:93, epic-news-element/includes/class/Module/Block/Block_29_Option.php:93, epic-news-element/includes/class/Module/Block/Block_34_Option.php:25, epic-news-element/includes/class/Module/Block/Block_37_Option.php:67, epic-news-element/includes/class/Module/Block/Block_8_Option.php:31, epic-news-element/includes/class/Module/Block/Block_9_Option.php:31, epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:105, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:126, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:244, epic-news-element/includes/class/Module/Hero/Hero_14_Option.php:35, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:197, epic-news-element/includes/class/Module/Slider/SliderOptionAbstract.php:83, epic-news-element/includes/class/Module/Slider/Slider_6_Option.php:25, epic-news-element/includes/class/Module/Slider/Slider_7_Option.php:42
+msgid "Set typography for post title"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:228, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:462, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:545, epic-news-element/includes/class/Module/Block/Block_11_Option.php:47, epic-news-element/includes/class/Module/Block/Block_14_Option.php:40, epic-news-element/includes/class/Module/Block/Block_15_Option.php:34, epic-news-element/includes/class/Module/Block/Block_18_Option.php:41, epic-news-element/includes/class/Module/Block/Block_19_Option.php:40, epic-news-element/includes/class/Module/Block/Block_20_Option.php:40, epic-news-element/includes/class/Module/Block/Block_21_Option.php:40, epic-news-element/includes/class/Module/Block/Block_22_Option.php:40, epic-news-element/includes/class/Module/Block/Block_24_Option.php:40, epic-news-element/includes/class/Module/Block/Block_28_Option.php:102, epic-news-element/includes/class/Module/Block/Block_29_Option.php:102, epic-news-element/includes/class/Module/Block/Block_34_Option.php:34, epic-news-element/includes/class/Module/Block/Block_37_Option.php:76, epic-news-element/includes/class/Module/Block/Block_8_Option.php:40, epic-news-element/includes/class/Module/Block/Block_9_Option.php:40, epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:114, epic-news-element/includes/class/Module/Element/Element_Embedplaylist_Option.php:85, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:139, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:253, epic-news-element/includes/class/Module/Hero/Hero_14_Option.php:44, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:206, epic-news-element/includes/class/Module/Slider/SliderOptionAbstract.php:92, epic-news-element/includes/class/Module/Slider/Slider_6_Option.php:34, epic-news-element/includes/class/Module/Slider/Slider_7_Option.php:51
+msgid "Meta Typography"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:229, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:463, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:546, epic-news-element/includes/class/Module/Block/Block_11_Option.php:48, epic-news-element/includes/class/Module/Block/Block_14_Option.php:41, epic-news-element/includes/class/Module/Block/Block_15_Option.php:35, epic-news-element/includes/class/Module/Block/Block_18_Option.php:42, epic-news-element/includes/class/Module/Block/Block_19_Option.php:41, epic-news-element/includes/class/Module/Block/Block_20_Option.php:41, epic-news-element/includes/class/Module/Block/Block_21_Option.php:41, epic-news-element/includes/class/Module/Block/Block_22_Option.php:41, epic-news-element/includes/class/Module/Block/Block_24_Option.php:41, epic-news-element/includes/class/Module/Block/Block_28_Option.php:103, epic-news-element/includes/class/Module/Block/Block_29_Option.php:103, epic-news-element/includes/class/Module/Block/Block_34_Option.php:35, epic-news-element/includes/class/Module/Block/Block_37_Option.php:77, epic-news-element/includes/class/Module/Block/Block_8_Option.php:41, epic-news-element/includes/class/Module/Block/Block_9_Option.php:41, epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:115, epic-news-element/includes/class/Module/Element/Element_Embedplaylist_Option.php:86, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:140, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:254, epic-news-element/includes/class/Module/Hero/Hero_14_Option.php:45, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:207, epic-news-element/includes/class/Module/Slider/SliderOptionAbstract.php:93, epic-news-element/includes/class/Module/Slider/Slider_6_Option.php:35, epic-news-element/includes/class/Module/Slider/Slider_7_Option.php:52
+msgid "Set typography for post meta"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:238, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:555, epic-news-element/includes/class/Module/Hero/Hero_14_Option.php:54, epic-news-element/includes/class/Module/Slider/Slider_6_Option.php:44, epic-news-element/includes/class/Module/Slider/Slider_7_Option.php:61
+msgid "Post Content Typography"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Block_Option.php:239, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:556, epic-news-element/includes/class/Module/Hero/Hero_14_Option.php:55, epic-news-element/includes/class/Module/Slider/Slider_6_Option.php:45, epic-news-element/includes/class/Module/Slider/Slider_7_Option.php:62
+msgid "Set typography for post content"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Breadcrumb_Option.php:23
+msgid "EPIC - Archive Breadcrumb"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Breadcrumb_Option.php:31, epic-news-element/includes/class/Module/Archive/Archive_Desc_Option.php:31, epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:36
+msgid "Text Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Breadcrumb_Option.php:32, epic-news-element/includes/class/Module/Archive/Archive_Desc_Option.php:32, epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:37
+msgid "Set text color."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Breadcrumb_Option.php:38, epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:52
+msgid "Hover Text Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Breadcrumb_Option.php:39, epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:53
+msgid "Set hover text color."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Breadcrumb_Option.php:45
+msgid "Arrow Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Breadcrumb_Option.php:46
+msgid "Set arrow icon color."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Breadcrumb_Option.php:52, epic-news-element/includes/class/Module/Archive/Archive_Desc_Option.php:38, epic-news-element/includes/class/Module/Archive/Archive_Title_Option.php:51, epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:28, epic-news-element/includes/class/Module/Post/Post_Title_Option.php:28
+msgid "Font Size"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Breadcrumb_Option.php:53, epic-news-element/includes/class/Module/Archive/Archive_Desc_Option.php:39, epic-news-element/includes/class/Module/Archive/Archive_Title_Option.php:52, epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:29, epic-news-element/includes/class/Module/Post/Post_Title_Option.php:29
+msgid "Set font size with unit (Ex: 36px or 4em)."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Breadcrumb_Option.php:64, epic-news-element/includes/class/Module/Archive/Archive_Desc_Option.php:50, epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:84, epic-news-element/includes/class/Module/Archive/Archive_Title_Option.php:61, epic-news-element/includes/class/Module/Post/Post_Author_Option.php:37, epic-news-element/includes/class/Module/Post/Post_Comment_Option.php:37, epic-news-element/includes/class/Module/Post/Post_Content_Option.php:37, epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:90, epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:74, epic-news-element/includes/class/Module/Post/Post_Title_Option.php:50
+msgid "Typography"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Breadcrumb_View.php:62
+msgid "Home"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Breadcrumb_View.php:69, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:217, epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:40, epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:56, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:57
+msgid "Category"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Breadcrumb_View.php:71, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:58
+msgid "Tag"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Desc_Option.php:23
+msgid "EPIC - Archive Description"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:20
+msgid "EPIC - Archive Hero"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:51
+msgid "Hero Type"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:52
+msgid "Choose which hero type that fit your content design."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:68, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:409, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:418, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:430, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:439, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:55, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:63, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:75, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:84, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:163
+msgid "Hero Style"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:69, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:164
+msgid "Choose which hero style that fit your content design."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:94, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:142
+msgid "Hero Margin"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:95, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:143
+msgid "Margin of each hero element."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:124, epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:79, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:46, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:170, epic-news-element/includes/class/Module/Slider/SliderOptionAbstract.php:57, epic-news-element/includes/class/Module/Slider/Slider_3_Option.php:58, epic-news-element/includes/class/Module/Slider/Slider_4_Option.php:49, epic-news-element/includes/class/Module/Slider/Slider_8_Option.php:58
+msgid "Choose Date Format"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:166
+msgid "Enable this option if you want to show this hero only on the first page."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:175, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:96
+msgid "Hero Height on Dekstop"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:176, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:202, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:228, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:254, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:280, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:306, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:97, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:104, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:111, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:118, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:125, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:132
+msgid "Height on pixel / px, leave it empty to use the default number."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:177, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:203, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:229, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:255, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:281, epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:307, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:98, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:105, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:112, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:119, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:126, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:133
+msgid "Hero Design"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:201, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:103
+msgid "Hero Height on 1024px Width Screen"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:227, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:110
+msgid "Hero Height on 768px Width Screen"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:253, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:117
+msgid "Hero Height on 667px Width Screen"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:279, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:124
+msgid "Hero Height on 568px Width Screen"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:305, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:131
+msgid "Hero Height on 480px Width Screen"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:408, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:54
+msgid "Override overlay for item %s"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:410, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:56
+msgid "Override overlay style for this item"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:417, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:62
+msgid "Hero Item %s : Overlay Gradient Degree"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:431, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:76
+msgid "Hero Item %s : Gradient Start Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Hero_Option.php:440, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:85
+msgid "Hero Item %s : Gradient End Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Pagination_Option.php:23
+msgid "EPIC - Archive Pagination"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Title_Option.php:23
+msgid "EPIC - Archive Title"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Title_Option.php:37, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:126, epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:37, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:38, epic-news-element/includes/class/Module/Element/Element_Iconlink_Option.php:48
+msgid "Title"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Title_Option.php:38, epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:38, epic-news-element/includes/class/Module/Element/Element_Iconlink_Option.php:49
+msgid "Insert a text for block link title."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Title_Option.php:44, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:76, epic-news-element/includes/class/Module/Block/Block_37_Option.php:23, epic-news-element/includes/class/Module/Block/Block_38_Option.php:24, epic-news-element/includes/class/Module/Post/Post_Title_Option.php:36
+msgid "Title Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Archive/Archive_Title_Option.php:45, epic-news-element/includes/class/Module/Post/Post_Title_Option.php:37
+msgid "Set title color."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:36, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:15
+msgid "Hide"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:37, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:16
+msgid "120 x 90"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:38, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:17
+msgid "120 x 240"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:39, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:18
+msgid "120 x 600"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:40, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:19
+msgid "125 x 125"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:41, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:20
+msgid "160 x 90"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:42, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:21
+msgid "160 x 600"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:43, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:22
+msgid "180 x 90"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:44, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:23
+msgid "180 x 150"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:45, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:24
+msgid "200 x 90"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:46, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:25
+msgid "200 x 200"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:47, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:26
+msgid "234 x 60"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:48, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:27
+msgid "250 x 250"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:49, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:28
+msgid "320 x 100"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:50, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:29
+msgid "300 x 250"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:51, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:30
+msgid "300 x 600"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:52, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:31
+msgid "320 x 50"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:53, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:32
+msgid "336 x 280"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:54, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:33
+msgid "468 x 15"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:55, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:34
+msgid "468 x 60"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:56, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:35
+msgid "728 x 15"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:57, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:36
+msgid "728 x 90"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:58, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:37
+msgid "970 x 90"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:59, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:39
+msgid "240 x 400"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:60, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:40
+msgid "250 x 360"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:61, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:41
+msgid "580 x 400"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:62, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:42
+msgid "750 x 100"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:63, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:43
+msgid "750 x 200"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:64, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:44
+msgid "750 x 300"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:65, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:45
+msgid "980 x 120"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:66, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:46
+msgid "930 x 180"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:77, epic-news-element/includes/class/Module/Block/Block_37_Option.php:24, epic-news-element/includes/class/Module/Block/Block_38_Option.php:25
+msgid "This option will change your Title color."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:84, epic-news-element/includes/class/Module/Block/Block_37_Option.php:31, epic-news-element/includes/class/Module/Block/Block_38_Option.php:32
+msgid "Accent Color & Link Hover"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:85, epic-news-element/includes/class/Module/Block/Block_37_Option.php:32, epic-news-element/includes/class/Module/Block/Block_38_Option.php:33
+msgid "This option will change your accent color."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:92, epic-news-element/includes/class/Module/Block/Block_37_Option.php:39, epic-news-element/includes/class/Module/Block/Block_38_Option.php:40
+msgid "Meta Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:93, epic-news-element/includes/class/Module/Block/Block_37_Option.php:40, epic-news-element/includes/class/Module/Block/Block_38_Option.php:41
+msgid "This option will change your meta color."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:100
+msgid "Excerpt Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:101
+msgid "This option will change your excerpt color."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:113
+msgid "Header Icon"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:114
+msgid "Choose icon for this block icon."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:115, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:128, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:136, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:143, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:162, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:169, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:177, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:185, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:192, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:200
+msgid "Header"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:127, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:39
+msgid "Main title of Module Block."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:134, epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:43, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:45, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:45
+msgid "Second Title"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:135, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:46
+msgid "Secondary title of Module Block."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:141, epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:49, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:51, epic-news-element/includes/class/Module/Element/Element_Iconlink_Option.php:60
+msgid "Title URL"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:142, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:52
+msgid "Insert URL of heading title."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:160, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:69, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:77
+msgid "Header Type"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:161, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:70, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:78
+msgid "Choose which header type fit with your content design."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:167, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:86
+msgid "Header Background"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:168, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:87
+msgid "This option may not work for all of heading type."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:175, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:93
+msgid "Header Secondary Background"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:176, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:94
+msgid "change secondary background"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:183, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:100
+msgid "Header Text Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:184, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:101
+msgid "Change color of your header text"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:190, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:106
+msgid "Header line Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:191, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:107
+msgid "Change line color of your header"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:198, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:113
+msgid "Header Accent"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:199, epic-news-element/includes/class/Module/Element/Element_Header_Option.php:114
+msgid "Change Accent of your header"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:218
+msgid "Add category filter for heading module."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:219, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:231, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:243, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:251
+msgid "Header Filter"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:230
+msgid "Add author filter for heading module."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:241
+msgid "Tags"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:242
+msgid "Add tag filter for heading module."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:249
+msgid "Default Text"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:250
+msgid "First item text on heading filter."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:264, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:277, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:289, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:301, epic-news-element/includes/class/Module/Block/Block_28_Option.php:42, epic-news-element/includes/class/Module/Block/Block_28_Option.php:52, epic-news-element/includes/class/Module/Block/Block_28_Option.php:65, epic-news-element/includes/class/Module/Block/Block_28_Option.php:77, epic-news-element/includes/class/Module/Block/Block_29_Option.php:42, epic-news-element/includes/class/Module/Block/Block_29_Option.php:52, epic-news-element/includes/class/Module/Block/Block_29_Option.php:65, epic-news-element/includes/class/Module/Block/Block_29_Option.php:77
+msgid "Content Setting"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:312
+msgid "Choose Pagination Mode"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:317, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:88
+msgid "No Pagination"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:318, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:89
+msgid "Next Prev"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:319, epic-news-element/includes/class/Module/Block/BlockViewAbstract.php:121, epic-news-element/includes/class/Module/Block/BlockViewAbstract.php:121, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:90
+msgid "Load More"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:320, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:91
+msgid "Auto Load on Scroll"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:327
+msgid "Show Next/Prev text in the navigation controls."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:334
+msgid "Pagination Post"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:335
+msgid "Number of Post loaded during pagination request."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:364, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:76
+msgid "Ads Type"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:365, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:77
+msgid "Choose which ads type you want to use."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:366, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:380, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:392, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:401, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:409, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:417, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:425, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:433, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:441, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:450, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:458, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:466, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:476, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:486, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:497, epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:505
+msgid "Ads"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:369
+msgid "Disable Ads"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:370, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:80
+msgid "Image Ads"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:371, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:82
+msgid "Google Ads"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:372, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:81
+msgid "Script Code"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:378
+msgid "Ads Position"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:379
+msgid "Set after certain number of post you want this advertisement to show."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:390
+msgid "Random Ads Position"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:391
+msgid "Set after random certain number of post you want this advertisement to show."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:399
+msgid "Ads Image"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:400
+msgid "Upload your ads image."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:407
+msgid "Ads Image Tablet"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:408, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:97
+msgid "Upload your ads image that will be shown on the tablet view."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:415
+msgid "Ads Image Phone"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:416, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:104
+msgid "Upload your ads image that will be shown on the phone view."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:423
+msgid "Ads Image Link"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:424, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:111
+msgid "Insert link of your image ads."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:431
+msgid "Image Alternate Text"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:432, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:118
+msgid "Insert alternate of your ads image."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:439, epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:55, epic-news-element/includes/class/Module/Element/Element_Iconlink_Option.php:66
+msgid "Open New Tab"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:440
+msgid "Open in new tab when ads image clicked."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:448
+msgid "Publisher ID"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:449, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:133
+msgid "Insert data-ad-client / google_ad_client content."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:456
+msgid "Ads Slot ID"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:457, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:140
+msgid "Insert data-ad-slot / google_ad_slot content."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:464
+msgid "Desktop Ads Size"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:465, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:147
+msgid "Choose ads size to show on desktop."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:474
+msgid "Tab Ads Size"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:475, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:156
+msgid "Choose ads size to show on tab."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:484
+msgid "Phone Ads Size"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:485, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:165
+msgid "Choose ads size to show on phone."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:495
+msgid "Script Ads Code"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:496, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:175
+msgid "Put your full ads script right here."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:503, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:181
+msgid "Show Advertisement Text"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockOptionAbstract.php:504, epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:182
+msgid "Show Advertisement Text on bottom of advertisement"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockViewAbstract.php:105, epic-news-element/includes/class/Module/Block/BlockViewAbstract.php:171, epic-news-element/includes/class/Module/Element/Element_Newsticker_View.php:67
+msgid "Prev"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/BlockViewAbstract.php:121
+msgid "Loading..."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_10_Option.php:16
+msgid "EPIC - Module 10"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_10_View.php:33, epic-news-element/includes/class/Module/Block/Block_12_View.php:64, epic-news-element/includes/class/Module/Block/Block_13_View.php:29, epic-news-element/includes/class/Module/Block/Block_16_View.php:29, epic-news-element/includes/class/Module/Block/Block_1_View.php:30, epic-news-element/includes/class/Module/Block/Block_25_View.php:28, epic-news-element/includes/class/Module/Block/Block_26_View.php:47, epic-news-element/includes/class/Module/Block/Block_26_View.php:100, epic-news-element/includes/class/Module/Block/Block_2_View.php:29, epic-news-element/includes/class/Module/Block/Block_30_View.php:32, epic-news-element/includes/class/Module/Block/Block_32_View.php:33, epic-news-element/includes/class/Module/Block/Block_33_View.php:32, epic-news-element/includes/class/Module/Block/Block_35_View.php:35, epic-news-element/includes/class/Module/Block/Block_5_View.php:30, epic-news-element/includes/class/Module/Block/Block_6_View.php:30, epic-news-element/includes/class/Module/Block/Block_7_View.php:26, epic-news-element/includes/class/Module/Hero/Hero_14_View.php:35, epic-news-element/includes/class/Module/Slider/Slider_7_View.php:42
+msgid "Read more"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_11_Option.php:15
+msgid "EPIC - Module 11"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_11_Option.php:26, epic-news-element/includes/class/Module/Block/Block_12_Option.php:27, epic-news-element/includes/class/Module/Block/Block_30_Option.php:31, epic-news-element/includes/class/Module/Block/Block_32_Option.php:34, epic-news-element/includes/class/Module/Block/Block_33_Option.php:34, epic-news-element/includes/class/Module/Block/Block_35_Option.php:34, epic-news-element/includes/class/Module/Block/Block_36_Option.php:26, epic-news-element/includes/class/Module/Block/Block_37_Option.php:47, epic-news-element/includes/class/Module/Block/Block_38_Option.php:48
+msgid "Block Background"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_11_Option.php:27, epic-news-element/includes/class/Module/Block/Block_12_Option.php:28, epic-news-element/includes/class/Module/Block/Block_30_Option.php:32, epic-news-element/includes/class/Module/Block/Block_32_Option.php:35, epic-news-element/includes/class/Module/Block/Block_33_Option.php:35, epic-news-element/includes/class/Module/Block/Block_35_Option.php:35, epic-news-element/includes/class/Module/Block/Block_36_Option.php:27, epic-news-element/includes/class/Module/Block/Block_37_Option.php:48, epic-news-element/includes/class/Module/Block/Block_38_Option.php:49
+msgid "This option will change your Block Background"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_12_Option.php:16
+msgid "EPIC - Module 12"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_13_Option.php:15
+msgid "EPIC - Module 13"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_14_Option.php:15
+msgid "EPIC - Module 14"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_15_Option.php:15
+msgid "EPIC - Module 15"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_16_Option.php:15
+msgid "EPIC - Module 16"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_17_Option.php:15
+msgid "EPIC - Module 17"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_18_Option.php:16
+msgid "EPIC - Module 18"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_19_Option.php:15
+msgid "EPIC - Module 19"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_1_Option.php:14
+msgid "EPIC - Module 1"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_20_Option.php:15
+msgid "EPIC - Module 20"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_21_Option.php:15
+msgid "EPIC - Module 21"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_22_Option.php:15
+msgid "EPIC - Module 22"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_23_Option.php:15
+msgid "EPIC - Module 23"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_24_Option.php:15
+msgid "EPIC - Module 24"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_25_Option.php:16
+msgid "EPIC - Module 25"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_26_Option.php:16
+msgid "EPIC - Module 26"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_26_View.php:53, epic-news-element/includes/class/Module/Block/Block_26_View.php:107
+msgid "Comments"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_27_Option.php:15
+msgid "EPIC - Module 27"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_28_Option.php:21
+msgid "EPIC - Module 28"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_28_Option.php:28, epic-news-element/includes/class/Module/Block/Block_29_Option.php:28
+msgid "Show bottom border line for each article"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_28_Option.php:40, epic-news-element/includes/class/Module/Block/Block_29_Option.php:40
+msgid "Tick to show date"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_28_Option.php:43, epic-news-element/includes/class/Module/Block/Block_29_Option.php:43
+msgid "Show Date"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_29_Option.php:21
+msgid "EPIC - Module 29"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_2_Option.php:15
+msgid "EPIC - Module 2"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_30_Option.php:20
+msgid "EPIC - Module 30"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_31_Option.php:21
+msgid "EPIC - Module 31"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_32_Option.php:15
+msgid "EPIC - Module 32"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_32_Option.php:26, epic-news-element/includes/class/Module/Block/Block_33_Option.php:26, epic-news-element/includes/class/Module/Block/Block_35_Option.php:26
+msgid "Readmore Button Background"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_32_Option.php:27, epic-news-element/includes/class/Module/Block/Block_33_Option.php:27, epic-news-element/includes/class/Module/Block/Block_35_Option.php:27
+msgid "Change the readmore button background color"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_32_Option.php:42, epic-news-element/includes/class/Module/Block/Block_33_Option.php:42, epic-news-element/includes/class/Module/Block/Block_35_Option.php:42, epic-news-element/includes/class/Module/Block/Block_36_Option.php:34, epic-news-element/includes/class/Module/Block/Block_37_Option.php:55, epic-news-element/includes/class/Module/Block/Block_38_Option.php:56
+msgid "Box Shadow"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_33_Option.php:15
+msgid "EPIC - Module 33"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_34_Option.php:15
+msgid "EPIC - Module 34"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_35_Option.php:15
+msgid "EPIC - Module 35"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_36_Option.php:15
+msgid "EPIC - Module 36"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_37_Option.php:14
+msgid "EPIC - Module 37"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_38_Option.php:15
+msgid "EPIC - Module 38"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_3_Option.php:16
+msgid "EPIC - Module 3"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_4_Option.php:16
+msgid "EPIC - Module 4"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_5_Option.php:16
+msgid "EPIC - Module 5"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_6_Option.php:16
+msgid "EPIC - Module 6"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_7_Option.php:16
+msgid "EPIC - Module 7"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_8_Option.php:15
+msgid "EPIC - Module 8"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Block/Block_9_Option.php:15
+msgid "EPIC - Module 9"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:35
+msgid "Show Nav"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:36
+msgid "Check this option to show navigation for your carousel."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:42
+msgid "Number of Item"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:43
+msgid "Set number of carousel item on each slide."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:52
+msgid "Item Margin"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:53
+msgid "Set margin width for each slider item."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:62, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:80, epic-news-element/includes/class/Module/Slider/SliderOptionAbstract.php:40, epic-news-element/includes/class/Module/Slider/Slider_3_Option.php:41, epic-news-element/includes/class/Module/Slider/Slider_4_Option.php:26, epic-news-element/includes/class/Module/Slider/Slider_8_Option.php:41
+msgid "Enable Autoplay"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:63, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:81, epic-news-element/includes/class/Module/Slider/SliderOptionAbstract.php:41, epic-news-element/includes/class/Module/Slider/Slider_3_Option.php:42, epic-news-element/includes/class/Module/Slider/Slider_8_Option.php:42
+msgid "Check this option to enable auto play."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:68, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:87, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:213, epic-news-element/includes/class/Module/Slider/SliderOptionAbstract.php:46, epic-news-element/includes/class/Module/Slider/Slider_3_Option.php:47, epic-news-element/includes/class/Module/Slider/Slider_4_Option.php:38, epic-news-element/includes/class/Module/Slider/Slider_8_Option.php:47
+msgid "Autoplay Delay"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Carousel/CarouselOptionAbstract.php:69, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:88, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:214, epic-news-element/includes/class/Module/Slider/SliderOptionAbstract.php:47, epic-news-element/includes/class/Module/Slider/Slider_3_Option.php:48, epic-news-element/includes/class/Module/Slider/Slider_8_Option.php:48
+msgid "Set your autoplay delay (in millisecond)."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Carousel/Carousel_1_Option.php:11
+msgid "EPIC - Carousel 1"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Carousel/Carousel_2_Option.php:11
+msgid "EPIC - Carousel 2"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Carousel/Carousel_3_Option.php:11
+msgid "EPIC - Carousel 3"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:38
+msgid "970 x 250"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:62
+msgid "EPIC - Ads Block"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:89
+msgid "[Image Ads] Ads Image Desktop"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:90
+msgid "Upload your ads image that will be shown on the desktop view."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:96
+msgid "[Image Ads] Ads Image Tablet"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:103
+msgid "[Image Ads] Ads Image Phone"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:110
+msgid "[Image Ads] Ads Image Link"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:117
+msgid "[Image Ads] Image Alternate Text"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:124
+msgid "[Image Ads] Open New Tab"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:132
+msgid "[Google Ads] Publisher ID"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:139
+msgid "[Google Ads] Ads Slot ID"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:146
+msgid "[Google Ads] Desktop Ads Size"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:155
+msgid "[Google Ads] Tab Ads Size"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:164
+msgid "[Google Ads] Phone Ads Size"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Ads_Option.php:174
+msgid "[Script Code] Ads Code"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:18
+msgid "EPIC - Block Link"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:44, epic-news-element/includes/class/Module/Element/Element_Iconlink_Option.php:55
+msgid "Sub title or short description."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:50, epic-news-element/includes/class/Module/Element/Element_Iconlink_Option.php:61
+msgid "Url of block link title."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:56, epic-news-element/includes/class/Module/Element/Element_Iconlink_Option.php:67
+msgid "Check this option to open link on new tab."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:61
+msgid "Background Image"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:62
+msgid "Choose an image for block background."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:68
+msgid "Use Video Background"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:69
+msgid "If checked, video will be used as background."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:75
+msgid "YouTube Link"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:76
+msgid "Add YouTube video link to used as video background."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:88, epic-news-element/includes/class/Module/Element/Element_Embedplaylist_Option.php:76, epic-news-element/includes/class/Module/Element/Element_Iconlink_Option.php:78, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:130
+msgid "Set typography for title"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:97, epic-news-element/includes/class/Module/Element/Element_Iconlink_Option.php:87
+msgid "Second Title Typography"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Blocklink_Option.php:98, epic-news-element/includes/class/Module/Element/Element_Iconlink_Option.php:88
+msgid "Set typography for second title"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Embedplaylist_Option.php:34
+msgid "EPIC - Youtube / Vimeo Playlist"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Embedplaylist_Option.php:42
+msgid "Video Playlist Layout"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Embedplaylist_Option.php:43
+msgid "Choose video playlist layout."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Embedplaylist_Option.php:46, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:104
+msgid "Horizontal"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Embedplaylist_Option.php:47, epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:103
+msgid "Vertical"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Embedplaylist_Option.php:53
+msgid "Video Playlist Scheme"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Embedplaylist_Option.php:54
+msgid "Choose video scheme color."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Embedplaylist_Option.php:57
+msgid "Light Scheme"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Embedplaylist_Option.php:58
+msgid "Dark Scheme"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Embedplaylist_Option.php:64
+msgid "YouTube / Vimeo Video"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Embedplaylist_Option.php:65
+msgid "Enter your youtube / vimeo video separated by comma (Ex : https://www.youtube.com/watch?v=IvcE4o36cAo, https://vimeo.com/180337696)."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Embedplaylist_View.php:270
+msgid "Currently Playing"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Header_Option.php:18
+msgid "EPIC - Header Module"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Header_Option.php:75
+msgid "Header Align"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Header_Option.php:76
+msgid "Choose which header alignment you want to use."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Header_View.php:17, epic-news-element/includes/class/Module/Post/Post_Related_Option.php:37
+msgid "First Title"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Iconlink_Option.php:18
+msgid "EPIC - Icon Link"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Iconlink_Option.php:37
+msgid "Icon"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Iconlink_Option.php:38
+msgid "Choose icon for this icon link"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Iconlink_Option.php:54
+msgid "Subtitle"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:18
+msgid "EPIC - News Ticker"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:38
+msgid "News Ticker Title"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:39
+msgid "Title of news ticker."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:40
+msgid "TRENDING"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:68
+msgid "News ticker icon"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:69
+msgid "Choose which font icon that best to describe your news ticker."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:99
+msgid "Animation Direction"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:100
+msgid "Choose news ticker animation direction."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:111
+msgid "News Ticker Title Background"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:112
+msgid "Choose news ticker title background. If you leave it empty, you will use default theme scheme color."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:118
+msgid "News Ticker Text Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Element/Element_Newsticker_Option.php:119
+msgid "Choose news ticker title text color. If you leave it empty, you will use default theme scheme color."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:144, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:165, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:173, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:186
+msgid "Hero Setting"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:196, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:198, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:206, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:219, epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:228
+msgid "Hero Slider"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:197
+msgid "Enable hero slider."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:204
+msgid "Slider Autoplay"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:205
+msgid "Enable autoplay hero slider."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:226
+msgid "Slider Item"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/HeroOptionAbstract.php:227
+msgid "Set number of items of hero slider."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/Hero_10_Option.php:13
+msgid "EPIC - Hero 10"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/Hero_11_Option.php:13
+msgid "EPIC - Hero 11"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/Hero_12_Option.php:13
+msgid "EPIC - Hero 12"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/Hero_13_Option.php:13, epic-news-element/includes/class/Module/Hero/Hero_13_View.php:11
+msgid "EPIC - Hero 13"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/Hero_14_Option.php:14
+msgid "EPIC - Hero 14"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/Hero_1_Option.php:13
+msgid "EPIC - Hero 1"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/Hero_2_Option.php:13
+msgid "EPIC - Hero 2"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/Hero_3_Option.php:13
+msgid "EPIC - Hero 3"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/Hero_4_Option.php:13
+msgid "EPIC - Hero 4"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/Hero_5_Option.php:13
+msgid "EPIC - Hero 5"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/Hero_6_Option.php:13
+msgid "EPIC - Hero 6"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/Hero_7_Option.php:13
+msgid "EPIC - Hero 7"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/Hero_8_Option.php:13
+msgid "EPIC - Hero 8"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/Hero_9_Option.php:13
+msgid "EPIC - Hero 9"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Hero/Hero_Skew_Option.php:13
+msgid "EPIC - Hero Skew"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Author_Option.php:23
+msgid "EPIC - Post Author Box"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Comment_Option.php:23
+msgid "EPIC - Comment"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Content_Option.php:23
+msgid "EPIC - Content"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Feature_Option.php:23
+msgid "EPIC - Post Featured Image"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Feature_Option.php:37
+msgid "Featured Image Size"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Feature_Option.php:38
+msgid "choose which feature image size"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Feature_Option.php:41
+msgid "1140x570"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Feature_Option.php:42
+msgid "750x375"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Feature_Option.php:43
+msgid "1140x815"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Feature_Option.php:44
+msgid "750x536"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Feature_Option.php:45
+msgid "Width 1140"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Feature_Option.php:46
+msgid "Width 750"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Feature_Option.php:47
+msgid "Full Width"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:20
+msgid "EPIC - Post Meta"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:33
+msgid "Left Meta Element"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:34, epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:50
+msgid "Pick element you want to add on meta wrapper."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:35, epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:51, epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:65, epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:75
+msgid "Meta Option"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:39, epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:55
+msgid "Date"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:41, epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:57
+msgid "Comment"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:49
+msgid "Right Meta Element"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:63
+msgid "Show avatar image on author element"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:66
+msgid "Show avatar image."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:73
+msgid "Post Date"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:74
+msgid "Choose which post date type that you want to show."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:78, epic-news-element/includes/class/Option/sections/module_meta.php:72
+msgid "Modified Date"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Meta_Option.php:79
+msgid "Published Date"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Meta_View.php:54, epic-news-element/includes/class/Module/Post/Post_Meta_View.php:130
+msgid "in"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Related_Option.php:23
+msgid "EPIC - Related Post"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Related_Option.php:38
+msgid "Insert text for first title."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Related_Option.php:39, epic-news-element/includes/class/Module/Post/Post_Related_View.php:65
+msgid "Related"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Related_Option.php:46
+msgid "Insert text for second title."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Related_Option.php:47, epic-news-element/includes/class/Module/Post/Post_Related_View.php:66
+msgid " Posts"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Related_Option.php:53
+msgid "Related Post Filter"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Related_Option.php:54
+msgid "Select how related post will filter article."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Related_Option.php:84
+msgid "Related Pagination Style"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Related_Option.php:85
+msgid "Adjust how related post will shown."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Related_Option.php:99
+msgid "Set the number of post each related post load."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Related_Option.php:151
+msgid "Related PostTemplate"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Related_Option.php:152
+msgid "Choose your related post template."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Related_Option.php:159
+msgid "Set word length of excerpt on related post."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Related_Option.php:169
+msgid "Related Post Date Format"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Related_Option.php:170
+msgid "Choose which date format you want to use for archive content."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Related_Option.php:182
+msgid "Custom Date Format for Related Post"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Related_Option.php:183
+msgid ""
+"Please set your date format for related post content, for more detail about this format, please refer to\n"
+"                        <a href='%s' target='_blank'>Developer Codex</a>."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:20
+msgid "EPIC - Post Next Prev"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:27
+msgid "Nav Style"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:28
+msgid "Choose navigation style for post prev next element."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:32
+msgid "Style 1"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:33
+msgid "Style 2"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:34
+msgid "Style 3"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:41
+msgid "Border Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:42
+msgid "Set left border color."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:50
+msgid "Border Color Hover"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:51
+msgid "Set left border color hover."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:59
+msgid "Nav Text Font Size"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:60
+msgid "Set font size with unit (Ex: 36px or 4em) for nav text."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:67
+msgid "Nav Text Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:68
+msgid "Set nav text color."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:75
+msgid "Post Title Font Size"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:76
+msgid "Set font size with unit (Ex: 36px or 4em) for post title."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:83
+msgid "Post Title Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:84
+msgid "Set post title text color."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_Option.php:106
+msgid "Nav Text Typography"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_View.php:43
+msgid "Previous Post"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Sequence_View.php:51
+msgid "Next Post"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:20
+msgid "EPIC - Post Tag"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:44
+msgid "Background Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:45
+msgid "Set background color."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:60
+msgid "Hover Background Color"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Tag_Option.php:61
+msgid "Set hover background color."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Tag_View.php:33
+msgid "Tags:"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Post/Post_Title_Option.php:20
+msgid "EPIC - Post Title"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_1_Option.php:13
+msgid "EPIC - Slider 1"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_2_Option.php:13
+msgid "EPIC - Slider 2"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_3_Option.php:18
+msgid "EPIC - Slider 3"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_3_Option.php:31, epic-news-element/includes/class/Module/Slider/Slider_8_Option.php:31
+msgid "Number of Column"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_3_Option.php:32, epic-news-element/includes/class/Module/Slider/Slider_8_Option.php:32
+msgid "Set number of carousel item column on each slide."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_4_Option.php:18
+msgid "EPIC - Slider 4"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_4_Option.php:27
+msgid "check this option to enable auto play"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_4_Option.php:32
+msgid "Use Full-Size Image"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_4_Option.php:33
+msgid "check this option to use full-size image instead of cropped version"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_4_Option.php:39
+msgid "set your autoplay delay (in millisecond)"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_4_Option.php:50
+msgid "choose which date format you want to use"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_5_Option.php:15
+msgid "EPIC - Slider 5"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_6_Option.php:15
+msgid "EPIC - Slider 6"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_6_View.php:49, epic-news-element/includes/class/Module/Slider/Slider_7_View.php:11, epic-news-element/includes/class/Module/Slider/Slider_7_View.php:67
+msgid "prev"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_6_View.php:50, epic-news-element/includes/class/Module/Slider/Slider_7_View.php:12, epic-news-element/includes/class/Module/Slider/Slider_7_View.php:68
+msgid "next"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_7_Option.php:14
+msgid "EPIC - Slider 7"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_7_Option.php:22
+msgid "Featured Image Position"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_7_Option.php:23
+msgid "Choose position for post featured image."
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_7_Option.php:28
+msgid "Right"
+msgstr ""
+
+#: epic-news-element/includes/class/Module/Slider/Slider_8_Option.php:18
+msgid "EPIC - Slider 8"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_custom_post_type.php:20
+msgid "Enable %s Post Type"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_custom_post_type.php:21
+msgid "Enable %s post type and their custom taxonomy as content filter."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_custom_post_type.php:30, epic-news-element/includes/class/Option/sections/module_meta.php:10
+msgid "Notice"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_custom_post_type.php:31
+msgid "There's no custom post type found."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_font.php:9
+msgid "Global Title Font"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_font.php:10
+msgid "Set global module font title."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_font.php:32
+msgid "Global Meta Font"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_font.php:33
+msgid "Set global module meta title."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_font.php:55
+msgid "Global Content Font"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_font.php:56
+msgid "Set global content font title."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_image.php:9
+msgid "How Image Loaded"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_image.php:10
+msgid ""
+"<ul>\n"
+"                    <li><strong>Normal Load Image :</strong> Support retina, largest size at first load, good for SEO.</li>\n"
+"                    <li><strong>Lazy Load :</strong> Less number of image on first load, support for retina, best browsing experience, good for SEO.</li>\n"
+"                    <li><strong>Background :</strong> Support GIF image as featured thumbnail, bad for SEO.</li>\n"
+"                </ul>"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_image.php:25
+msgid "Image Load Mechanism"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_image.php:26
+msgid "Choose image load mechanism method."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_image.php:40
+msgid "How Image Generated"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_image.php:41
+msgid ""
+"<ul>\n"
+"                    <li><strong>Normal Image Generator :</strong> Fastest load time, but require more space. About 12 images will be generated for single image uploaded. If you switch to this option, please regenerate image again.</li>\n"
+"                    <li><strong>Dynamic Image Generator :</strong> Slower load time only when image created for the first time. Image generated only when needed.</li>                    \n"
+"                </ul>"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_image.php:55
+msgid "Image Generator"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_image.php:56
+msgid "Choose image generated method."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_loader.php:11
+msgid "Module Loader Style"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_loader.php:12
+msgid "Choose loader style for general module element."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_loader.php:14
+msgid "Dot"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_loader.php:15
+msgid "Circle"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_loader.php:16
+msgid "Square"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_meta.php:11
+msgid ""
+"<ul>\n"
+"            <li>Every element will behave differently when option changed depend on default meta on each element</li>\n"
+"        </ul>"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_meta.php:24
+msgid "Show Block Meta"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_meta.php:25
+msgid "Show meta for block"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_meta.php:34
+msgid "Show Block Meta - Author"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_meta.php:35
+msgid "Show author on meta block"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_meta.php:51
+msgid "Show Block Meta - Date"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_meta.php:52
+msgid "Show date on meta block"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_meta.php:68
+msgid "Post Date Meta"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_meta.php:69
+msgid "Choose which post date type that you want to show for global post date meta."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_meta.php:71
+msgid "Publish Date"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_meta.php:94
+msgid "Show Block Meta - Comment"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_meta.php:95
+msgid "Show comment icon on meta block"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_meta.php:111
+msgid "Show Block Meta - Share"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_meta.php:112
+msgid "Show share icon on meta block"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_meta.php:127
+msgid "Add Social Icon"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_meta.php:128
+msgid "Add icon for each of your social account."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/module_meta.php:160
+msgid "Social Icon"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_archive_template.php:11, epic-news-element/includes/class/Option/sections/single_archive_template.php:20
+msgid "Category Archive Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_archive_template.php:21
+msgid "Enable custom category archive template."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_archive_template.php:36
+msgid "Category Archive Template List"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_archive_template.php:37, epic-news-element/includes/class/Option/sections/single_archive_template.php:198, epic-news-element/includes/class/Option/sections/single_archive_template.php:359, epic-news-element/includes/class/Option/sections/single_archive_template.php:514
+msgid "Create custom category template from <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_archive_template.php:172, epic-news-element/includes/class/Option/sections/single_archive_template.php:181
+msgid "Tag Archive Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_archive_template.php:182
+msgid "Enable custom tag archive template."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_archive_template.php:197
+msgid "Tag Archive Template List"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_archive_template.php:223
+msgid "Set the number of post per page on tag archive page."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_archive_template.php:333, epic-news-element/includes/class/Option/sections/single_archive_template.php:342
+msgid "Author Archive Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_archive_template.php:343
+msgid "Enable custom author archive template."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_archive_template.php:358
+msgid "Author Archive Template List"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_archive_template.php:384
+msgid "Set the number of post per page on post author page."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_archive_template.php:494, epic-news-element/includes/class/Option/sections/single_archive_template.php:503
+msgid "Date Archive Template"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_archive_template.php:504
+msgid "Enable custom date archive template."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_archive_template.php:513
+msgid "Date Archive Template List"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_archive_template.php:533
+msgid "Set the number of post per page on date archive page."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_post_template.php:12
+msgid "Enable custom single post template."
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_post_template.php:21
+msgid "Single Post Template List"
+msgstr ""
+
+#: epic-news-element/includes/class/Option/sections/single_post_template.php:22
+msgid "Create custom single post template from <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""

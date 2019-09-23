@@ -1,0 +1,457 @@
+@font-face {
+  font-family: 'weathericons';
+  src: url('../fonts/weathericons-regular-webfont.eot');
+  src: url('../fonts/weathericons-regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/weathericons-regular-webfont.woff') format('woff'), url('../fonts/weathericons-regular-webfont.ttf') format('truetype'), url('../fonts/weathericons-regular-webfont.svg#weathericons-regular-webfontRg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.wi:before,
+.wi:after {
+  display: inline-block;
+  font-family: 'weathericons';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.elementor-widget-bdt-weather > .elementor-widget-container {
+  background-color: #ff8777;
+}
+.flatWeatherPlugin {
+  font-size: inherit;
+  width: 100%;
+}
+.flatWeatherPlugin p,
+.flatWeatherPlugin h2,
+.flatWeatherPlugin h3,
+.flatWeatherPlugin ul,
+.flatWeatherPlugin li {
+  padding: 0;
+  margin: 0;
+  color: inherit;
+}
+#flatWeatherLoading.loading {
+  font-size: 90px;
+  text-align: center;
+  padding: 10px;
+  overflow: hidden;
+  -webkit-animation: spin 2s linear infinite;
+  -moz-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+  opacity: 0.2;
+}
+@-moz-keyframes spin {
+  100% {
+    -moz-transform: rotate(-360deg);
+  }
+}
+@-webkit-keyframes spin {
+  100% {
+    -webkit-transform: rotate(-360deg);
+  }
+}
+@keyframes spin {
+  100% {
+    -webkit-transform: rotate(-360deg);
+    transform: rotate(-360deg);
+  }
+}
+.flatWeatherPlugin h2 {
+  margin: 0 0 5px 0;
+}
+.flatWeatherPlugin .wiToday {
+  width: 100%;
+  overflow: hidden;
+}
+.flatWeatherPlugin .wiToday > .wiIconGroup {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+.flatWeatherPlugin .wiToday > .wiIconGroup p {
+  width: 100%;
+  color: inherit;
+  line-height: 1em;
+  padding: 6px 0 0 0;
+}
+.flatWeatherPlugin .wiToday .wiIconGroup div.wi {
+  font-size: 400%;
+  line-height: 1.45em;
+  width: 100%;
+}
+.flatWeatherPlugin .wiToday .wiIconGroup div.wi:before {
+  vertical-align: baseline;
+}
+.flatWeatherPlugin .clearfix:after {
+  content: " ";
+  display: table;
+  clear: both;
+}
+.flatWeatherPlugin div.wiToday > p.wiTemperature {
+  font-size: 400%;
+  line-height: 1.45em;
+  float: right;
+  width: 50%;
+  text-align: center;
+  color: inherit;
+}
+.flatWeatherPlugin sup {
+  opacity: 0.7;
+  font-size: 65%;
+  vertical-align: baseline;
+  top: -0.5em;
+  position: relative;
+}
+.flatWeatherPlugin .wiDetail {
+  overflow: hidden;
+  width: 100%;
+  padding-bottom: 5px;
+}
+.flatWeatherPlugin.today .wiDetail {
+  padding-top: 10px;
+}
+.flatWeatherPlugin .wiDetail p.wiDay {
+  font-weight: 700;
+  margin: 5px 0 2px 0;
+  text-align: right;
+  color: inherit;
+}
+.flatWeatherPlugin.partial .wiToday p.wiDay {
+  text-align: center;
+  font-weight: 700;
+  padding: 0 0 10px 0;
+  clear: both;
+  width: 100%;
+  color: inherit;
+  font-size: 125%;
+}
+.flatWeatherPlugin .wiDetail ul {
+  width: 33%;
+  float: right;
+  list-style: none;
+  font-size: 90%;
+}
+.flatWeatherPlugin .wiDetail ul + ul {
+  width: 27%;
+}
+.flatWeatherPlugin .wiDetail ul + ul + ul {
+  width: 40%;
+}
+.flatWeatherPlugin .wiDetail ul li:before {
+  width: 30px;
+}
+.flatWeatherPlugin ul.wiForecasts {
+  width: 100%;
+  overflow: hidden;
+}
+.flatWeatherPlugin ul.wiForecasts li > span {
+  width: 25%;
+  display: inline-block;
+}
+.flatWeatherPlugin ul.wiForecasts li {
+  float: right;
+  width: 100%;
+  overflow: hidden;
+  display: inline;
+}
+.flatWeatherPlugin ul.wiForecasts ul.wiForecast {
+  font-weight: normal;
+  list-style: none;
+  float: left;
+  width: 75%;
+}
+.flatWeatherPlugin.forecast ul.wiForecasts ul.wiForecast li {
+  text-align: center;
+}
+.flatWeatherPlugin ul.wiForecasts ul.wiForecast li {
+  width: 33%;
+  float: right;
+  text-align: center;
+}
+.flatWeatherPlugin ul.wiForecasts ul.wiForecast li.wi:before {
+  vertical-align: bottom;
+}
+.flatWeatherPlugin ul.wiForecasts li.wiDay {
+  font-weight: 700;
+  border-color: inherit;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 5px 0;
+}
+.flatWeatherPlugin.forecast ul.wiForecasts li.wiDay {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  border-top: none;
+}
+.flatWeatherPlugin ul.wiForecasts li.wiDay:last-child {
+  border-bottom: none;
+}
+.wi.sunrise:before {
+  content: "\f051";
+}
+.wi.sunset:before {
+  content: "\f052";
+}
+.wi.wind:before {
+  content: "\f050";
+}
+.wi.humidity:before {
+  content: "\f04e";
+}
+.wi.pressure:before {
+  content: "\f040";
+}
+.wi.cloudiness:before {
+  content: "\f041";
+}
+.wi.temperature.metric:after {
+  content: "\f03c";
+}
+.wi.temperature.imperial:after {
+  content: "\f045";
+}
+.wi.loading:after {
+  content: "\f04c";
+}
+/***************************
+Thunderstorm
+****************************/
+.wi.wi200:before {
+  content: "\f01d";
+}
+.wi.wi201:before {
+  content: "\f01d";
+}
+.wi.wi202:before {
+  content: "\f01e";
+}
+.wi.wi210:before {
+  content: "\f010";
+}
+.wi.wi211:before {
+  content: "\f01e";
+}
+.wi.wi212:before {
+  content: "\f01e";
+}
+.wi.wi221:before {
+  content: "\f016";
+}
+.wi.wi230:before {
+  content: "\f01d";
+}
+.wi.wi231:before {
+  content: "\f01d";
+}
+.wi.wi232:before {
+  content: "\f01d";
+}
+/***************************
+Drizzle
+****************************/
+.wi.wi300:before {
+  content: "\f01c";
+}
+.wi.wi301:before {
+  content: "\f01c";
+}
+.wi.wi302:before {
+  content: "\f01c";
+}
+.wi.wi310:before {
+  content: "\f01c";
+}
+.wi.wi311:before {
+  content: "\f017";
+}
+.wi.wi312:before {
+  content: "\f017";
+}
+.wi.wi313:before {
+  content: "\f01a";
+}
+.wi.wi314:before {
+  content: "\f01a";
+}
+.wi.wi321:before {
+  content: "\f01a";
+}
+/***************************
+Rain
+****************************/
+.wi.wi500:before {
+  content: "\f01a";
+}
+.wi.wi501:before {
+  content: "\f017";
+}
+.wi.wi502:before {
+  content: "\f019";
+}
+.wi.wi503:before {
+  content: "\f019";
+}
+.wi.wi504:before {
+  content: "\f018";
+}
+.wi.wi511:before {
+  content: "\f015";
+}
+.wi.wi520:before {
+  content: "\f01a";
+}
+.wi.wi521:before {
+  content: "\f01a";
+}
+.wi.wi522:before {
+  content: "\f01a";
+}
+.wi.wi531:before {
+  content: "\f01a";
+}
+/***************************
+Snow
+****************************/
+.wi.wi600:before {
+  content: "\f01b";
+}
+.wi.wi601:before {
+  content: "\f01b";
+}
+.wi.wi602:before {
+  content: "\f01b";
+}
+.wi.wi611:before {
+  content: "\f015";
+}
+.wi.wi612:before {
+  content: "\f015";
+}
+.wi.wi615:before {
+  content: "\f017";
+}
+.wi.wi616:before {
+  content: "\f017";
+}
+.wi.wi620:before {
+  content: "\f017";
+}
+.wi.wi621:before {
+  content: "\f017";
+}
+.wi.wi622:before {
+  content: "\f017";
+}
+/***************************
+Atmosphere
+****************************/
+.wi.wi701:before {
+  content: "\f014";
+}
+.wi.wi711:before {
+  content: "\f062";
+}
+.wi.wi721:before {
+  content: "\f014";
+}
+.wi.wi731:before {
+  content: "\f063";
+}
+.wi.wi741:before {
+  content: "\f014";
+}
+.wi.wi751:before {
+  content: "\f063";
+}
+.wi.wi761:before {
+  content: "\f063";
+}
+.wi.wi762:before {
+  content: "\f063";
+}
+.wi.wi771:before {
+  content: "\f050";
+}
+.wi.wi781:before {
+  content: "\f056";
+}
+/***************************
+Clouds
+****************************/
+.wi.wi800:before {
+  content: "\f00d";
+}
+.wi.wi801:before {
+  content: "\f002";
+}
+.wi.wi802:before {
+  content: "\f002";
+}
+.wi.wi803:before {
+  content: "\f002";
+}
+.wi.wi804:before {
+  content: "\f00c";
+}
+/***************************
+Extreme
+****************************/
+.wi.wi900:before {
+  content: "\f056";
+}
+.wi.wi901:before {
+  content: "\f073";
+}
+.wi.wi902:before {
+  content: "\f073";
+}
+.wi.wi903:before {
+  content: "\f076";
+}
+.wi.wi904:before {
+  content: "\f072";
+}
+.wi.wi905:before {
+  content: "\f050";
+}
+.wi.wi906:before {
+  content: "\f015";
+}
+/***************************
+Additional
+****************************/
+.wi.wi951:before {
+  content: "\f00d";
+}
+.wi.wi952:before {
+  content: "\f021";
+}
+.wi.wi953:before {
+  content: "\f021";
+}
+.wi.wi954:before {
+  content: "\f021";
+}
+.wi.wi955:before {
+  content: "\f021";
+}
+.wi.wi956:before {
+  content: "\f050";
+}
+.wi.wi957:before {
+  content: "\f050";
+}
+.wi.wi958:before {
+  content: "\f050";
+}
+.wi.wi959:before {
+  content: "\f073";
+}
+.wi.wi960:before {
+  content: "\f073";
+}
+.wi.wi961:before {
+  content: "\f073";
+}
+.wi.wi962:before {
+  content: "\f073";
+}
