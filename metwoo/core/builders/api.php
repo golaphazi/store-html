@@ -9,7 +9,7 @@ Class Api extends \MetWoo\Base\Api{
         $this->param  = "/(?P<id>\d+)";
     }
 
-    public function post_update(){
+    public function post_add(){
         $form_id = $this->request['id'];
 
         $form_setting = $this->request->get_params();
@@ -17,9 +17,8 @@ Class Api extends \MetWoo\Base\Api{
         return Action::instance()->store($form_id, $form_setting);
     }
 
-    public function get_get(){
+    public function get_getdata(){
         $post_id = $this->request['id'];
-
         return Action::instance()->get_all_data($post_id);
     }
 

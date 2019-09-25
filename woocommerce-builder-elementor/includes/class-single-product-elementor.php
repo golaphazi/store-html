@@ -28,9 +28,10 @@ class DTWCBE_Single_Product_Elementor{
 		add_filter( 'post_class', array($this, 'post_class') );
 		
 		// Get template loader default file for content product in the single-product.php template
-		add_filter( 'template_include', array( $this, 'get_single_product_template_loader' ),999999 );
+		//add_filter( 'template_include', array( $this, 'get_single_product_template_loader' ),999999 );
 		// Custom product page
-		add_action('template_redirect', array($this, 'get_register_single_product_template'), 999999);
+		//add_action('template_redirect', array($this, 'get_register_single_product_template'), 999999);
+		
 		add_filter('wc_get_template_part', array($this, 'wc_get_template_part'), 99, 3);
 		
 		add_action('dtwcbe_product_elementor', array($this, 'the_product_page_content'));

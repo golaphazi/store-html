@@ -166,7 +166,7 @@ class Notice {
 	 */
 	public static function markup( $notice = [] ) {
 		?>
-		<div id="<?php echo esc_attr( $notice['id'] ); ?>" class="<?php echo esc_attr( $notice['classes'] ); ?>" <?php echo Util::render($notice['data']); ?>>
+		<div id="<?php echo esc_attr( $notice['id'] ); ?>" class="<?php echo esc_attr( $notice['classes'] ); ?>" <?php echo Helper::render($notice['data']); ?>>
 			<p>
 				<?php echo Helper::kses($notice['message']); ?>
 			</p>

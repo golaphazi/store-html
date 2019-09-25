@@ -1,43 +1,50 @@
 <?php
 namespace MetWoo\Core\Builders;
 defined( 'ABSPATH' ) || exit;
-
+/**
+ * Cpt Class.
+ * Cpt class for custom post type of Builders.
+ * @extend Inherite class \MetWoo\Base\Cpt Abstract Class
+ *
+ * @since 1.0.0
+ */
 Class Cpt extends \MetWoo\Base\Cpt{
 
-
+    // set custom post type name
     public function get_name(){
-        return 'metwoo-temp';
+        return 'metwoo-form';
     }
 
+    // set custom post type options data
     public function post_type()
     {
         $labels = array(
-            'name'                  => esc_html_x( 'Forms', 'Post Type General Name', 'metwoo' ),
-            'singular_name'         => esc_html_x( 'Form', 'Post Type Singular Name', 'metwoo' ),
-            'menu_name'             => esc_html__( 'Form', 'metwoo' ),
-            'name_admin_bar'        => esc_html__( 'Form', 'metwoo' ),
-            'archives'              => esc_html__( 'Form Archives', 'metwoo' ),
-            'attributes'            => esc_html__( 'Form Attributes', 'metwoo' ),
+            'name'                  => esc_html_x( 'Templates', 'Post Type General Name', 'metwoo' ),
+            'singular_name'         => esc_html_x( 'Template', 'Post Type Singular Name', 'metwoo' ),
+            'menu_name'             => esc_html__( 'Template', 'metwoo' ),
+            'name_admin_bar'        => esc_html__( 'Template', 'metwoo' ),
+            'archives'              => esc_html__( 'Template Archives', 'metwoo' ),
+            'attributes'            => esc_html__( 'Template Attributes', 'metwoo' ),
             'parent_item_colon'     => esc_html__( 'Parent Item:', 'metwoo' ),
-            'all_items'             => esc_html__( 'Forms', 'metwoo' ),
-            'add_new_item'          => esc_html__( 'Add New Form', 'metwoo' ),
+            'all_items'             => esc_html__( 'Templates', 'metwoo' ),
+            'add_new_item'          => esc_html__( 'Add New Template', 'metwoo' ),
             'add_new'               => esc_html__( 'Add New', 'metwoo' ),
-            'new_item'              => esc_html__( 'New Form', 'metwoo' ),
-            'edit_item'             => esc_html__( 'Edit Form', 'metwoo' ),
-            'update_item'           => esc_html__( 'Update Form', 'metwoo' ),
-            'view_item'             => esc_html__( 'View Form', 'metwoo' ),
-            'view_items'            => esc_html__( 'View Forms', 'metwoo' ),
-            'search_items'          => esc_html__( 'Search Forms', 'metwoo' ),
+            'new_item'              => esc_html__( 'New Template', 'metwoo' ),
+            'edit_item'             => esc_html__( 'Edit Template', 'metwoo' ),
+            'update_item'           => esc_html__( 'Update Template', 'metwoo' ),
+            'view_item'             => esc_html__( 'View Template', 'metwoo' ),
+            'view_items'            => esc_html__( 'View Templates', 'metwoo' ),
+            'search_items'          => esc_html__( 'Search Templates', 'metwoo' ),
             'not_found'             => esc_html__( 'Not found', 'metwoo' ),
             'not_found_in_trash'    => esc_html__( 'Not found in Trash', 'metwoo' ),
             'featured_image'        => esc_html__( 'Featured Image', 'metwoo' ),
             'set_featured_image'    => esc_html__( 'Set featured image', 'metwoo' ),
             'remove_featured_image' => esc_html__( 'Remove featured image', 'metwoo' ),
             'use_featured_image'    => esc_html__( 'Use as featured image', 'metwoo' ),
-            'insert_into_item'      => esc_html__( 'Insert into form', 'metwoo' ),
-            'uploaded_to_this_item' => esc_html__( 'Uploaded to this form', 'metwoo' ),
-            'items_list'            => esc_html__( 'Forms list', 'metwoo' ),
-            'items_list_navigation' => esc_html__( 'Forms list navigation', 'metwoo' ),
+            'insert_into_item'      => esc_html__( 'Insert into Template', 'metwoo' ),
+            'uploaded_to_this_item' => esc_html__( 'Uploaded to this Template', 'metwoo' ),
+            'items_list'            => esc_html__( 'Templates list', 'metwoo' ),
+            'items_list_navigation' => esc_html__( 'Templates list navigation', 'metwoo' ),
             'filter_items_list'     => esc_html__( 'Filter froms list', 'metwoo' ),
         );
         $rewrite = array(
@@ -47,8 +54,8 @@ Class Cpt extends \MetWoo\Base\Cpt{
             'feeds'                 => false,
         );
         $args = array(
-            'label'                 => esc_html__( 'Forms', 'metwoo' ),
-            'description'           => esc_html__( 'metform form', 'metwoo' ),
+            'label'                 => esc_html__( 'Templates', 'metwoo' ),
+            'description'           => esc_html__( 'Metwoo Template', 'metwoo' ),
             'labels'                => $labels,
             'supports'              => array( 'title', 'editor', 'elementor', 'permalink' ),
             'hierarchical'          => true,
@@ -75,6 +82,7 @@ Class Cpt extends \MetWoo\Base\Cpt{
 
     }
 
+    // Operation custom post type
     public function flush_rewrites() {
         $name = $this->get_name();
         $args = $this->post_type();
