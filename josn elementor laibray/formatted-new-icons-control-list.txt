@@ -1,0 +1,118 @@
+elementskit-icon-box,ekit_icon_box_header_icon,icon icon-review,ekiticons,ekit_icon_box_header_icons
+elementskit-icon-box,ekit_icon_box_water_mark_icon,icon icon-review,ekiticons,ekit_icon_box_water_mark_icons
+elementskit-icon-box,ekit_icon_box_icon,,,ekit_icon_box_icons
+
+elementskit-accordion,ekit_accordion_left_icon,icon icon-down-arrow1,ekiticons,ekit_accordion_left_icons
+elementskit-accordion,ekit_accordion_left_icon_active,icon icon-up-arrow1,ekiticons,ekit_accordion_left_icon_actives
+elementskit-accordion,ekit_accordion_right_icon,icon icon-down-arrow1,ekiticons,ekit_accordion_right_icons
+elementskit-accordion,ekit_accordion_right_icon_active,icon icon-up-arrow1,ekiticons,ekit_accordion_right_icon_actives
+
+elementskit-advance-accordion,ekit_accordion_left_icon,icon icon-down-arrow1,ekiticons,ekit_accordion_left_icons
+elementskit-advance-accordion,ekit_accordion_left_icon_active,icon icon-up-arrow1,ekiticons,ekit_accordion_left_icons_active
+elementskit-advance-accordion,ekit_accordion_right_icon,icon icon-down-arrow1,ekiticons,ekit_accordion_right_icons
+elementskit-advance-accordion,ekit_accordion_right_icon_active,icon icon-up-arrow1,ekiticons,ekit_accordion_right_icons_active
+
+elementskit-tab,ekit_tab_items,,,ekit_tab_items
+elementskit-tab,ekit_tab_title_icon,icon icon-earth,ekiticons,ekit_tab_title_icons
+
+elementskit-blog-posts,ekit_blog_posts_meta_author_icon,icon icon-user,ekiticons,ekit_blog_posts_meta_author_icons
+elementskit-blog-posts,ekit_blog_posts_meta_date_icon,icon icon-calendar3,ekiticons,ekit_blog_posts_meta_date_icons
+elementskit-blog-posts,ekit_blog_posts_meta_category_icon,icon icon-folder,ekiticons,ekit_blog_posts_meta_category_icons
+elementskit-blog-posts,ekit_blog_posts_meta_comment_icon,icon icon-comment,ekiticons,ekit_blog_posts_meta_comment_icons
+elementskit-blog-posts,ekit_blog_posts_btn_icon,,,ekit_blog_posts_btn_icons
+
+elementskit-button,ekit_btn_icon,,,ekit_btn_icons
+
+elementskit-category-list,icon_list,,,icon_list
+elementskit-category-list,icon,fas fa-check,fa-solid,icons
+
+elementskit-client-logo,ekit_client_logo_left_arrow,icon icon-left-arrow2,ekiticons,ekit_client_logo_left_arrow_icon
+elementskit-client-logo,ekit_client_logo_right_arrow,icon icon-right-arrow2,ekiticons,ekit_client_logo_right_arrow_icon
+
+elementskit-creative-button,ekit_btn_icon,,,ekit_btn_icons
+
+elementskit-dual-button,ekit_button_one_icon,,,ekit_button_one_icons
+elementskit-dual-button,ekit_button_two_icon,,,ekit_button_two_icons
+
+elementskit-funfact,ekit_funfact_icon,fab fa-amazon,brands,ekit_funfact_icons
+
+elementskit-gallery,ekit_gallery_link_icon,icon icon-plus-circle,ekiticons,ekit_gallery_link_icons
+
+elementskit-header-info,ekit_headerinfo_icon,icon icon-facebook,ekiticons,ekit_headerinfo_icons
+
+elementskit-header-offcanvas,ekit_offcanvas_menu_icon,icon icon-burger-menu,ekiticons,ekit_offcanvas_menu_icons
+elementskit-header-offcanvas,ekit_offcanvas_menu_close_icon,fas fa-times,fa-solid,ekit_offcanvas_menu_close_icons
+
+elementskit-header-search,ekit_search_icon,icon icon-search,ekiticons,ekit_search_icons
+
+elementskit-image-accordion,ekit_img_accordion_items,,,ekit_img_accordion_items
+elementskit-image-accordion,ekit_img_accordion_title_icon,,,ekit_img_accordion_title_icons
+elementskit-image-accordion,ekit_img_accordion_pup_up_icon,icon icon-plus,ekiticons,ekit_img_accordion_pup_up_icons
+elementskit-image-accordion,ekit_img_accordion_project_link_icon,icon icon icon-link,ekiticons,ekit_img_accordion_project_link_icons
+
+elementskit-image-box,ekit_image_box_front_title_icon,icon icon-review,ekiticons,ekit_image_box_front_title_icons
+elementskit-image-box,ekit_image_box_icon,,,ekit_image_box_icons
+
+elementskit-mail-chimp,ekit_mail_chimp_first_name_icon,icon icon-user,ekiticons,ekit_mail_chimp_first_name_icons
+elementskit-mail-chimp,ekit_mail_chimp_last_name_icon,icon icon-user,ekiticons,ekit_mail_chimp_last_name_icons
+elementskit-mail-chimp,ekit_mail_chimp_phone_icon,icon icon-phone-handset,ekiticons,ekit_mail_chimp_phone_icons
+elementskit-mail-chimp,ekit_mail_chimp_email_icon,icon icon-envelope,ekiticons,ekit_mail_chimp_email_icons
+elementskit-mail-chimp,ekit_mail_chimp_submit_icon,icon icon-tick,ekiticons,ekit_mail_chimp_submit_icons
+
+elementskit-page-list,icon_list,,,icon_list
+elementskit-page-list,icon,fas fa-check,fa-solid,icons
+
+elementskit-piechart,ekit_piechart_icon,icon icon-apartment,ekiticons,ekit_piechart_icons
+
+elementskit-post-list,icon,fas fa-check,fa-solid,icons
+elementskit-post-list,date_meta__icon,icon icon-calendar-page-empty,ekiticons,date_meta__icons
+elementskit-post-list,category_meta__icon,icon icon-folder,ekiticons,category_meta__icons
+
+elementskit-pricing,ekit_pricing_icon,fab fa-amazon,brands,ekit_pricing_icons
+elementskit-pricing,ekit_pricing_table_content_repeater,,,ekit_pricing_table_content_repeater
+elementskit-pricing,ekit_pricing_check_icon,,,ekit_pricing_check_icons
+elementskit-pricing,ekit_pricing_btn_icon,,,ekit_pricing_btn_icons
+
+elementskit-progressbar,ekit_progressbar_icon,icon icon-arrow-right,ekiticons,ekit_progressbar_icons
+
+elementskit-social-media,ekit_socialmedia_add_icons,,,ekit_socialmedia_add_icons
+elementskit-social-media,ekit_socialmedia_icon,icon icon-facebook,ekiticons,ekit_socialmedia_icons
+
+elementskit-social-share,ekit_socialshare_add_icons,,,ekit_socialshare_add_icons
+elementskit-social-share,ekit_socialshare_icon,icon icon-facebook,ekiticons,ekit_socialshare_icons
+
+elementskit-simple-tab,ekit_tab_items,,,ekit_tab_items
+elementskit-simple-tab,ekit_tab_title_icon,icon icon-earth,ekiticons,ekit_tab_title_icons
+
+elementskit-table,ekit_table_build_header,,,ekit_table_build_header
+elementskit-table,cell_icon,,,cell_icons
+elementskit-table,table_body_content,,,table_body_content
+elementskit-table,body_cell_icon,,,body_cell_icons
+elementskit-table,ekit_table_navigation_prev_arrow,icon icon-arrow-left,ekiticons,ekit_table_navigation_prev_arrows
+elementskit-table,ekit_table_navigation_next_arrow,icon icon-arrow-right,ekiticons,ekit_table_navigation_next_arrows
+
+elementskit-team,ekit_team_top_icon,icon icon-team1,ekiticons,ekit_team_top_icons
+elementskit-team,ekit_team_social_icons,,,ekit_team_social_icons
+elementskit-team,ekit_team_icon,icon icon-facebook,ekiticons,ekit_team_icons
+elementskit-team,ekit_team_close_icon_change,fas fa-times,fa-solid,ekit_team_close_icon_changes
+
+elementskit-testimonial,ekit_testimonial_wartermark,icon icon-quote1,ekiticons,ekit_testimonial_wartermarks
+elementskit-testimonial,ekit_testimonial_left_arrow,icon icon-left-arrow2,ekiticons,ekit_testimonial_left_arrows
+elementskit-testimonial,ekit_testimonial_right_arrow,icon icon-right-arrow2,ekiticons,ekit_testimonial_right_arrows
+
+elementskit-timeline,ekit_timelinehr_content_repeater,,,ekit_timelinehr_content_repeater
+elementskit-timeline,ekit_timeline_title_icon,icon icon-trophy,ekiticons,ekit_timeline_title_icons
+elementskit-timeline,ekit_timeline_date_icon,,,ekit_timeline_date_icons
+elementskit-timeline,ekit_timelinehr_address_icon,,,ekit_timelinehr_address_icons
+elementskit-timeline,ekit_timelinehr_bg_icon,icon icon-trophy,ekiticons,ekit_timelinehr_bg_icons
+elementskit-timeline,ekit_timeline_icon,icon icon-star1,ekiticons,ekit_timeline_icons
+
+elementskit-video,ekit_video_popup_button_icon,icon icon-play,ekiticons,ekit_video_popup_button_icons
+
+elementskit-woo-mini-cart,ekit_woo_mini_cart_icon,icon icon-cart2,ekiticons,ekit_woo_mini_cart_icons
+
+elementskit-woo-product-carousel,ekit_tab_cart_icon,icon icon-cart2,ekiticons,ekit_tab_cart_icons
+elementskit-woo-product-carousel,ekit_arrows_prev_icon,fas fa-angle-left,fa-solid,ekit_arrows_prev_icons
+elementskit-woo-product-carousel,ekit_arrows_next_icon,fas fa-angle-right,fa-solid,ekit_arrows_next_icons
+
+elementskit-woo-product-list,ekit_tab_cart_icon,icon icon-cart2,ekiticons,ekit_tab_cart_icons
